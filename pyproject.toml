@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "rt-popular"
+version = "1.0.0"
+description = "Scrapes a list of popular movies from Rotten Tomatoes."
+authors = ["Jonas Stendahl <jonas@stendahl.me>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "rt_popular"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+tmdbv3api = "^1.7.6"
+requests = "^2.26.0"
+beautifulsoup4 = "^4.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
