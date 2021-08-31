@@ -19,6 +19,7 @@ jobs:
         with:
           poetry-version: 1.2.0a2
       - run: mkdir public
+      - run: poetry install
       - run: poetry run python main.py > public/movies.json
         env:
             TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
