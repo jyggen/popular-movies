@@ -72,7 +72,7 @@ def generate():
             "poster_url": f"https://image.tmdb.org/t/p/w500{movie.poster_path}",
         })
 
-    result = sorted(result, key=lambda x: x['imdb_id'])
+    result = sorted(result, key=lambda x: x['title'])
 
     print(json.dumps(result, indent=4))
 
