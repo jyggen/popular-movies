@@ -37,7 +37,12 @@ def generate():
                     match = option
                     continue
 
-                if match.release_date != '' and option.release_date != '':
+                if (
+                    hasattr(match, 'release_date') and
+                    match.release_date != '' and
+                    hasattr(option, 'release_date') and
+                    option.release_date != ''
+                ):
                     match_date = date.fromisoformat(match.release_date)
                     option_date = date.fromisoformat(option.release_date)
 
