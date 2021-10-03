@@ -5,54 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg"
     },
     {
-        "title": "CODA",
-        "imdb_id": "tt10366460",
-        "poster_url": "https://image.tmdb.org/t/p/w500/BzVjmm8l23rPsijLiNLUzuQtyd.jpg"
-    },
-    {
         "title": "Candyman",
         "imdb_id": "tt9347730",
         "poster_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
     },
     {
-        "title": "Cinderella",
-        "imdb_id": "tt10155932",
-        "poster_url": "https://image.tmdb.org/t/p/w500/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg"
-    },
-    {
-        "title": "Copshop",
-        "imdb_id": "tt5748448",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Se3AIepFRZ4VUaaDosADs8WMX5.jpg"
-    },
-    {
-        "title": "Cruella",
-        "imdb_id": "tt3228774",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg"
-    },
-    {
-        "title": "Cry Macho",
-        "imdb_id": "tt1924245",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wqaaWAlXgLNGdAemU7wNvFZ70hr.jpg"
-    },
-    {
-        "title": "Dear Evan Hansen",
-        "imdb_id": "tt9357050",
-        "poster_url": "https://image.tmdb.org/t/p/w500/83pobg0tx4r4JeLenCAemanpnS2.jpg"
-    },
-    {
-        "title": "East of the Mountains",
-        "imdb_id": "tt9038678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xvBniPQeceWQrYyimyNuPjQEbay.jpg"
-    },
-    {
         "title": "Free Guy",
         "imdb_id": "tt6264654",
         "poster_url": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
-    },
-    {
-        "title": "I'm Your Man",
-        "imdb_id": "tt13087796",
-        "poster_url": "https://image.tmdb.org/t/p/w500/v13p6KlgD7Y1Tas6X8GLJzv5zRe.jpg"
     },
     {
         "title": "Kate",
@@ -80,73 +40,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vclShucpUmPhdAOmKgf3B3Z4POD.jpg"
     },
     {
-        "title": "Pig",
-        "imdb_id": "tt11003218",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg"
-    },
-    {
-        "title": "Prisoners of the Ghostland",
-        "imdb_id": "tt6372694",
-        "poster_url": "https://image.tmdb.org/t/p/w500/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg"
-    },
-    {
-        "title": "Promising Young Woman",
-        "imdb_id": "tt9620292",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hNPwomKbMyOPXqPDqkfz34mK19p.jpg"
-    },
-    {
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
         "poster_url": "https://image.tmdb.org/t/p/w500/xeItgLK9qcafxbd8kYgv7XnMEog.jpg"
     },
     {
-        "title": "The Card Counter",
-        "imdb_id": "tt11196036",
-        "poster_url": "https://image.tmdb.org/t/p/w500/60AQOrByV9vDCqy6nt4eOroRild.jpg"
-    },
-    {
-        "title": "The Eyes of Tammy Faye",
-        "imdb_id": "tt9115530",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg"
-    },
-    {
-        "title": "The Father Who Moves Mountains",
-        "imdb_id": "tt8886670",
-        "poster_url": "https://image.tmdb.org/t/p/w500/htIK4y0O748QIFGG0d4WOz3J7S8.jpg"
-    },
-    {
-        "title": "The Green Knight",
-        "imdb_id": "tt9243804",
-        "poster_url": "https://image.tmdb.org/t/p/w500/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
-    },
-    {
-        "title": "The Guilty",
-        "imdb_id": "tt9421570",
-        "poster_url": "https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg"
-    },
-    {
-        "title": "The Night House",
-        "imdb_id": "tt9731534",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qxGRdNeWKQcMg6jJduTthsiBbsd.jpg"
-    },
-    {
-        "title": "The Starling",
-        "imdb_id": "tt5164438",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg"
-    },
-    {
         "title": "The Suicide Squad",
         "imdb_id": "tt6334354",
         "poster_url": "https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg"
-    },
-    {
-        "title": "Venom",
-        "imdb_id": "tt1270797",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
-    },
-    {
-        "title": "Worth",
-        "imdb_id": "tt8009744",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg"
     }
 ]
