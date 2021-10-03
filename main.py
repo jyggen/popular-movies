@@ -103,7 +103,7 @@ def generate():
         raise ValueError("Unable to find 30 unique movies")
 
     movies = filter(_filter_by_release_date, movies)
-    movies = sorted(movies, key=lambda x: x["popularity"], reverse=True)[0:10]
+    movies = sorted(movies, key=lambda x: x["popularity"], reverse=True)[0:12]
     movies = _to_steven_lu_format(movies)
     movies = sorted(list(movies), key=lambda x: x["title"])
 
