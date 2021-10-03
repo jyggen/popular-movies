@@ -52,7 +52,7 @@ Discover the top, most popular movies available now! Across theaters, streaming,
 <script type="text/javascript">
     $(document).ready(function() {
       var posterTemplate = Handlebars.compile($('#poster-template').html());
-      var movies = $.get('https://jyggen.github.io/rt-popular/movies.json', function(data) {
+      var movies = $.get('movies.json', function(data) {
         var currentRow, i;
         for (i = 0; i < data.length; i++) {
           var movie = data[i];
