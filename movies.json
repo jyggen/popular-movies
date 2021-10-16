@@ -1,10 +1,5 @@
 [
     {
-        "title": "Candyman",
-        "imdb_id": "tt9347730",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
-    },
-    {
         "title": "Free Guy",
         "imdb_id": "tt6264654",
         "poster_url": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
@@ -13,6 +8,11 @@
         "title": "Malignant",
         "imdb_id": "tt3811906",
         "poster_url": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg"
+    },
+    {
+        "title": "Muppets Haunted Mansion",
+        "imdb_id": "tt14602326",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
     },
     {
         "title": "No One Gets Out Alive",
