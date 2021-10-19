@@ -1,8 +1,18 @@
 [
     {
+        "title": "Candyman",
+        "imdb_id": "tt9347730",
+        "poster_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
+    },
+    {
         "title": "Free Guy",
         "imdb_id": "tt6264654",
         "poster_url": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+    },
+    {
+        "title": "Halloween Kills",
+        "imdb_id": "tt10665338",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5zPNs90yGHKdKadN2Bz32Pug8jY.jpg"
     },
     {
         "title": "Malignant",
@@ -13,11 +23,6 @@
         "title": "Muppets Haunted Mansion",
         "imdb_id": "tt14602326",
         "poster_url": "https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
-    },
-    {
-        "title": "No One Gets Out Alive",
-        "imdb_id": "tt13056008",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg"
     },
     {
         "title": "No Time to Die",
@@ -35,19 +40,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
     },
     {
-        "title": "The Addams Family 2",
-        "imdb_id": "tt11125620",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xYLBgw7dHyEqmcrSk2Sq3asuSq5.jpg"
+        "title": "The Guilty",
+        "imdb_id": "tt9421570",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg"
     },
     {
         "title": "The Many Saints of Newark",
         "imdb_id": "tt8110232",
         "poster_url": "https://image.tmdb.org/t/p/w500/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg"
-    },
-    {
-        "title": "The Suicide Squad",
-        "imdb_id": "tt6334354",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg"
     },
     {
         "title": "There's Someone Inside Your House",
