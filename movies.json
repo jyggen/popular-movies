@@ -12,7 +12,7 @@
     {
         "title": "Halloween Kills",
         "imdb_id": "tt10665338",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5zPNs90yGHKdKadN2Bz32Pug8jY.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/qmJGd5IfURq8iPQ9KF3les47vFS.jpg"
     },
     {
         "title": "Malignant",
@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
     },
     {
-        "title": "Old",
-        "imdb_id": "tt10954652",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vclShucpUmPhdAOmKgf3B3Z4POD.jpg"
-    },
-    {
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
         "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
@@ -43,6 +38,11 @@
         "title": "The Guilty",
         "imdb_id": "tt9421570",
         "poster_url": "https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg"
+    },
+    {
+        "title": "The Last Duel",
+        "imdb_id": "tt4244994",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
     },
     {
         "title": "The Many Saints of Newark",
