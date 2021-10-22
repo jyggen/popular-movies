@@ -88,7 +88,6 @@ def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
         if not title:
             continue
 
-        print(movie.find(class_='start-year').text)
         year = int(movie.find(class_='start-year').text[1:5])
 
         yield title, year
