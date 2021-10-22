@@ -84,6 +84,11 @@ def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
 
     for movie in body.select('.article_movie_title h2'):
         title = movie.find('a').text.encode('iso-8859-1').decode('utf8')
+
+        if not title:
+            continue
+
+        print(movie.find(class_='start-year').text)
         year = int(movie.find(class_='start-year').text[1:5])
 
         yield title, year
@@ -107,9 +112,6 @@ def _generate():
         _find_movie_by_title_year(title, year)
         for title, year in _get_rotten_tomatoes_movies()
     }
-
-    if len(movies) != 30:
-        raise ValueError('Unable to find 30 unique movies')
 
     movies = filter(_filter_by_release_date, movies)
     movies = sorted(movies, key=lambda movie: movie['popularity'], reverse=True)
