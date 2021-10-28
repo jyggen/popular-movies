@@ -8,7 +8,7 @@ on:
       - 'main'
 
 jobs:
-  ci:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -23,6 +23,7 @@ jobs:
       - run: poetry run python main.py > public/movies.json
         env:
             TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+            TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
       - uses: crazy-max/ghaction-github-status@v2
         with:
