@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
     },
     {
+        "title": "Cry Macho",
+        "imdb_id": "tt1924245",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wqaaWAlXgLNGdAemU7wNvFZ70hr.jpg"
+    },
+    {
         "title": "Free Guy",
         "imdb_id": "tt6264654",
         "poster_url": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
@@ -33,11 +38,6 @@
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
         "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
-    },
-    {
-        "title": "The Guilty",
-        "imdb_id": "tt9421570",
-        "poster_url": "https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg"
     },
     {
         "title": "The Last Duel",
