@@ -5,9 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
     },
     {
-        "title": "Cry Macho",
-        "imdb_id": "tt1924245",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wqaaWAlXgLNGdAemU7wNvFZ70hr.jpg"
+        "title": "Dune",
+        "imdb_id": "tt1160419",
+        "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
     },
     {
         "title": "Free Guy",
@@ -25,14 +25,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg"
     },
     {
-        "title": "Muppets Haunted Mansion",
-        "imdb_id": "tt14602326",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
+        "title": "Night Teeth",
+        "imdb_id": "tt10763820",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
     },
     {
         "title": "No Time to Die",
         "imdb_id": "tt2382320",
         "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+    },
+    {
+        "title": "Ron's Gone Wrong",
+        "imdb_id": "tt7504818",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gA9QxSravC2EVEkEKgyEmDrfL0e.jpg"
     },
     {
         "title": "Shang-Chi and the Legend of the Ten Rings",
@@ -48,11 +53,6 @@
         "title": "The Many Saints of Newark",
         "imdb_id": "tt8110232",
         "poster_url": "https://image.tmdb.org/t/p/w500/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg"
-    },
-    {
-        "title": "There's Someone Inside Your House",
-        "imdb_id": "tt8150814",
-        "poster_url": "https://image.tmdb.org/t/p/w500/GaPJQscaH4MtYQTbJyWjCUIho8.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
