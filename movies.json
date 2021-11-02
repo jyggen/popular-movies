@@ -25,6 +25,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg"
     },
     {
+        "title": "My Hero Academia: World Heroes' Mission",
+        "imdb_id": "tt13544716",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4NUzcKtYPKkfTwKsLjwNt8nRIXV.jpg"
+    },
+    {
         "title": "Night Teeth",
         "imdb_id": "tt10763820",
         "poster_url": "https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
@@ -43,11 +48,6 @@
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
         "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
-    },
-    {
-        "title": "The Last Duel",
-        "imdb_id": "tt4244994",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
     },
     {
         "title": "The Many Saints of Newark",
