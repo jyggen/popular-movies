@@ -10,9 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
     },
     {
-        "title": "Free Guy",
-        "imdb_id": "tt6264654",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+        "title": "Eternals",
+        "imdb_id": "tt9032400",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
+    },
+    {
+        "title": "Finch",
+        "imdb_id": "tt3420504",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg"
     },
     {
         "title": "Halloween Kills",
@@ -25,19 +30,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
     },
     {
-        "title": "Malignant",
-        "imdb_id": "tt3811906",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg"
-    },
-    {
-        "title": "Night Teeth",
-        "imdb_id": "tt10763820",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+        "title": "Love Hard",
+        "imdb_id": "tt10752004",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg"
     },
     {
         "title": "No Time to Die",
         "imdb_id": "tt2382320",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg"
+    },
+    {
+        "title": "Red Notice",
+        "imdb_id": "tt7991608",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg"
     },
     {
         "title": "Ron's Gone Wrong",
@@ -48,11 +53,6 @@
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
         "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
-    },
-    {
-        "title": "The Many Saints of Newark",
-        "imdb_id": "tt8110232",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oK25ohM3qndhEoth3bP1CZeaVEN.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
