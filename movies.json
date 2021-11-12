@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
     },
     {
-        "title": "Love Hard",
-        "imdb_id": "tt10752004",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg"
-    },
-    {
         "title": "No Time to Die",
         "imdb_id": "tt2382320",
         "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
@@ -52,7 +47,12 @@
     {
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "imdb_id": "tt9376612",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/xeItgLK9qcafxbd8kYgv7XnMEog.jpg"
+    },
+    {
+        "title": "The Harder They Fall",
+        "imdb_id": "tt10696784",
+        "poster_url": "https://image.tmdb.org/t/p/w500/19VaTIO5e9MfoXxIMALaEaiGAIN.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
