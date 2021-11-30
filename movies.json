@@ -1,18 +1,18 @@
 [
     {
-        "title": "Clifford the Big Red Dog",
-        "imdb_id": "tt2397461",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ogkqbuLKHrH9pqcGaiQ39TVj3E4.jpg"
-    },
-    {
         "title": "Dune",
         "imdb_id": "tt1160419",
         "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
     },
     {
+        "title": "Encanto",
+        "imdb_id": "tt2953050",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
+    },
+    {
         "title": "Eternals",
         "imdb_id": "tt9032400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/4DiJQ1mBp4ztoznZADIrPg69v46.jpg"
     },
     {
         "title": "Finch",
@@ -23,11 +23,6 @@
         "title": "Ghostbusters: Afterlife",
         "imdb_id": "tt4513678",
         "poster_url": "https://image.tmdb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg"
-    },
-    {
-        "title": "Home Sweet Home Alone",
-        "imdb_id": "tt11012066",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
     },
     {
         "title": "Last Night in Soho",
@@ -43,6 +38,11 @@
         "title": "Red Notice",
         "imdb_id": "tt7991608",
         "poster_url": "https://image.tmdb.org/t/p/w500/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg"
+    },
+    {
+        "title": "Resident Evil: Welcome to Raccoon City",
+        "imdb_id": "tt6920084",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg"
     },
     {
         "title": "Shang-Chi and the Legend of the Ten Rings",
