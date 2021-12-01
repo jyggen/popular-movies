@@ -12,7 +12,7 @@
     {
         "title": "Eternals",
         "imdb_id": "tt9032400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4DiJQ1mBp4ztoznZADIrPg69v46.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
     },
     {
         "title": "Finch",
@@ -45,11 +45,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg"
     },
     {
-        "title": "Shang-Chi and the Legend of the Ten Rings",
-        "imdb_id": "tt9376612",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
-    },
-    {
         "title": "The Harder They Fall",
         "imdb_id": "tt10696784",
         "poster_url": "https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
@@ -58,5 +53,10 @@
         "title": "Venom: Let There Be Carnage",
         "imdb_id": "tt7097896",
         "poster_url": "https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
+    },
+    {
+        "title": "tick, tick...BOOM!",
+        "imdb_id": "tt8721424",
+        "poster_url": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     }
 ]
