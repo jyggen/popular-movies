@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bruised",
+        "imdb_id": "tt8310474",
+        "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+    },
+    {
         "title": "Dune",
         "imdb_id": "tt1160419",
         "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
@@ -27,7 +32,7 @@
     {
         "title": "Last Night in Soho",
         "imdb_id": "tt9639470",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5iGVofFc0mCr8aJYsVICm42ThIu.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1qamhFbRGHicXz7hAzcsOnKVyFL.jpg"
     },
     {
         "title": "No Time to Die",
@@ -53,10 +58,5 @@
         "title": "Venom: Let There Be Carnage",
         "imdb_id": "tt7097896",
         "poster_url": "https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
-    },
-    {
-        "title": "tick, tick...BOOM!",
-        "imdb_id": "tt8721424",
-        "poster_url": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     }
 ]
