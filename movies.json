@@ -1,5 +1,10 @@
 [
     {
+        "title": "8-Bit Christmas",
+        "imdb_id": "tt11540284",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wlh2wY2yC2SkwAdjcMRH4oiw04V.jpg"
+    },
+    {
         "title": "Bruised",
         "imdb_id": "tt8310474",
         "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
@@ -23,11 +28,6 @@
         "title": "Finch",
         "imdb_id": "tt3420504",
         "poster_url": "https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg"
-    },
-    {
-        "title": "Ghostbusters: Afterlife",
-        "imdb_id": "tt4513678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg"
     },
     {
         "title": "Last Night in Soho",
