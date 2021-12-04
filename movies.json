@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wlh2wY2yC2SkwAdjcMRH4oiw04V.jpg"
     },
     {
-        "title": "Bruised",
-        "imdb_id": "tt8310474",
-        "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
-    },
-    {
         "title": "Dune",
         "imdb_id": "tt1160419",
         "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
@@ -53,6 +48,11 @@
         "title": "The Harder They Fall",
         "imdb_id": "tt10696784",
         "poster_url": "https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
+    },
+    {
+        "title": "The Last Duel",
+        "imdb_id": "tt4244994",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
