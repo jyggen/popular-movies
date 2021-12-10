@@ -1,8 +1,8 @@
 [
     {
-        "title": "Bruised",
-        "imdb_id": "tt8310474",
-        "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+        "title": "Dune",
+        "imdb_id": "tt1160419",
+        "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
     },
     {
         "title": "Encanto",
@@ -10,14 +10,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
     },
     {
-        "title": "House of Gucci",
-        "imdb_id": "tt11214590",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
+        "title": "Eternals",
+        "imdb_id": "tt9032400",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
     },
     {
-        "title": "King Richard",
-        "imdb_id": "tt9620288",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
+        "title": "Finch",
+        "imdb_id": "tt3420504",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg"
+    },
+    {
+        "title": "Ghostbusters: Afterlife",
+        "imdb_id": "tt4513678",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg"
     },
     {
         "title": "No Time to Die",
@@ -47,16 +52,11 @@
     {
         "title": "The Power of the Dog",
         "imdb_id": "tt10293406",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zWMAdiQGV4V3qCq2z9ku3Dh5q2f.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
         "imdb_id": "tt7097896",
         "poster_url": "https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
-    },
-    {
-        "title": "tick, tick...BOOM!",
-        "imdb_id": "tt8721424",
-        "poster_url": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     }
 ]
