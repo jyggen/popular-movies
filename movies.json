@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bruised",
+        "imdb_id": "tt8310474",
+        "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+    },
+    {
         "title": "Dune",
         "imdb_id": "tt1160419",
         "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
@@ -48,11 +53,6 @@
         "title": "The Last Duel",
         "imdb_id": "tt4244994",
         "poster_url": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
-    },
-    {
-        "title": "The Power of the Dog",
-        "imdb_id": "tt10293406",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
     },
     {
         "title": "Venom: Let There Be Carnage",
