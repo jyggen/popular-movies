@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
     },
     {
-        "title": "Dune",
-        "imdb_id": "tt1160419",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
-    },
-    {
         "title": "Encanto",
         "imdb_id": "tt2953050",
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
@@ -30,6 +25,16 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg"
     },
     {
+        "title": "House of Gucci",
+        "imdb_id": "tt11214590",
+        "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
+    },
+    {
+        "title": "King Richard",
+        "imdb_id": "tt9620288",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
+    },
+    {
         "title": "No Time to Die",
         "imdb_id": "tt2382320",
         "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
@@ -38,11 +43,6 @@
         "title": "Red Notice",
         "imdb_id": "tt7991608",
         "poster_url": "https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"
-    },
-    {
-        "title": "Resident Evil: Welcome to Raccoon City",
-        "imdb_id": "tt6920084",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg"
     },
     {
         "title": "The Harder They Fall",
