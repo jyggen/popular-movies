@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
     },
     {
-        "title": "King Richard",
-        "imdb_id": "tt9620288",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
-    },
-    {
         "title": "No Time to Die",
         "imdb_id": "tt2382320",
         "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
@@ -43,6 +38,11 @@
         "title": "Red Notice",
         "imdb_id": "tt7991608",
         "poster_url": "https://image.tmdb.org/t/p/w500/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg"
+    },
+    {
+        "title": "Resident Evil: Welcome to Raccoon City",
+        "imdb_id": "tt6920084",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg"
     },
     {
         "title": "The Harder They Fall",
