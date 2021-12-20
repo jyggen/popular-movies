@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bruised",
-        "imdb_id": "tt8310474",
-        "poster_url": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
-    },
-    {
         "title": "Encanto",
         "imdb_id": "tt2953050",
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
@@ -28,6 +23,11 @@
         "title": "House of Gucci",
         "imdb_id": "tt11214590",
         "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
+    },
+    {
+        "title": "King Richard",
+        "imdb_id": "tt9620288",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
     },
     {
         "title": "No Time to Die",
