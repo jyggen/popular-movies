@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
     },
     {
-        "title": "King Richard",
-        "imdb_id": "tt9620288",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
-    },
-    {
         "title": "Red Notice",
         "imdb_id": "tt7991608",
         "poster_url": "https://image.tmdb.org/t/p/w500/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg"
@@ -38,6 +33,11 @@
         "title": "Spider-Man: No Way Home",
         "imdb_id": "tt10872600",
         "poster_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+        "title": "Swan Song",
+        "imdb_id": "tt13207508",
+        "poster_url": "https://image.tmdb.org/t/p/w500/y0WW5vX58oMEg9aRRTB5QtG1Vyn.jpg"
     },
     {
         "title": "The French Dispatch",
