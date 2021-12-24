@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg"
     },
     {
-        "title": "House of Gucci",
-        "imdb_id": "tt11214590",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
-    },
-    {
         "title": "Red Notice",
         "imdb_id": "tt7991608",
         "poster_url": "https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"
@@ -43,6 +38,11 @@
         "title": "The French Dispatch",
         "imdb_id": "tt8847712",
         "poster_url": "https://image.tmdb.org/t/p/w500/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg"
+    },
+    {
+        "title": "The Hand of God",
+        "imdb_id": "tt12680684",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kreVxr5moB7K52IGGV1BGAn6nq1.jpg"
     },
     {
         "title": "The Last Duel",
