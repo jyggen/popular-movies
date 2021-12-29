@@ -1,5 +1,10 @@
 [
     {
+        "title": "Don't Look Up",
+        "imdb_id": "tt11286314",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2w4QsuTAF8j8VNqtLj49BbacCGm.jpg"
+    },
+    {
         "title": "Encanto",
         "imdb_id": "tt2953050",
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
@@ -8,11 +13,6 @@
         "title": "Eternals",
         "imdb_id": "tt9032400",
         "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
-    },
-    {
-        "title": "No Time to Die",
-        "imdb_id": "tt2382320",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
     },
     {
         "title": "Resident Evil: Welcome to Raccoon City",
