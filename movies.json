@@ -2,7 +2,7 @@
     {
         "title": "Don't Look Up",
         "imdb_id": "tt11286314",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2w4QsuTAF8j8VNqtLj49BbacCGm.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/9T6ehPb9XzZieuObGOP2KuSFkEC.jpg"
     },
     {
         "title": "Encanto",
@@ -15,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
     },
     {
+        "title": "House of Gucci",
+        "imdb_id": "tt11214590",
+        "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
+    },
+    {
         "title": "Resident Evil: Welcome to Raccoon City",
         "imdb_id": "tt6920084",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3eVpNCMoi3C8lA0F0n2retnwvCK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg"
     },
     {
         "title": "Sing 2",
@@ -35,9 +40,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/y0WW5vX58oMEg9aRRTB5QtG1Vyn.jpg"
     },
     {
-        "title": "The French Dispatch",
-        "imdb_id": "tt8847712",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg"
+        "title": "The King's Man",
+        "imdb_id": "tt6856242",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gJYJyyvvhxxQDBTRfuBYMkvjhjh.jpg"
     },
     {
         "title": "The Last Duel",
@@ -53,10 +58,5 @@
         "title": "The Unforgivable",
         "imdb_id": "tt11233960",
         "poster_url": "https://image.tmdb.org/t/p/w500/gPQM1zqqsm6Lw1tHF41BwbmOkya.jpg"
-    },
-    {
-        "title": "Venom: Let There Be Carnage",
-        "imdb_id": "tt7097896",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
     }
 ]
