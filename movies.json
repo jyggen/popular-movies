@@ -1,8 +1,13 @@
 [
     {
+        "title": "Being the Ricardos",
+        "imdb_id": "tt4995540",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
+    },
+    {
         "title": "Don't Look Up",
         "imdb_id": "tt11286314",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9T6ehPb9XzZieuObGOP2KuSFkEC.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
     },
     {
         "title": "Encanto",
@@ -13,11 +18,6 @@
         "title": "Eternals",
         "imdb_id": "tt9032400",
         "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
-    },
-    {
-        "title": "House of Gucci",
-        "imdb_id": "tt11214590",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg"
     },
     {
         "title": "Resident Evil: Welcome to Raccoon City",
