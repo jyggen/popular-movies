@@ -1,10 +1,5 @@
 [
     {
-        "title": "Being the Ricardos",
-        "imdb_id": "tt4995540",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
-    },
-    {
         "title": "Don't Look Up",
         "imdb_id": "tt11286314",
         "poster_url": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
@@ -20,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
     },
     {
+        "title": "House of Gucci",
+        "imdb_id": "tt11214590",
+        "poster_url": "https://image.tmdb.org/t/p/w500/23KDFPF8Kcnb6L9iUu8MWCIsQY6.jpg"
+    },
+    {
         "title": "Resident Evil: Welcome to Raccoon City",
         "imdb_id": "tt6920084",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6WR7wLCX0PGLhj51qyvK8MIxtT5.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg"
     },
     {
         "title": "Sing 2",
