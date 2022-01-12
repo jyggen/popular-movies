@@ -22,7 +22,7 @@
     {
         "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
         "imdb_id": "tt16116174",
-        "poster_url": "https://image.tmdb.org/t/p/w500/34Xss3gwKdwvtomCDkeC2lW4PVB.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg"
     },
     {
         "title": "Sing 2",
@@ -40,11 +40,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg"
     },
     {
-        "title": "The Last Duel",
-        "imdb_id": "tt4244994",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
-    },
-    {
         "title": "The Lost Daughter",
         "imdb_id": "tt9100054",
         "poster_url": "https://image.tmdb.org/t/p/w500/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg"
@@ -58,5 +53,10 @@
         "title": "The Unforgivable",
         "imdb_id": "tt11233960",
         "poster_url": "https://image.tmdb.org/t/p/w500/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
+    },
+    {
+        "title": "tick, tick\u2026 BOOM!",
+        "imdb_id": "tt8721424",
+        "poster_url": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     }
 ]
