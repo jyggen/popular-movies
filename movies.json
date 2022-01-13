@@ -12,7 +12,7 @@
     {
         "title": "Eternals",
         "imdb_id": "tt9032400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/bula5FrHdhv3NCBcDxV3OlilAjJ.jpg"
     },
     {
         "title": "Ghostbusters: Afterlife",
@@ -23,6 +23,11 @@
         "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
         "imdb_id": "tt16116174",
         "poster_url": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg"
+    },
+    {
+        "title": "House of Gucci",
+        "imdb_id": "tt11214590",
+        "poster_url": "https://image.tmdb.org/t/p/w500/23KDFPF8Kcnb6L9iUu8MWCIsQY6.jpg"
     },
     {
         "title": "Sing 2",
@@ -53,10 +58,5 @@
         "title": "The Unforgivable",
         "imdb_id": "tt11233960",
         "poster_url": "https://image.tmdb.org/t/p/w500/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
-    },
-    {
-        "title": "tick, tick\u2026 BOOM!",
-        "imdb_id": "tt8721424",
-        "poster_url": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
     }
 ]
