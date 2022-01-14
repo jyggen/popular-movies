@@ -12,7 +12,7 @@
     {
         "title": "Eternals",
         "imdb_id": "tt9032400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bula5FrHdhv3NCBcDxV3OlilAjJ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5L7bclqxXtsqsitP83KpkZbgTQ3.jpg"
     },
     {
         "title": "Ghostbusters: Afterlife",
@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/23KDFPF8Kcnb6L9iUu8MWCIsQY6.jpg"
     },
     {
+        "title": "Mother/Android",
+        "imdb_id": "tt13029044",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"
+    },
+    {
         "title": "Sing 2",
         "imdb_id": "tt6467266",
         "poster_url": "https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
@@ -43,11 +48,6 @@
         "title": "The King's Man",
         "imdb_id": "tt6856242",
         "poster_url": "https://image.tmdb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg"
-    },
-    {
-        "title": "The Lost Daughter",
-        "imdb_id": "tt9100054",
-        "poster_url": "https://image.tmdb.org/t/p/w500/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg"
     },
     {
         "title": "The Matrix Resurrections",
