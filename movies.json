@@ -25,11 +25,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg"
     },
     {
-        "title": "House of Gucci",
-        "imdb_id": "tt11214590",
-        "poster_url": "https://image.tmdb.org/t/p/w500/23KDFPF8Kcnb6L9iUu8MWCIsQY6.jpg"
-    },
-    {
         "title": "Mother/Android",
         "imdb_id": "tt13029044",
         "poster_url": "https://image.tmdb.org/t/p/w500/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"
@@ -53,6 +48,11 @@
         "title": "The Matrix Resurrections",
         "imdb_id": "tt10838180",
         "poster_url": "https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"
+    },
+    {
+        "title": "The Tender Bar",
+        "imdb_id": "tt3108894",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg"
     },
     {
         "title": "The Unforgivable",
