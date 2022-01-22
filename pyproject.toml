@@ -9,10 +9,12 @@ packages = [{include = "rt_popular"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-tmdbv3api = "^1.7.6"
-requests = "^2.26.0"
 beautifulsoup4 = "^4.9.3"
+requests = "^2.26.0"
+tmdbv3api = "^1.7.6"
 
+[tool.poetry.group.dev.dependencies]
+black = "^21.12-beta.0"
 
 [build-system]
 requires = ["poetry-core"]

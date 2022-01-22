@@ -5,25 +5,26 @@ from typing import Any, Optional
 
 import requests
 from bs4 import BeautifulSoup
-from tmdbv3api import Movie
+from tmdbv3api import Movie, Search
 
 _MAX_RESULTS = 12
-_api = Movie()
-_parentheses = re.compile(r'\(.*\)')
+_movie_api = Movie()
+_parentheses = re.compile(r"\(.*\)")
+_search_api = Search()
 
 
 def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
     if b is None:
         return a
 
-    if a['title'] == title and b['title'] != title:
+    if a["title"] == title and b["title"] != title:
         return a
 
-    if a['title'] != title and b['title'] == title:
+    if a["title"] != title and b["title"] == title:
         return b
 
-    a_has_release_date = 'release_date' in a and a['release_date']
-    b_has_release_date = 'release_date' in b and b['release_date']
+    a_has_release_date = "release_date" in a and a["release_date"]
+    b_has_release_date = "release_date" in b and b["release_date"]
 
     if a_has_release_date and not b_has_release_date:
         return a
@@ -32,8 +33,8 @@ def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
         return b
 
     if a_has_release_date and b_has_release_date:
-        a_date = date.fromisoformat(a['release_date'])
-        b_date = date.fromisoformat(b['release_date'])
+        a_date = date.fromisoformat(a["release_date"])
+        b_date = date.fromisoformat(b["release_date"])
 
         if abs(a_date.year - year) > abs(b_date.year - year):
             return b
@@ -41,7 +42,7 @@ def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
         if abs(a_date.year - year) < abs(b_date.year - year):
             return a
 
-    if a['popularity'] > b['popularity']:
+    if a["popularity"] > b["popularity"]:
         return a
 
     return b
@@ -49,7 +50,7 @@ def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
 
 def _filter_by_release_date(movie: Any) -> bool:
     try:
-        release_date = date.fromisoformat(movie['release_date'])
+        release_date = date.fromisoformat(movie["release_date"])
     except KeyError:
         return False
 
@@ -61,9 +62,15 @@ def _filter_by_release_date(movie: Any) -> bool:
 def _find_movie_by_title_year(title: str, year: int) -> dict:
     match = None
 
-    for term in (title, _parentheses.sub('', title).rstrip()):
-        for option in _api.search(term):
-            match = _best_match(option, match, term, year)
+    for term in (title, _parentheses.sub("", title).rstrip()):
+        page = 1
+
+        while page == 1 or page <= int(_search_api.total_pages):
+            results = _search_api.movies({"query": term, "year": year, "page": page})
+            page += 1
+
+            for option in results:
+                match = _best_match(option, match, term, year)
 
         if match:
             return match
@@ -75,20 +82,20 @@ def _find_movie_by_title_year(title: str, year: int) -> dict:
 
 def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
     response = requests.get(
-        'https://editorial.rottentomatoes.com/guide/popular-movies/',
+        "https://editorial.rottentomatoes.com/guide/popular-movies/",
     )
-    body = BeautifulSoup(response.content, features='html.parser')
+    body = BeautifulSoup(response.content, features="html.parser")
 
-    if body.find('h1').text != '30 Most Popular Movies Right Now':
-        raise ValueError('Unable to parse Rotten Tomatoes')
+    if body.find("h1").text != "30 Most Popular Movies Right Now":
+        raise ValueError("Unable to parse Rotten Tomatoes")
 
-    for movie in body.select('.article_movie_title h2'):
-        title = movie.find('a').text.encode('iso-8859-1').decode('utf8')
+    for movie in body.select(".article_movie_title h2"):
+        title = movie.find("a").text.encode("iso-8859-1").decode("utf8")
 
         if not title:
             continue
 
-        year = int(movie.find(class_='start-year').text[1:5])
+        year = int(movie.find(class_="start-year").text[1:5])
 
         yield title, year
 
@@ -96,10 +103,10 @@ def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
 def _to_steven_lu_format(movies: list[dict]) -> [dict]:
     yield from (
         {
-            'title': movie['title'],
-            'imdb_id': _api.external_ids(movie['id']).imdb_id,
-            'poster_url': 'https://image.tmdb.org/t/p/w500{path}'.format(
-                path=movie['poster_path'],
+            "title": movie["title"],
+            "imdb_id": _movie_api.external_ids(movie["id"]).imdb_id,
+            "poster_url": "https://image.tmdb.org/t/p/w500{path}".format(
+                path=movie["poster_path"],
             ),
         }
         for movie in movies
@@ -113,12 +120,12 @@ def _generate():
     }
 
     movies = filter(_filter_by_release_date, movies)
-    movies = sorted(movies, key=lambda movie: movie['popularity'], reverse=True)
+    movies = sorted(movies, key=lambda movie: movie["popularity"], reverse=True)
     movies = _to_steven_lu_format(movies[:_MAX_RESULTS])
-    movies = sorted(movies, key=lambda movie: movie['title'])
+    movies = sorted(movies, key=lambda movie: movie["title"])
 
     print(json.dumps(movies, indent=4))  # noqa: WPS421
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     _generate()
