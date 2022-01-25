@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"
     },
     {
-        "title": "Mother/Android",
-        "imdb_id": "tt13029044",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"
-    },
-    {
         "title": "Scream",
         "imdb_id": "tt11245972",
         "poster_url": "https://image.tmdb.org/t/p/w500/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg"
@@ -58,5 +53,10 @@
         "title": "The Matrix Resurrections",
         "imdb_id": "tt10838180",
         "poster_url": "https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"
+    },
+    {
+        "title": "The Tender Bar",
+        "imdb_id": "tt3108894",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg"
     }
 ]
