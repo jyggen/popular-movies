@@ -5,7 +5,6 @@ description = "Scrapes a list of popular movies from Rotten Tomatoes."
 authors = ["Jonas Stendahl <jonas@stendahl.me>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "rt_popular"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"

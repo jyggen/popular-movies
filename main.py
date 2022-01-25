@@ -1,7 +1,7 @@
 import json
 import re
 from datetime import date, timedelta
-from typing import Any, Optional
+from typing import Any, Optional, Iterator
 
 import requests
 from bs4 import BeautifulSoup
@@ -62,22 +62,40 @@ def _filter_by_release_date(movie: Any) -> bool:
 def _find_movie_by_title_year(title: str, year: int) -> dict:
     match = None
 
-    for term in (title, _parentheses.sub("", title).rstrip()):
-        page = 1
+    for search_year in _get_year_variants(year):
+        for search_query in _get_title_variants(title):
+            page = 1
 
-        while page == 1 or page <= int(_search_api.total_pages):
-            results = _search_api.movies({"query": term, "year": year, "page": page})
-            page += 1
+            while page == 1 or page <= int(_search_api.total_pages):
+                results = _search_api.movies(
+                    {"query": search_query, "year": search_year, "page": page}
+                )
+                page += 1
 
-            for option in results:
-                match = _best_match(option, match, term, year)
+                for option in results:
+                    match = _best_match(option, match, search_query, search_year)
 
-        if match:
-            return match
+            if match:
+                return match
 
     raise ValueError(
         'Unable to find a match for "{title}"'.format(title=title),
     )
+
+
+def _get_title_variants(title: str) -> Iterator[str]:
+    yield title
+
+    normalized = _parentheses.sub("", title).rstrip()
+
+    if normalized != title:
+        yield normalized
+
+
+def _get_year_variants(year: int) -> Iterator[str]:
+    yield year
+    yield year - 1
+    yield year + 1
 
 
 def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
