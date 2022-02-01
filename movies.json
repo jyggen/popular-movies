@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
     },
     {
+        "title": "Nightmare Alley",
+        "imdb_id": "tt7740496",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uucw4HwFKRq4OcrzLVHDiNpGngI.jpg"
+    },
+    {
         "title": "Scream",
         "imdb_id": "tt11245972",
         "poster_url": "https://image.tmdb.org/t/p/w500/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg"
@@ -43,11 +48,6 @@
         "title": "Spider-Man: No Way Home",
         "imdb_id": "tt10872600",
         "poster_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
-    },
-    {
-        "title": "The King's Man",
-        "imdb_id": "tt6856242",
-        "poster_url": "https://image.tmdb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg"
     },
     {
         "title": "The Matrix Resurrections",
