@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
     },
     {
-        "title": "Eternals",
-        "imdb_id": "tt9032400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg"
-    },
-    {
         "title": "Ghostbusters: Afterlife",
         "imdb_id": "tt4513678",
         "poster_url": "https://image.tmdb.org/t/p/w500/sg4xJaufDiQl7caFEskBtQXfD4x.jpg"
@@ -48,6 +43,11 @@
         "title": "Spider-Man: No Way Home",
         "imdb_id": "tt10872600",
         "poster_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+        "title": "The King's Man",
+        "imdb_id": "tt6856242",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg"
     },
     {
         "title": "The Matrix Resurrections",
