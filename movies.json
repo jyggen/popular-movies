@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"
     },
     {
+        "title": "House of Gucci",
+        "imdb_id": "tt11214590",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vHla3Ej2m53rNmvmYkzvennLrKn.jpg"
+    },
+    {
         "title": "Munich: The Edge of War",
         "imdb_id": "tt7475578",
         "poster_url": "https://image.tmdb.org/t/p/w500/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
@@ -27,7 +32,7 @@
     {
         "title": "Nightmare Alley",
         "imdb_id": "tt7740496",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uucw4HwFKRq4OcrzLVHDiNpGngI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/680klE0dIreQQOyWKFgNnCAJtws.jpg"
     },
     {
         "title": "Scream",
@@ -53,10 +58,5 @@
         "title": "The Matrix Resurrections",
         "imdb_id": "tt10838180",
         "poster_url": "https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"
-    },
-    {
-        "title": "The Royal Treatment",
-        "imdb_id": "tt13989030",
-        "poster_url": "https://image.tmdb.org/t/p/w500/faUHWGTr1hN0wGtqYfiWNJXhBlW.jpg"
     }
 ]
