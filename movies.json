@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
     },
     {
-        "title": "Ghostbusters: Afterlife",
-        "imdb_id": "tt4513678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sg4xJaufDiQl7caFEskBtQXfD4x.jpg"
-    },
-    {
         "title": "Home Team",
         "imdb_id": "tt14592064",
         "poster_url": "https://image.tmdb.org/t/p/w500/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg"
@@ -25,9 +20,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg"
     },
     {
-        "title": "Munich: The Edge of War",
-        "imdb_id": "tt7475578",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
+        "title": "Nightmare Alley",
+        "imdb_id": "tt7740496",
+        "poster_url": "https://image.tmdb.org/t/p/w500/680klE0dIreQQOyWKFgNnCAJtws.jpg"
     },
     {
         "title": "Scream",
@@ -47,12 +42,17 @@
     {
         "title": "The 355",
         "imdb_id": "tt8356942",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rOzMhCNYABSg0dB8BbAeGG3pSzl.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pj0EPtI1mEwqjR34RQJdnbns0am.jpg"
     },
     {
         "title": "The Fallout",
         "imdb_id": "tt11847410",
         "poster_url": "https://image.tmdb.org/t/p/w500/y94auaBWq1E7sun3ZpvBmQfGUW.jpg"
+    },
+    {
+        "title": "The King's Man",
+        "imdb_id": "tt6856242",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg"
     },
     {
         "title": "The Matrix Resurrections",
