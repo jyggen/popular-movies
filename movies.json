@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mljQydSPAmyshvq1WHKveNfDLeC.jpg"
     },
     {
-        "title": "Jackass Forever",
-        "imdb_id": "tt11466222",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg"
-    },
-    {
         "title": "Kimi",
         "imdb_id": "tt14128670",
         "poster_url": "https://image.tmdb.org/t/p/w500/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg"
@@ -22,7 +17,7 @@
     {
         "title": "Licorice Pizza",
         "imdb_id": "tt11271038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
     },
     {
         "title": "Marry Me",
@@ -43,6 +38,11 @@
         "title": "Spider-Man: No Way Home",
         "imdb_id": "tt10872600",
         "poster_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+        "title": "Texas Chainsaw Massacre",
+        "imdb_id": "tt11755740",
+        "poster_url": "https://image.tmdb.org/t/p/w500/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg"
     },
     {
         "title": "The King's Man",
