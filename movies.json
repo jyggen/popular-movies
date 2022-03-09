@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/oT4vRVzulbN72602tTPFCwotl7a.jpg"
     },
     {
+        "title": "Dog",
+        "imdb_id": "tt11252248",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pb8rHkAyojBYtMe5fnSvFMCPc3D.jpg"
+    },
+    {
         "title": "I Want You Back",
         "imdb_id": "tt6462958",
         "poster_url": "https://image.tmdb.org/t/p/w500/mljQydSPAmyshvq1WHKveNfDLeC.jpg"
@@ -53,10 +58,5 @@
         "title": "Uncharted",
         "imdb_id": "tt1464335",
         "poster_url": "https://image.tmdb.org/t/p/w500/sqLowacltbZLoCa4KYye64RvvdQ.jpg"
-    },
-    {
-        "title": "West Side Story",
-        "imdb_id": "tt3581652",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zeAZTPxV5xZRNEX3rZotnsp7IVo.jpg"
     }
 ]
