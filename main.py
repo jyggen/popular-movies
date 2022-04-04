@@ -86,15 +86,19 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
                 match = dict(match)
                 match["imdb_id"] = _movie_api.external_ids(match["id"]).imdb_id
 
-                logging.info('Matched "{title}" ({year}) against "{imdb_id}".'.format(
-                    imdb_id=match["imdb_id"],
-                    title=title,
-                    year=year,
-                ))
+                logging.info(
+                    'Matched "{title}" ({year}) against "{imdb_id}".'.format(
+                        imdb_id=match["imdb_id"],
+                        title=title,
+                        year=year,
+                    )
+                )
 
                 return match
 
-    logging.exception('Unable to find a match for "{title}" ({year}).'.format(title=title, year=year))
+    logging.exception(
+        'Unable to find a match for "{title}" ({year}).'.format(title=title, year=year)
+    )
 
     return None
 
@@ -167,17 +171,30 @@ def _calculate_scores(movies: list[dict]) -> list[dict]:
     return movies
 
 
+def _sort_key(title: str) -> str:
+    title = re.sub(r"(\s|\.|,|_|-|=|'|\|)+", " ", title)
+    title = re.sub(r"[^\w\s]", "", title)
+    title = re.sub(r"\b(a|an|the|and|or|of)\b\s?", "", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s{2,}", " ", title)
+    title = re.sub(r"([&:\\/])+", "", title)
+
+    return title.strip().lower()
+
+
 def _generate():
-    movies = filter(None, [
-        _find_movie_by_title_year(title, year)
-        for title, year in _get_rotten_tomatoes_movies()
-    ])
+    movies = filter(
+        None,
+        [
+            _find_movie_by_title_year(title, year)
+            for title, year in _get_rotten_tomatoes_movies()
+        ],
+    )
 
     movies = filter(_filter_by_release_date, movies)
     movies = _calculate_scores(movies)
     movies = sorted(movies, key=lambda movie: movie["score"], reverse=True)
     movies = _to_steven_lu_format(movies[:_MAX_RESULTS])
-    movies = sorted(movies, key=lambda movie: movie["title"])
+    movies = sorted(movies, key=lambda movie: _sort_key(movie["title"]))
 
     print(json.dumps(movies, indent=4))  # noqa: WPS421
 
