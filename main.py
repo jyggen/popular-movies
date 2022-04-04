@@ -1,12 +1,15 @@
 import copy
 import json
+import logging
 import math
+import os
 import re
 from datetime import date, timedelta
 from typing import Any, Optional, Iterator
 
 import imdb
 import requests
+import sentry_sdk
 from bs4 import BeautifulSoup
 from tmdbv3api import Movie, Search
 
@@ -63,7 +66,7 @@ def _filter_by_release_date(movie: Any) -> bool:
     return diff <= timedelta(days=90)
 
 
-def _find_movie_by_title_year(title: str, year: int) -> dict:
+def _find_movie_by_title_year(title: str, year: int) -> dict | None:
     match = None
 
     for search_year in _get_year_variants(year):
@@ -83,11 +86,17 @@ def _find_movie_by_title_year(title: str, year: int) -> dict:
                 match = dict(match)
                 match["imdb_id"] = _movie_api.external_ids(match["id"]).imdb_id
 
+                logging.info('Matched "{title}" ({year}) against "{imdb_id}".'.format(
+                    imdb_id=match["imdb_id"],
+                    title=title,
+                    year=year,
+                ))
+
                 return match
 
-    raise ValueError(
-        'Unable to find a match for "{title}"'.format(title=title),
-    )
+    logging.exception('Unable to find a match for "{title}" ({year}).'.format(title=title, year=year))
+
+    return None
 
 
 def _get_title_variants(title: str) -> Iterator[str]:
@@ -112,7 +121,7 @@ def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
     body = BeautifulSoup(response.content, features="html.parser")
 
     if body.find("h1").text != "30 Most Popular Movies Right Now":
-        raise ValueError("Unable to parse Rotten Tomatoes")
+        raise ValueError("Unable to parse Rotten Tomatoes response.")
 
     for movie in body.select(".article_movie_title h2"):
         title = movie.find("a").text.encode("iso-8859-1").decode("utf8")
@@ -159,10 +168,12 @@ def _calculate_scores(movies: list[dict]) -> list[dict]:
 
 
 def _generate():
-    movies = [
+    logging.basicConfig(encoding='utf-8', level=logging.DEBUG)
+
+    movies = filter(None, [
         _find_movie_by_title_year(title, year)
         for title, year in _get_rotten_tomatoes_movies()
-    ]
+    ])
 
     movies = filter(_filter_by_release_date, movies)
     movies = _calculate_scores(movies)
@@ -174,4 +185,7 @@ def _generate():
 
 
 if __name__ == "__main__":
-    _generate()
+    sentry_sdk.init(os.environ["SENTRY_DSN"], traces_sample_rate=1)
+
+    with sentry_sdk.start_transaction(op="generate", name="generate"):
+        _generate()

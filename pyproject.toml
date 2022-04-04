@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "rt-popular"
+name = "popular-movies"
 version = "1.0.0"
 description = "Scrapes a list of popular movies from Rotten Tomatoes."
 authors = ["Jonas Stendahl <jonas@stendahl.me>"]
@@ -7,10 +7,11 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.10"
 beautifulsoup4 = "^4.9.3"
 IMDbPY = "^2021.4.18"
 requests = "^2.26.0"
+sentry-sdk = "^1.5.8"
 tmdbv3api = "^1.7.6"
 
 [tool.poetry.group.dev.dependencies]
