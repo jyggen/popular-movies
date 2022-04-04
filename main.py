@@ -168,8 +168,6 @@ def _calculate_scores(movies: list[dict]) -> list[dict]:
 
 
 def _generate():
-    logging.basicConfig(encoding='utf-8', level=logging.DEBUG)
-
     movies = filter(None, [
         _find_movie_by_title_year(title, year)
         for title, year in _get_rotten_tomatoes_movies()
