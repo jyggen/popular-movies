@@ -5,29 +5,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
     },
     {
-        "title": "The Batman",
-        "imdb_id": "tt1877830",
-        "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
         "title": "Better Nate Than Ever",
         "imdb_id": "tt14696284",
         "poster_url": "https://image.tmdb.org/t/p/w500/55gkFbie2Nbudo21rDpi6zG0XvC.jpg"
     },
     {
-        "title": "The Bubble",
-        "imdb_id": "tt13610562",
-        "poster_url": "https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg"
+        "title": "The Contractor",
+        "imdb_id": "tt10323676",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rJPGPZ5soaG27MK90oKpioSiJE2.jpg"
     },
     {
         "title": "Death on the Nile",
         "imdb_id": "tt7657566",
         "poster_url": "https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
-    },
-    {
-        "title": "Deep Water",
-        "imdb_id": "tt2180339",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg"
     },
     {
         "title": "Everything Everywhere All at Once",
@@ -42,7 +32,7 @@
     {
         "title": "Morbius",
         "imdb_id": "tt5108870",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7gmOjg7lQXGLW8wX31ry1IdIY07.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/6nhwr1LCozBiIN47b8oBEomOADm.jpg"
     },
     {
         "title": "Turning Red",
@@ -58,5 +48,15 @@
         "title": "Windfall",
         "imdb_id": "tt15033192",
         "poster_url": "https://image.tmdb.org/t/p/w500/r3eGUCijDCNqwcP1Ri8AZyTbPzI.jpg"
+    },
+    {
+        "title": "X",
+        "imdb_id": "tt13560574",
+        "poster_url": "https://image.tmdb.org/t/p/w500/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg"
+    },
+    {
+        "title": "Zero Fucks Given",
+        "imdb_id": "tt13482806",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jpauD5pEG2Bzwmg8LARPYtLHhLU.jpg"
     }
 ]
