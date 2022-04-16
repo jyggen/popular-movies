@@ -1,22 +1,23 @@
-import copy
 import json
 import logging
-import math
 import os
-import re
 from datetime import date, timedelta
 from typing import Any, Optional, Iterator
 
-import imdb
 import requests
 import sentry_sdk
 from bs4 import BeautifulSoup
 from tmdbv3api import Movie, Search
 
+from _shared import (
+    _sort_key,
+    _calculate_scores,
+    _get_year_variants,
+    _get_title_variants,
+)
+
 _MAX_RESULTS = 12
-_imdb_api = imdb.IMDb()
 _movie_api = Movie()
-_parentheses = re.compile(r"\(.*\)")
 _search_api = Search()
 
 
@@ -103,22 +104,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
     return None
 
 
-def _get_title_variants(title: str) -> Iterator[str]:
-    yield title
-
-    normalized = _parentheses.sub("", title).rstrip()
-
-    if normalized != title:
-        yield normalized
-
-
-def _get_year_variants(year: int) -> Iterator[str]:
-    yield year
-    yield year - 1
-    yield year + 1
-
-
-def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
+def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
     response = requests.get(
         "https://editorial.rottentomatoes.com/guide/popular-movies/",
     )
@@ -138,7 +124,7 @@ def _get_rotten_tomatoes_movies() -> [tuple[str, int]]:
         yield title, year
 
 
-def _to_steven_lu_format(movies: list[dict]) -> [dict]:
+def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
     yield from (
         {
             "title": movie["title"],
@@ -151,37 +137,7 @@ def _to_steven_lu_format(movies: list[dict]) -> [dict]:
     )
 
 
-def _calculate_scores(movies: list[dict]) -> list[dict]:
-    movies = list(copy.deepcopy(movies))
-    max_value = math.log10(
-        max(movies, key=lambda movie: movie["popularity"])["popularity"]
-    )
-    min_value = math.log10(
-        min(movies, key=lambda movie: movie["popularity"])["popularity"]
-    )
-
-    for movie in movies:
-        imdb_rating = _imdb_api.get_movie(movie["imdb_id"][2:])["rating"]
-        movie["score"] = (
-            (math.log10(movie["popularity"]) - min_value)
-            / (max_value - min_value)
-            * 100
-        ) * (imdb_rating / 10)
-
-    return movies
-
-
-def _sort_key(title: str) -> str:
-    title = re.sub(r"(\s|\.|,|_|-|=|'|\|)+", " ", title)
-    title = re.sub(r"[^\w\s]", "", title)
-    title = re.sub(r"\b(a|an|the|and|or|of)\b\s?", "", title, flags=re.IGNORECASE)
-    title = re.sub(r"\s{2,}", " ", title)
-    title = re.sub(r"([&:\\/])+", "", title)
-
-    return title.strip().lower()
-
-
-def _generate():
+def _generate() -> list[dict]:
     movies = filter(
         None,
         [
@@ -191,16 +147,15 @@ def _generate():
     )
 
     movies = filter(_filter_by_release_date, movies)
-    movies = _calculate_scores(movies)
+    movies = _calculate_scores(list(movies))
     movies = sorted(movies, key=lambda movie: movie["score"], reverse=True)
     movies = _to_steven_lu_format(movies[:_MAX_RESULTS])
-    movies = sorted(movies, key=lambda movie: _sort_key(movie["title"]))
 
-    print(json.dumps(movies, indent=4))  # noqa: WPS421
+    return sorted(movies, key=lambda movie: _sort_key(movie["title"]))
 
 
 if __name__ == "__main__":
-    sentry_sdk.init(os.environ["SENTRY_DSN"], traces_sample_rate=1)
+    sentry_sdk.init(os.environ.get("SENTRY_DSN"), traces_sample_rate=1)
 
-    with sentry_sdk.start_transaction(op="generate", name="generate"):
-        _generate()
+    with sentry_sdk.start_transaction(op="generate", name="Generate Movies"):
+        print(json.dumps(_generate(), indent=4))  # noqa: WPS421

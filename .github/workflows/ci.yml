@@ -21,11 +21,13 @@ jobs:
       - run: mkdir public
       - run: poetry install
       - run: poetry run python main.py > public/movies.json
+      - run: poetry run python series.py > public/series.json
         env:
             SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
             TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
             TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
+      - run: cat public/series.json
       - uses: crazy-max/ghaction-github-status@v2
         with:
           pages_threshold: major_outage
