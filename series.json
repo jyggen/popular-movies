@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Better Call Saul",
+        "tvdb_id": 273181,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
+    },
+    {
+        "title": "Halo",
+        "tvdb_id": 366524,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
+    },
+    {
+        "title": "Inventing Anna",
+        "tvdb_id": 371944,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jzCnl9wACp0eUMa3IG5e0aSJIXD.jpg"
+    },
+    {
+        "title": "Killing Eve",
+        "tvdb_id": 340959,
+        "poster_url": "https://image.tmdb.org/t/p/w500/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg"
+    },
+    {
+        "title": "The Last Kingdom",
+        "tvdb_id": 298566,
+        "poster_url": "https://image.tmdb.org/t/p/w500/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg"
+    },
+    {
+        "title": "Moon Knight",
+        "tvdb_id": 368611,
+        "poster_url": "https://image.tmdb.org/t/p/w500/x6FsYvt33846IQnDSFxla9j0RX8.jpg"
+    },
+    {
+        "title": "Outlander",
+        "tvdb_id": 270408,
+        "poster_url": "https://image.tmdb.org/t/p/w500/oR0PM7hFDqY3kO12cLLQMKiJt8I.jpg"
+    },
+    {
+        "title": "Pachinko",
+        "tvdb_id": 368124,
+        "poster_url": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
+    },
+    {
+        "title": "Peaky Blinders",
+        "tvdb_id": 270915,
+        "poster_url": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    },
+    {
+        "title": "South Park",
+        "tvdb_id": 75897,
+        "poster_url": "https://image.tmdb.org/t/p/w500/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg"
+    },
+    {
+        "title": "The Walking Dead",
+        "tvdb_id": 153021,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+    }
+]
