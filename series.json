@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
     },
     {
+        "title": "Inventing Anna",
+        "tvdb_id": 371944,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jzCnl9wACp0eUMa3IG5e0aSJIXD.jpg"
+    },
+    {
         "title": "Killing Eve",
         "tvdb_id": 340959,
         "poster_url": "https://image.tmdb.org/t/p/w500/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg"
@@ -48,11 +53,6 @@
         "title": "Severance",
         "tvdb_id": 371980,
         "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
-    },
-    {
-        "title": "South Park",
-        "tvdb_id": 75897,
-        "poster_url": "https://image.tmdb.org/t/p/w500/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg"
     },
     {
         "title": "The Walking Dead",

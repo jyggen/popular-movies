@@ -5,19 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
     },
     {
+        "title": "All the Old Knives",
+        "imdb_id": "tt3706352",
+        "poster_url": "https://image.tmdb.org/t/p/w500/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg"
+    },
+    {
         "title": "The Batman",
         "imdb_id": "tt1877830",
         "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
-        "title": "Better Nate Than Ever",
-        "imdb_id": "tt14696284",
-        "poster_url": "https://image.tmdb.org/t/p/w500/55gkFbie2Nbudo21rDpi6zG0XvC.jpg"
-    },
-    {
-        "title": "The Bubble",
-        "imdb_id": "tt13610562",
-        "poster_url": "https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg"
     },
     {
         "title": "Death on the Nile",
@@ -25,19 +20,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
     },
     {
-        "title": "Deep Water",
-        "imdb_id": "tt2180339",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg"
-    },
-    {
-        "title": "Everything Everywhere All at Once",
-        "imdb_id": "tt6710474",
-        "poster_url": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+        "title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "imdb_id": "tt4123432",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg"
     },
     {
         "title": "The Lost City",
         "imdb_id": "tt13320622",
         "poster_url": "https://image.tmdb.org/t/p/w500/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+        "title": "Metal Lords",
+        "imdb_id": "tt12141112",
+        "poster_url": "https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg"
     },
     {
         "title": "Moonfall",
@@ -48,6 +43,11 @@
         "title": "Morbius",
         "imdb_id": "tt5108870",
         "poster_url": "https://image.tmdb.org/t/p/w500/6nhwr1LCozBiIN47b8oBEomOADm.jpg"
+    },
+    {
+        "title": "Sonic the Hedgehog 2",
+        "imdb_id": "tt12412888",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg"
     },
     {
         "title": "Turning Red",
