@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
     },
     {
-        "title": "Inventing Anna",
-        "tvdb_id": 371944,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jzCnl9wACp0eUMa3IG5e0aSJIXD.jpg"
-    },
-    {
         "title": "Moon Knight",
         "tvdb_id": 368611,
         "poster_url": "https://image.tmdb.org/t/p/w500/9rJoulDnFeVGXcUsN7CjllUWADA.jpg"
@@ -48,6 +43,11 @@
         "title": "Peaky Blinders",
         "tvdb_id": 270915,
         "poster_url": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    },
+    {
+        "title": "Severance",
+        "tvdb_id": 371980,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
     },
     {
         "title": "Star Trek: Picard",
