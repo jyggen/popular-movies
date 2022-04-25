@@ -17,12 +17,7 @@
     {
         "title": "Moon Knight",
         "tvdb_id": 368611,
-        "poster_url": "https://image.tmdb.org/t/p/w500/9rJoulDnFeVGXcUsN7CjllUWADA.jpg"
-    },
-    {
-        "title": "Outer Range",
-        "tvdb_id": 391101,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nO2qkja0cYBlx59fJ89TnrzDvHe.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/x6FsYvt33846IQnDSFxla9j0RX8.jpg"
     },
     {
         "title": "Outlander",
@@ -58,5 +53,10 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+    },
+    {
+        "title": "Winning Time: The Rise of the Lakers Dynasty",
+        "tvdb_id": 399904,
+        "poster_url": "https://image.tmdb.org/t/p/w500/npyfYUOoHWVZJyqI1jscbT6taCt.jpg"
     }
 ]
