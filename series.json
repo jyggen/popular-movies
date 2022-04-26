@@ -10,9 +10,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
     },
     {
+        "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
+        "tvdb_id": null,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dc9IY0ZT2T3gw0RfjmQdsoWp992.jpg"
+    },
+    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
+    },
+    {
+        "title": "Heartstopper",
+        "tvdb_id": 395494,
+        "poster_url": "https://image.tmdb.org/t/p/w500/A9lLwds9PExI5sjOpMaGXLZqwti.jpg"
     },
     {
         "title": "Moon Knight",
@@ -28,11 +38,6 @@
         "title": "Ozark",
         "tvdb_id": 329089,
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
-    },
-    {
-        "title": "Pachinko",
-        "tvdb_id": 368124,
-        "poster_url": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
     },
     {
         "title": "Peaky Blinders",
@@ -53,10 +58,5 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
-    },
-    {
-        "title": "Winning Time: The Rise of the Lakers Dynasty",
-        "tvdb_id": 399904,
-        "poster_url": "https://image.tmdb.org/t/p/w500/npyfYUOoHWVZJyqI1jscbT6taCt.jpg"
     }
 ]
