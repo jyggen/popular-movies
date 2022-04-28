@@ -1,5 +1,10 @@
 [
     {
+        "title": "Barry",
+        "tvdb_id": 333072,
+        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
+    },
+    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
@@ -15,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dc9IY0ZT2T3gw0RfjmQdsoWp992.jpg"
     },
     {
+        "title": "From",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg"
+    },
+    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
@@ -22,7 +32,7 @@
     {
         "title": "Heartstopper",
         "tvdb_id": 395494,
-        "poster_url": "https://image.tmdb.org/t/p/w500/A9lLwds9PExI5sjOpMaGXLZqwti.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg"
     },
     {
         "title": "Moon Knight",
@@ -40,11 +50,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
     },
     {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
-    },
-    {
         "title": "Star Trek: Picard",
         "tvdb_id": 364093,
         "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
@@ -53,10 +58,5 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
-    },
-    {
-        "title": "Winning Time: The Rise of the Lakers Dynasty",
-        "tvdb_id": 399904,
-        "poster_url": "https://image.tmdb.org/t/p/w500/npyfYUOoHWVZJyqI1jscbT6taCt.jpg"
     }
 ]
