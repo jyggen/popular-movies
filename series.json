@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
     },
     {
-        "title": "Bridgerton",
-        "tvdb_id": 366668,
-        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
-    },
-    {
         "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
         "tvdb_id": 418354,
         "poster_url": "https://image.tmdb.org/t/p/w500/dc9IY0ZT2T3gw0RfjmQdsoWp992.jpg"
@@ -58,5 +53,10 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+    },
+    {
+        "title": "We Own This City",
+        "tvdb_id": 398140,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg"
     }
 ]
