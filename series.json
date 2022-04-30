@@ -1,23 +1,18 @@
 [
     {
-        "title": "Barry",
-        "tvdb_id": 333072,
-        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
-    },
-    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
     },
     {
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
+    },
+    {
         "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
         "tvdb_id": 418354,
         "poster_url": "https://image.tmdb.org/t/p/w500/dc9IY0ZT2T3gw0RfjmQdsoWp992.jpg"
-    },
-    {
-        "title": "From",
-        "tvdb_id": 401003,
-        "poster_url": "https://image.tmdb.org/t/p/w500/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg"
     },
     {
         "title": "Halo",
@@ -45,18 +40,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
     },
     {
+        "title": "Pachinko",
+        "tvdb_id": 368124,
+        "poster_url": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
+    },
+    {
         "title": "Star Trek: Picard",
         "tvdb_id": 364093,
         "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
     },
     {
+        "title": "Tokyo Vice",
+        "tvdb_id": 366624,
+        "poster_url": "https://image.tmdb.org/t/p/w500/za5QWRfCLwgRLLVXUkx3NUSAm6G.jpg"
+    },
+    {
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
-    },
-    {
-        "title": "We Own This City",
-        "tvdb_id": 398140,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg"
     }
 ]
