@@ -1,5 +1,10 @@
 [
     {
+        "title": "Barry",
+        "tvdb_id": 333072,
+        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
+    },
+    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
@@ -38,11 +43,6 @@
         "title": "Pachinko",
         "tvdb_id": 368124,
         "poster_url": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
-    },
-    {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
     },
     {
         "title": "Slow Horses",
