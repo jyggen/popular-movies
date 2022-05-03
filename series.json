@@ -1,10 +1,5 @@
 [
     {
-        "title": "Barry",
-        "tvdb_id": 333072,
-        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
-    },
-    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
@@ -45,9 +40,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg"
     },
     {
-        "title": "Slow Horses",
-        "tvdb_id": 372264,
-        "poster_url": "https://image.tmdb.org/t/p/w500/oBqlO6ZjTcVFiE0lBj89lAOi18s.jpg"
+        "title": "Severance",
+        "tvdb_id": 371980,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
     },
     {
         "title": "Star Trek: Picard",
@@ -58,5 +53,10 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+    },
+    {
+        "title": "We Own This City",
+        "tvdb_id": 398140,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg"
     }
 ]
