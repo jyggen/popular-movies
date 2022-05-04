@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
     },
     {
-        "title": "Death on the Nile",
-        "imdb_id": "tt7657566",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
-    },
-    {
         "title": "Fantastic Beasts: The Secrets of Dumbledore",
         "imdb_id": "tt4123432",
         "poster_url": "https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg"
@@ -38,6 +33,11 @@
         "title": "Moonfall",
         "imdb_id": "tt5834426",
         "poster_url": "https://image.tmdb.org/t/p/w500/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg"
+    },
+    {
+        "title": "Morbius",
+        "imdb_id": "tt5108870",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6nhwr1LCozBiIN47b8oBEomOADm.jpg"
     },
     {
         "title": "The Northman",

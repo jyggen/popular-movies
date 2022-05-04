@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
     },
     {
+        "title": "The Flight Attendant",
+        "tvdb_id": 366625,
+        "poster_url": "https://image.tmdb.org/t/p/w500/Aw8sdpX1cvouqQz8SnxC76etn4K.jpg"
+    },
+    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg"
@@ -45,18 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
     },
     {
-        "title": "Star Trek: Picard",
-        "tvdb_id": 364093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
-    },
-    {
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
     },
     {
-        "title": "We Own This City",
-        "tvdb_id": 398140,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg"
+        "title": "Winning Time: The Rise of the Lakers Dynasty",
+        "tvdb_id": 399904,
+        "poster_url": "https://image.tmdb.org/t/p/w500/npyfYUOoHWVZJyqI1jscbT6taCt.jpg"
     }
 ]
