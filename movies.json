@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
     },
     {
-        "title": "Death on the Nile",
-        "imdb_id": "tt7657566",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
-    },
-    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
         "poster_url": "https://image.tmdb.org/t/p/w500/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg"
@@ -33,6 +28,11 @@
         "title": "The Lost City",
         "imdb_id": "tt13320622",
         "poster_url": "https://image.tmdb.org/t/p/w500/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+        "title": "Morbius",
+        "imdb_id": "tt5108870",
+        "poster_url": "https://image.tmdb.org/t/p/w500/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg"
     },
     {
         "title": "The Northman",
