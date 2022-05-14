@@ -5,14 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
     },
     {
-        "title": "Bosch: Legacy",
-        "tvdb_id": 414553,
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Z7L7wSB6nLwWk7coUgm1ytQbOB.jpg"
-    },
-    {
-        "title": "The Flight Attendant",
-        "tvdb_id": 366625,
-        "poster_url": "https://image.tmdb.org/t/p/w500/Aw8sdpX1cvouqQz8SnxC76etn4K.jpg"
+        "title": "Candy",
+        "tvdb_id": 385141,
+        "poster_url": "https://image.tmdb.org/t/p/w500/gEIrHezGOp0xtIU7FLTMwt0ecIc.jpg"
     },
     {
         "title": "Halo",
@@ -50,9 +45,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
     },
     {
-        "title": "Tehran",
-        "tvdb_id": 380010,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pXV1fcIQIbpTNYRJ47rfUvG6hq4.jpg"
+        "title": "This Is Us",
+        "tvdb_id": 311714,
+        "poster_url": "https://image.tmdb.org/t/p/w500/wyjDXLfVaoxjQ0Cjv7sZy51M5ys.jpg"
+    },
+    {
+        "title": "Welcome to Eden",
+        "tvdb_id": 393110,
+        "poster_url": "https://image.tmdb.org/t/p/w500/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg"
     },
     {
         "title": "The Wilds",
