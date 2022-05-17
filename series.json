@@ -1,13 +1,13 @@
 [
     {
-        "title": "Barry",
-        "tvdb_id": 333072,
-        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
-    },
-    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
+        "title": "The Essex Serpent",
+        "tvdb_id": 387455,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lSVygN5ZLmSMycBTe94umdKfTSd.jpg"
     },
     {
         "title": "Halo",
@@ -18,6 +18,11 @@
         "title": "Heartstopper",
         "tvdb_id": 395494,
         "poster_url": "https://image.tmdb.org/t/p/w500/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg"
+    },
+    {
+        "title": "The Lincoln Lawyer",
+        "tvdb_id": 399909,
+        "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg"
     },
     {
         "title": "Moon Knight",
@@ -33,11 +38,6 @@
         "title": "Ozark",
         "tvdb_id": 329089,
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
-    },
-    {
-        "title": "Star Trek: Picard",
-        "tvdb_id": 364093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
     },
     {
         "title": "Star Trek: Strange New Worlds",
