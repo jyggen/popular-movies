@@ -40,6 +40,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
     },
     {
+        "title": "Star Trek: Picard",
+        "tvdb_id": 364093,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
+    },
+    {
         "title": "Star Trek: Strange New Worlds",
         "tvdb_id": 382389,
         "poster_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
@@ -53,10 +58,5 @@
         "title": "Welcome to Eden",
         "tvdb_id": 393110,
         "poster_url": "https://image.tmdb.org/t/p/w500/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg"
-    },
-    {
-        "title": "The Wilds",
-        "tvdb_id": 349826,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg"
     }
 ]
