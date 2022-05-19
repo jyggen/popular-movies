@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
     },
     {
-        "title": "The Essex Serpent",
-        "tvdb_id": 387455,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lSVygN5ZLmSMycBTe94umdKfTSd.jpg"
-    },
-    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
@@ -40,9 +35,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
     },
     {
-        "title": "Star Trek: Picard",
-        "tvdb_id": 364093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg"
+        "title": "Severance",
+        "tvdb_id": 371980,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
     },
     {
         "title": "Star Trek: Strange New Worlds",
@@ -55,8 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wyjDXLfVaoxjQ0Cjv7sZy51M5ys.jpg"
     },
     {
-        "title": "Welcome to Eden",
-        "tvdb_id": 393110,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg"
+        "title": "The Time Traveler's Wife",
+        "tvdb_id": 397536,
+        "poster_url": "https://image.tmdb.org/t/p/w500/89frnVwEKRbkYLqJ0t8xSvlfnEL.jpg"
+    },
+    {
+        "title": "Yellowstone",
+        "tvdb_id": 341164,
+        "poster_url": "https://image.tmdb.org/t/p/w500/iqWCUwLcjkVgtpsDLs8xx8kscg6.jpg"
     }
 ]
