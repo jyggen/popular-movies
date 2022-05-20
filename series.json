@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
     },
     {
+        "title": "Bosch: Legacy",
+        "tvdb_id": 414553,
+        "poster_url": "https://image.tmdb.org/t/p/w500/9Z7L7wSB6nLwWk7coUgm1ytQbOB.jpg"
+    },
+    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
@@ -35,24 +40,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg"
     },
     {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg"
-    },
-    {
         "title": "Star Trek: Strange New Worlds",
         "tvdb_id": 382389,
         "poster_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
     },
     {
+        "title": "Tehran",
+        "tvdb_id": 380010,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pXV1fcIQIbpTNYRJ47rfUvG6hq4.jpg"
+    },
+    {
         "title": "This Is Us",
         "tvdb_id": 311714,
         "poster_url": "https://image.tmdb.org/t/p/w500/wyjDXLfVaoxjQ0Cjv7sZy51M5ys.jpg"
-    },
-    {
-        "title": "The Time Traveler's Wife",
-        "tvdb_id": 397536,
-        "poster_url": "https://image.tmdb.org/t/p/w500/89frnVwEKRbkYLqJ0t8xSvlfnEL.jpg"
     },
     {
         "title": "Yellowstone",
