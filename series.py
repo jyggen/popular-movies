@@ -15,7 +15,7 @@ from _shared import (
     _get_title_variants,
 )
 
-_MAX_RESULTS = 12
+_MAX_RESULTS = 6
 _search_api = Search()
 _tv_api = TV()
 

@@ -12,7 +12,7 @@ _PUNCTUATIONS = re.compile(r"[^\w\s]")
 _SPECIAL_CHARS = re.compile(r"([&:\\/])+")
 _WORD_DELIMITERS = re.compile(r"(\s|\.|,|_|-|=|'|\|)+")
 
-_IMDB_API = imdb.IMDb()
+_IMDB_API = imdb.Cinemagoer()
 
 
 def _calculate_scores(items: list[dict]) -> list[dict]:
