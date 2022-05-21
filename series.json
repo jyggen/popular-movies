@@ -1,5 +1,10 @@
 [
     {
+        "title": "Barry",
+        "tvdb_id": 333072,
+        "poster_url": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
+    },
+    {
         "title": "Better Call Saul",
         "tvdb_id": 273181,
         "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
@@ -43,11 +48,6 @@
         "title": "Star Trek: Strange New Worlds",
         "tvdb_id": 382389,
         "poster_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
-    },
-    {
-        "title": "Tehran",
-        "tvdb_id": 380010,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pXV1fcIQIbpTNYRJ47rfUvG6hq4.jpg"
     },
     {
         "title": "This Is Us",
