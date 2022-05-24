@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
     },
     {
+        "title": "Chip 'n Dale: Rescue Rangers",
+        "imdb_id": "tt3513500",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
+    },
+    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
         "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
@@ -53,10 +58,5 @@
         "title": "Sonic the Hedgehog 2",
         "imdb_id": "tt12412888",
         "poster_url": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg"
-    },
-    {
-        "title": "Turning Red",
-        "imdb_id": "tt8097030",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
     }
 ]
