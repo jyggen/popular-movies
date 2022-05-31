@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
     },
     {
-        "title": "The Batman",
-        "imdb_id": "tt1877830",
-        "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-    },
-    {
         "title": "Chip 'n Dale: Rescue Rangers",
         "imdb_id": "tt3513500",
         "poster_url": "https://image.tmdb.org/t/p/w500/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
@@ -48,6 +43,11 @@
         "title": "The Northman",
         "imdb_id": "tt11138512",
         "poster_url": "https://image.tmdb.org/t/p/w500/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg"
+    },
+    {
+        "title": "Senior Year",
+        "imdb_id": "tt5315212",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg"
     },
     {
         "title": "Sonic the Hedgehog 2",
