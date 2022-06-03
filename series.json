@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Boys",
+        "tvdb_id": 355567,
+        "poster_url": "https://image.tmdb.org/t/p/w500/stTEycfG9928HYGEISBFaG1ngjM.jpg"
+    },
+    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
@@ -18,11 +23,6 @@
         "title": "Prehistoric Planet",
         "tvdb_id": 418505,
         "poster_url": "https://image.tmdb.org/t/p/w500/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg"
-    },
-    {
-        "title": "Star Trek: Strange New Worlds",
-        "tvdb_id": 382389,
-        "poster_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
     },
     {
         "title": "Stranger Things",
