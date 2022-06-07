@@ -25,7 +25,11 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     )
 
     for item in items:
-        imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
+        try:
+            imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
+        except KeyError:
+            imdb_rating = 0
+
         item["score"] = (
             (math.log10(item["popularity"]) - min_value) / (max_value - min_value) * 100
         ) * (imdb_rating / 10)
