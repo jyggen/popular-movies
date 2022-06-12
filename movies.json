@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
     },
     {
-        "title": "Emergency",
-        "imdb_id": "tt13650600",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b1OVtVtcC7KQlsueXCwBSRaAR1o.jpg"
-    },
-    {
         "title": "Everything Everywhere All at Once",
         "imdb_id": "tt6710474",
         "poster_url": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
@@ -33,6 +28,11 @@
         "title": "Fire Island",
         "imdb_id": "tt15218000",
         "poster_url": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
+    },
+    {
+        "title": "Hustle",
+        "imdb_id": "tt8009428",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fVf4YHHkRfo1uuljpWBViEGmaUQ.jpg"
     },
     {
         "title": "The Lost City",
