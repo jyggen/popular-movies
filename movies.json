@@ -15,14 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
     },
     {
+        "title": "Elvis",
+        "imdb_id": "tt3704428",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg"
+    },
+    {
         "title": "Fantastic Beasts: The Secrets of Dumbledore",
         "imdb_id": "tt4123432",
         "poster_url": "https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg"
-    },
-    {
-        "title": "Fire Island",
-        "imdb_id": "tt15218000",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
     },
     {
         "title": "Hustle",
