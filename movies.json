@@ -17,12 +17,7 @@
     {
         "title": "Elvis",
         "imdb_id": "tt3704428",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg"
-    },
-    {
-        "title": "Fantastic Beasts: The Secrets of Dumbledore",
-        "imdb_id": "tt4123432",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg"
     },
     {
         "title": "Hustle",
@@ -48,6 +43,11 @@
         "title": "The Northman",
         "imdb_id": "tt11138512",
         "poster_url": "https://image.tmdb.org/t/p/w500/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg"
+    },
+    {
+        "title": "Spiderhead",
+        "imdb_id": "tt9783600",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg"
     },
     {
         "title": "Top Gun: Maverick",
