@@ -17,7 +17,12 @@
     {
         "title": "Elvis",
         "imdb_id": "tt3704428",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg"
+    },
+    {
+        "title": "Fire Island",
+        "imdb_id": "tt15218000",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
     },
     {
         "title": "Hustle",
@@ -33,11 +38,6 @@
         "title": "Lightyear",
         "imdb_id": "tt10298810",
         "poster_url": "https://image.tmdb.org/t/p/w500/vpILbP9eOQEtdQgl4vgjZUNY07r.jpg"
-    },
-    {
-        "title": "Morbius",
-        "imdb_id": "tt5108870",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg"
     },
     {
         "title": "The Northman",
