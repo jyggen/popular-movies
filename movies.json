@@ -17,12 +17,7 @@
     {
         "title": "Elvis",
         "imdb_id": "tt3704428",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg"
-    },
-    {
-        "title": "Fire Island",
-        "imdb_id": "tt15218000",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
     },
     {
         "title": "Hustle",
@@ -43,6 +38,11 @@
         "title": "The Northman",
         "imdb_id": "tt11138512",
         "poster_url": "https://image.tmdb.org/t/p/w500/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg"
+    },
+    {
+        "title": "Rise",
+        "imdb_id": "tt11242162",
+        "poster_url": "https://image.tmdb.org/t/p/w500/czXyMcmiulyZjhYAnnMwVhFCvN.jpg"
     },
     {
         "title": "Spiderhead",
