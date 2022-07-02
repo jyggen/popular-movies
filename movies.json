@@ -5,19 +5,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/bxHZpV02OOu9vq3sb3MsOudEnYc.jpg"
     },
     {
-        "title": "Cha Cha Real Smooth",
-        "imdb_id": "tt14376344",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg"
-    },
-    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/61PVJ06oecwvcBisoAQu6SDfdcS.jpg"
     },
     {
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+    },
+    {
+        "title": "Fire Island",
+        "imdb_id": "tt15218000",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
     },
     {
         "title": "Hustle",
