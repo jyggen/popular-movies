@@ -30,7 +30,7 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vpILbP9eOQEtdQgl4vgjZUNY07r.jpg"
     },
     {
-        "title": "The Man From Toronto",
+        "title": "The Man from Toronto",
         "imdb_id": "tt11671006",
         "poster_url": "https://image.tmdb.org/t/p/w500/uTCfTibqtk4f90cC59bLPMOmsfc.jpg"
     },
@@ -50,13 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg"
     },
     {
+        "title": "Thor: Love and Thunder",
+        "imdb_id": "tt10648342",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+    },
+    {
         "title": "Top Gun: Maverick",
         "imdb_id": "tt1745960",
         "poster_url": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
-    },
-    {
-        "title": "The Unbearable Weight of Massive Talent",
-        "imdb_id": "tt11291274",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg"
     }
 ]
