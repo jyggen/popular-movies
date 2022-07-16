@@ -2,7 +2,7 @@
     {
         "title": "The Black Phone",
         "imdb_id": "tt7144666",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bxHZpV02OOu9vq3sb3MsOudEnYc.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/wd6WxLLR2w8aAXmLPDW5CN0iSB3.jpg"
     },
     {
         "title": "Doctor Strange in the Multiverse of Madness",
@@ -13,11 +13,6 @@
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg"
-    },
-    {
-        "title": "Girl in the Picture",
-        "imdb_id": "tt21059520",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1dp9lvlWBGLXNntVTRHB4A6uc1o.jpg"
     },
     {
         "title": "Hustle",
@@ -48,6 +43,11 @@
         "title": "The Princess",
         "imdb_id": "tt13406136",
         "poster_url": "https://image.tmdb.org/t/p/w500/gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg"
+    },
+    {
+        "title": "The Sea Beast",
+        "imdb_id": "tt9288046",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
