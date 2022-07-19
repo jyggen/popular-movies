@@ -7,12 +7,17 @@
     {
         "title": "Elvis",
         "imdb_id": "tt3704428",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b6UjAGzPzOnXhPIASUaSX1BUbXD.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg"
     },
     {
         "title": "Girl in the Picture",
         "imdb_id": "tt21059520",
         "poster_url": "https://image.tmdb.org/t/p/w500/1dp9lvlWBGLXNntVTRHB4A6uc1o.jpg"
+    },
+    {
+        "title": "The Gray Man",
+        "imdb_id": "tt1649418",
+        "poster_url": "https://image.tmdb.org/t/p/w500/e4J1S8pm90aWoIsoJJlt099CtA.jpg"
     },
     {
         "title": "Hustle",
@@ -30,24 +35,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vpILbP9eOQEtdQgl4vgjZUNY07r.jpg"
     },
     {
-        "title": "The Man from Toronto",
-        "imdb_id": "tt11671006",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uTCfTibqtk4f90cC59bLPMOmsfc.jpg"
-    },
-    {
         "title": "Minions: The Rise of Gru",
         "imdb_id": "tt5113044",
         "poster_url": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
     },
     {
-        "title": "The Princess",
-        "imdb_id": "tt13406136",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg"
-    },
-    {
         "title": "The Sea Beast",
         "imdb_id": "tt9288046",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ro3uuFrRxPI8bm6x9IavCr3nbCX.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pAKoyLZGqTNfBNROYvApSAHJ4N6.jpg"
+    },
+    {
+        "title": "Spiderhead",
+        "imdb_id": "tt9783600",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
