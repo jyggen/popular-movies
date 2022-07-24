@@ -1,13 +1,8 @@
 [
     {
-        "title": "The Black Phone",
-        "imdb_id": "tt7144666",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
-    },
-    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
-        "poster_url": "https://image.tmdb.org/t/p/w500/61PVJ06oecwvcBisoAQu6SDfdcS.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
     },
     {
         "title": "Elvis",
@@ -18,6 +13,11 @@
         "title": "Girl in the Picture",
         "imdb_id": "tt21059520",
         "poster_url": "https://image.tmdb.org/t/p/w500/1dp9lvlWBGLXNntVTRHB4A6uc1o.jpg"
+    },
+    {
+        "title": "The Gray Man",
+        "imdb_id": "tt1649418",
+        "poster_url": "https://image.tmdb.org/t/p/w500/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
     },
     {
         "title": "Hustle",
