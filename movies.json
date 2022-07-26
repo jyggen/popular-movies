@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Black Phone",
+        "imdb_id": "tt7144666",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
+    },
+    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
         "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
@@ -10,19 +15,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg"
     },
     {
-        "title": "Girl in the Picture",
-        "imdb_id": "tt21059520",
-        "poster_url": "https://image.tmdb.org/t/p/w500/w6dnirDUhvWuHy91QECqGSYmOpa.jpg"
-    },
-    {
         "title": "The Gray Man",
         "imdb_id": "tt1649418",
         "poster_url": "https://image.tmdb.org/t/p/w500/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
-    },
-    {
-        "title": "Hustle",
-        "imdb_id": "tt8009428",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xWic7kPq13oRxYjbGLApXCnc7pz.jpg"
     },
     {
         "title": "Jurassic World Dominion",
@@ -40,14 +35,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
     },
     {
+        "title": "Nope",
+        "imdb_id": "tt10954984",
+        "poster_url": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
+    },
+    {
+        "title": "Paws of Fury: The Legend of Hank",
+        "imdb_id": "tt4428398",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg"
+    },
+    {
         "title": "The Sea Beast",
         "imdb_id": "tt9288046",
         "poster_url": "https://image.tmdb.org/t/p/w500/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
-    },
-    {
-        "title": "Spiderhead",
-        "imdb_id": "tt9783600",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
