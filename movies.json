@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
     },
     {
+        "title": "DC League of Super-Pets",
+        "imdb_id": "tt8912936",
+        "poster_url": "https://image.tmdb.org/t/p/w500/r7XifzvtezNt31ypvsmb6Oqxw49.jpg"
+    },
+    {
         "title": "Doctor Strange in the Multiverse of Madness",
         "imdb_id": "tt9419884",
         "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
@@ -25,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
     },
     {
-        "title": "Lightyear",
-        "imdb_id": "tt10298810",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
-    },
-    {
         "title": "Minions: The Rise of Gru",
         "imdb_id": "tt5113044",
         "poster_url": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
@@ -40,9 +40,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
     },
     {
-        "title": "Paws of Fury: The Legend of Hank",
-        "imdb_id": "tt4428398",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg"
+        "title": "Purple Hearts",
+        "imdb_id": "tt4614584",
+        "poster_url": "https://image.tmdb.org/t/p/w500/clAMlA3DcwKMJIYeAFGGN0vyJQp.jpg"
     },
     {
         "title": "The Sea Beast",
