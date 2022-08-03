@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/r7XifzvtezNt31ypvsmb6Oqxw49.jpg"
     },
     {
-        "title": "Doctor Strange in the Multiverse of Madness",
-        "imdb_id": "tt9419884",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
-    },
-    {
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg"
@@ -40,9 +35,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
     },
     {
+        "title": "Not Okay",
+        "imdb_id": "tt14814040",
+        "poster_url": "https://image.tmdb.org/t/p/w500/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg"
+    },
+    {
         "title": "Purple Hearts",
         "imdb_id": "tt4614584",
-        "poster_url": "https://image.tmdb.org/t/p/w500/clAMlA3DcwKMJIYeAFGGN0vyJQp.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg"
     },
     {
         "title": "The Sea Beast",
