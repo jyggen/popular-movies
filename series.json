@@ -1,10 +1,5 @@
 [
     {
-        "title": "Better Call Saul",
-        "tvdb_id": 273181,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
-    },
-    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/stTEycfG9928HYGEISBFaG1ngjM.jpg"
@@ -13,6 +8,11 @@
         "title": "Pretty Little Liars: Original Sin",
         "tvdb_id": 389085,
         "poster_url": "https://image.tmdb.org/t/p/w500/igmLgglembi9mZ2RYQRaGKigbvq.jpg"
+    },
+    {
+        "title": "Rick and Morty",
+        "tvdb_id": 275274,
+        "poster_url": "https://image.tmdb.org/t/p/w500/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg"
     },
     {
         "title": "Stranger Things",
