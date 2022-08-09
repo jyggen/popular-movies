@@ -1,5 +1,10 @@
 [
     {
+        "title": "Better Call Saul",
+        "tvdb_id": 273181,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/stTEycfG9928HYGEISBFaG1ngjM.jpg"
@@ -23,10 +28,5 @@
         "title": "The Terminal List",
         "tvdb_id": 399917,
         "poster_url": "https://image.tmdb.org/t/p/w500/71f3JHlJCP6V7LhHHiKZgjtFxZw.jpg"
-    },
-    {
-        "title": "The Walking Dead",
-        "tvdb_id": 153021,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
     }
 ]
