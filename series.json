@@ -1,5 +1,10 @@
 [
     {
+        "title": "Better Call Saul",
+        "tvdb_id": 273181,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
         "title": "Black Bird",
         "tvdb_id": 401998,
         "poster_url": "https://image.tmdb.org/t/p/w500/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg"
@@ -18,11 +23,6 @@
         "title": "Stranger Things",
         "tvdb_id": 305288,
         "poster_url": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg"
-    },
-    {
-        "title": "The Terminal List",
-        "tvdb_id": 399917,
-        "poster_url": "https://image.tmdb.org/t/p/w500/71f3JHlJCP6V7LhHHiKZgjtFxZw.jpg"
     },
     {
         "title": "The Walking Dead",
