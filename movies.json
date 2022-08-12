@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg"
     },
     {
-        "title": "DC League of Super-Pets",
-        "imdb_id": "tt8912936",
-        "poster_url": "https://image.tmdb.org/t/p/w500/r7XifzvtezNt31ypvsmb6Oqxw49.jpg"
-    },
-    {
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -28,6 +23,11 @@
         "title": "Jurassic World Dominion",
         "imdb_id": "tt8041270",
         "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
+    },
+    {
+        "title": "Luck",
+        "imdb_id": "tt7214954",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg"
     },
     {
         "title": "Minions: The Rise of Gru",

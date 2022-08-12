@@ -1,10 +1,5 @@
 [
     {
-        "title": "Better Call Saul",
-        "tvdb_id": 273181,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
-    },
-    {
         "title": "Black Bird",
         "tvdb_id": 401998,
         "poster_url": "https://image.tmdb.org/t/p/w500/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg"
@@ -18,6 +13,11 @@
         "title": "Rick and Morty",
         "tvdb_id": 275274,
         "poster_url": "https://image.tmdb.org/t/p/w500/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg"
+    },
+    {
+        "title": "The Sandman",
+        "tvdb_id": 366211,
+        "poster_url": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
     },
     {
         "title": "Stranger Things",
