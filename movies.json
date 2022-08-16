@@ -7,7 +7,7 @@
     {
         "title": "Bullet Train",
         "imdb_id": "tt12593682",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/nF1a7P9lUq9kNas9RIvSEQ412qN.jpg"
     },
     {
         "title": "Elvis",
@@ -25,14 +25,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
     },
     {
+        "title": "Lightyear",
+        "imdb_id": "tt10298810",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
+    },
+    {
         "title": "Luck",
         "imdb_id": "tt7214954",
         "poster_url": "https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg"
-    },
-    {
-        "title": "Minions: The Rise of Gru",
-        "imdb_id": "tt5113044",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
     },
     {
         "title": "Prey",
@@ -45,9 +45,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg"
     },
     {
-        "title": "The Sea Beast",
-        "imdb_id": "tt9288046",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
+        "title": "Thirteen Lives",
+        "imdb_id": "tt12262116",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
