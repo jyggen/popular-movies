@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nF1a7P9lUq9kNas9RIvSEQ412qN.jpg"
     },
     {
+        "title": "Day Shift",
+        "imdb_id": "tt13314558",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
+    },
+    {
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -23,11 +28,6 @@
         "title": "Jurassic World Dominion",
         "imdb_id": "tt8041270",
         "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
-    },
-    {
-        "title": "Lightyear",
-        "imdb_id": "tt10298810",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
     },
     {
         "title": "Luck",
