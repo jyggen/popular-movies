@@ -1,10 +1,5 @@
 [
     {
-        "title": "Better Call Saul",
-        "tvdb_id": 273181,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
-    },
-    {
         "title": "Black Bird",
         "tvdb_id": 401998,
         "poster_url": "https://image.tmdb.org/t/p/w500/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg"
@@ -13,6 +8,11 @@
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/stTEycfG9928HYGEISBFaG1ngjM.jpg"
+    },
+    {
+        "title": "House of the Dragon",
+        "tvdb_id": 371572,
+        "poster_url": "https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg"
     },
     {
         "title": "Rick and Morty",

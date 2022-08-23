@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
     },
     {
+        "title": "Dragon Ball Super: Super Hero",
+        "imdb_id": "tt14614892",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg"
+    },
+    {
         "title": "Elvis",
         "imdb_id": "tt3704428",
         "poster_url": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -30,9 +35,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
     },
     {
-        "title": "Luck",
-        "imdb_id": "tt7214954",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg"
+        "title": "Lightyear",
+        "imdb_id": "tt10298810",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
     },
     {
         "title": "Prey",
@@ -40,9 +45,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg"
     },
     {
-        "title": "The Sea Beast",
-        "imdb_id": "tt9288046",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
+        "title": "Purple Hearts",
+        "imdb_id": "tt4614584",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg"
     },
     {
         "title": "Thirteen Lives",
@@ -53,10 +58,5 @@
         "title": "Thor: Love and Thunder",
         "imdb_id": "tt10648342",
         "poster_url": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
-    },
-    {
-        "title": "Top Gun: Maverick",
-        "imdb_id": "tt1745960",
-        "poster_url": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
     }
 ]
