@@ -1,10 +1,5 @@
 [
     {
-        "title": "Better Call Saul",
-        "tvdb_id": 273181,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
-    },
-    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/stTEycfG9928HYGEISBFaG1ngjM.jpg"
@@ -23,6 +18,11 @@
         "title": "The Sandman",
         "tvdb_id": 366211,
         "poster_url": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
+    },
+    {
+        "title": "She-Hulk: Attorney at Law",
+        "tvdb_id": 368613,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg"
     },
     {
         "title": "Stranger Things",
