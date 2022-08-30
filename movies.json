@@ -1,5 +1,10 @@
 [
     {
+        "title": "Beast",
+        "imdb_id": "tt13223398",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg"
+    },
+    {
         "title": "The Black Phone",
         "imdb_id": "tt7144666",
         "poster_url": "https://image.tmdb.org/t/p/w500/lr11mCT85T1JanlgjMuhs9nMht4.jpg"
@@ -8,11 +13,6 @@
         "title": "Bullet Train",
         "imdb_id": "tt12593682",
         "poster_url": "https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg"
-    },
-    {
-        "title": "Day Shift",
-        "imdb_id": "tt13314558",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
     },
     {
         "title": "Dragon Ball Super: Super Hero",
@@ -30,14 +30,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
     },
     {
-        "title": "Jurassic World Dominion",
-        "imdb_id": "tt8041270",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
-    },
-    {
-        "title": "Lightyear",
-        "imdb_id": "tt10298810",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
+        "title": "Look Both Ways",
+        "imdb_id": "tt14298328",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg"
     },
     {
         "title": "Nope",
@@ -53,6 +48,11 @@
         "title": "Prey",
         "imdb_id": "tt11866324",
         "poster_url": "https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg"
+    },
+    {
+        "title": "Thirteen Lives",
+        "imdb_id": "tt12262116",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
