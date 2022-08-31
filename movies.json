@@ -1,10 +1,5 @@
 [
     {
-        "title": "Beast",
-        "imdb_id": "tt13223398",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg"
-    },
-    {
         "title": "The Black Phone",
         "imdb_id": "tt7144666",
         "poster_url": "https://image.tmdb.org/t/p/w500/lr11mCT85T1JanlgjMuhs9nMht4.jpg"
@@ -13,6 +8,11 @@
         "title": "Bullet Train",
         "imdb_id": "tt12593682",
         "poster_url": "https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg"
+    },
+    {
+        "title": "Day Shift",
+        "imdb_id": "tt13314558",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
     },
     {
         "title": "Dragon Ball Super: Super Hero",
@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
     },
     {
-        "title": "Look Both Ways",
-        "imdb_id": "tt14298328",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg"
-    },
-    {
         "title": "Nope",
         "imdb_id": "tt10954984",
         "poster_url": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
@@ -48,6 +43,11 @@
         "title": "Prey",
         "imdb_id": "tt11866324",
         "poster_url": "https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg"
+    },
+    {
+        "title": "Samaritan",
+        "imdb_id": "tt5500218",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg"
     },
     {
         "title": "Thirteen Lives",
