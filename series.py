@@ -122,6 +122,9 @@ def _get_reelgood_series() -> [tuple[str, int]]:
     )
 
     for series in response.json()["results"]:
+        if not series["released_on"]:
+            continue
+
         yield series["title"], int(series["released_on"][0:4])
 
 
