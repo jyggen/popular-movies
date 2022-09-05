@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg"
     },
     {
+        "title": "The Lord of the Rings: The Rings of Power",
+        "tvdb_id": 367506,
+        "poster_url": "https://image.tmdb.org/t/p/w500/suyNxglk17Cpk8rCM2kZgqKdftk.jpg"
+    },
+    {
         "title": "Rick and Morty",
         "tvdb_id": 275274,
         "poster_url": "https://image.tmdb.org/t/p/w500/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg"
@@ -18,11 +23,6 @@
         "title": "The Sandman",
         "tvdb_id": 366211,
         "poster_url": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
-    },
-    {
-        "title": "She-Hulk: Attorney at Law",
-        "tvdb_id": 368613,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg"
     },
     {
         "title": "Stranger Things",
