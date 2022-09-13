@@ -25,11 +25,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9f5sIJEgvUpFv0ozfA6TurG4j22.jpg"
     },
     {
-        "title": "The Gray Man",
-        "imdb_id": "tt1649418",
-        "poster_url": "https://image.tmdb.org/t/p/w500/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
-    },
-    {
         "title": "Nope",
         "imdb_id": "tt10954984",
         "poster_url": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
@@ -38,6 +33,11 @@
         "title": "Orphan: First Kill",
         "imdb_id": "tt11851548",
         "poster_url": "https://image.tmdb.org/t/p/w500/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg"
+    },
+    {
+        "title": "Pinocchio",
+        "imdb_id": "tt4593060",
+        "poster_url": "https://image.tmdb.org/t/p/w500/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
     },
     {
         "title": "Prey",
