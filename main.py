@@ -110,7 +110,7 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
     )
     body = BeautifulSoup(response.content, features="html.parser")
 
-    if body.find("h1").text != "30 Most Popular Movies Right Now":
+    if body.find("h1").text != "30 Most Popular Movies Right Now":
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
     for movie in body.select(".article_movie_title h2"):
