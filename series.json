@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg"
     },
     {
-        "title": "Cyberpunk: Edgerunners",
-        "tvdb_id": 384541,
-        "poster_url": "https://image.tmdb.org/t/p/w500/4CgMd3q8vy4bodVqS2Mp9epORmU.jpg"
-    },
-    {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg"
@@ -28,5 +23,10 @@
         "title": "The Sandman",
         "tvdb_id": 366211,
         "poster_url": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
+    },
+    {
+        "title": "Star Wars: Andor",
+        "tvdb_id": 393189,
+        "poster_url": "https://image.tmdb.org/t/p/w500/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg"
     }
 ]
