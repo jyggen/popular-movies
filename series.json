@@ -5,9 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg"
     },
     {
+        "title": "Cyberpunk: Edgerunners",
+        "tvdb_id": 384541,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg"
+    },
+    {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
-        "poster_url": "https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/17TTFFAXcg1hKAi1smsXsbpipru.jpg"
     },
     {
         "title": "The Lord of the Rings: The Rings of Power",
@@ -18,11 +23,6 @@
         "title": "Rick and Morty",
         "tvdb_id": 275274,
         "poster_url": "https://image.tmdb.org/t/p/w500/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg"
-    },
-    {
-        "title": "The Sandman",
-        "tvdb_id": 366211,
-        "poster_url": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
     },
     {
         "title": "Star Wars: Andor",
