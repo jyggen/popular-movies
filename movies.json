@@ -1,8 +1,8 @@
 [
     {
-        "title": "Barbarian",
-        "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d0Lhdp9AX70vdvVfhnSraaWw06R.jpg"
+        "title": "Athena",
+        "imdb_id": "tt15445056",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fenNPxVF5ERy0CSyVruuEg959Hg.jpg"
     },
     {
         "title": "Blonde",
@@ -20,19 +20,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dOtBvN4H7ICS2LabdNukRl4xYbC.jpg"
     },
     {
-        "title": "Goodnight Mommy",
-        "imdb_id": "tt9000184",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg"
+        "title": "The Greatest Beer Run Ever",
+        "imdb_id": "tt10268488",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg"
     },
     {
-        "title": "I Used to Be Famous",
-        "imdb_id": "tt15807910",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg"
+        "title": "Hocus Pocus 2",
+        "imdb_id": "tt11909878",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg"
     },
     {
         "title": "Lou",
         "imdb_id": "tt5315210",
         "poster_url": "https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg"
+    },
+    {
+        "title": "The Munsters",
+        "imdb_id": "tt14813212",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kJaEVFhDouD72GKANMkYqzQky9n.jpg"
     },
     {
         "title": "Nope",
@@ -45,18 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
     },
     {
-        "title": "Prey",
-        "imdb_id": "tt11866324",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg"
+        "title": "Smile",
+        "imdb_id": "tt15474916",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hiaeZKzwsk4y4atFhmncO5KRxeT.jpg"
     },
     {
         "title": "Thor: Love and Thunder",
         "imdb_id": "tt10648342",
         "poster_url": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
-    },
-    {
-        "title": "Where the Crawdads Sing",
-        "imdb_id": "tt9411972",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg"
     }
 ]
