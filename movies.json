@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fenNPxVF5ERy0CSyVruuEg959Hg.jpg"
     },
     {
+        "title": "Barbarian",
+        "imdb_id": "tt15791034",
+        "poster_url": "https://image.tmdb.org/t/p/w500/d0Lhdp9AX70vdvVfhnSraaWw06R.jpg"
+    },
+    {
         "title": "Blonde",
         "imdb_id": "tt1655389",
         "poster_url": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
@@ -15,14 +20,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/akIjKJDHcVN4bzifcEarKVPNpoa.jpg"
     },
     {
-        "title": "Don't Worry Darling",
-        "imdb_id": "tt10731256",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg"
-    },
-    {
         "title": "Entergalactic",
         "imdb_id": "tt10687116",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/cfXbwPWwlmMhC45asWxCWq3Utwa.jpg"
     },
     {
         "title": "The Greatest Beer Run Ever",
