@@ -114,7 +114,7 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
     for movie in body.select(".article_movie_title h2"):
-        title = movie.find("a").text.encode("iso-8859-1").decode("utf8")
+        title = movie.find("a").text
 
         if not title:
             continue
