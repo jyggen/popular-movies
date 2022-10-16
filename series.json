@@ -1,10 +1,5 @@
 [
     {
-        "title": "American Horror Story",
-        "tvdb_id": 250487,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kxtWasoZ7Q92erTJuuRtZiXTPiH.jpg"
-    },
-    {
         "title": "Chucky",
         "tvdb_id": 349415,
         "poster_url": "https://image.tmdb.org/t/p/w500/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
@@ -17,7 +12,7 @@
     {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
-        "poster_url": "https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg"
     },
     {
         "title": "The Lord of the Rings: The Rings of Power",
@@ -28,5 +23,10 @@
         "title": "Rick and Morty",
         "tvdb_id": 275274,
         "poster_url": "https://image.tmdb.org/t/p/w500/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg"
+    },
+    {
+        "title": "The Walking Dead",
+        "tvdb_id": 153021,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
     }
 ]
