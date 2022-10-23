@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
     },
     {
-        "title": "Don't Worry Darling",
-        "imdb_id": "tt10731256",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg"
-    },
-    {
         "title": "Grimcutty",
         "imdb_id": "tt17196124",
         "poster_url": "https://image.tmdb.org/t/p/w500/qvg75YJMfbHeDNirUrrgBMQImRn.jpg"
@@ -40,6 +35,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg"
     },
     {
+        "title": "Rosaline",
+        "imdb_id": "tt1777606",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg"
+    },
+    {
         "title": "Smile",
         "imdb_id": "tt15474916",
         "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
@@ -47,7 +47,7 @@
     {
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ydOS2qCqIdPvYbFuWFq1pfAzYsy.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg"
     },
     {
         "title": "Werewolf by Night",
