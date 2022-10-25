@@ -1,8 +1,13 @@
 [
     {
-        "title": "Blackout",
-        "imdb_id": "tt8363392",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg"
+        "title": "Barbarian",
+        "imdb_id": "tt15791034",
+        "poster_url": "https://image.tmdb.org/t/p/w500/n3N3j08ocxecz2gohfeecnZAFOt.jpg"
+    },
+    {
+        "title": "Black Adam",
+        "imdb_id": "tt6443346",
+        "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
     },
     {
         "title": "Blonde",
@@ -10,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
     },
     {
-        "title": "Grimcutty",
-        "imdb_id": "tt17196124",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qvg75YJMfbHeDNirUrrgBMQImRn.jpg"
+        "title": "Bros",
+        "imdb_id": "tt9731598",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4CArWLRroMPXwKJeO3HSYiyKyHD.jpg"
+    },
+    {
+        "title": "Don't Worry Darling",
+        "imdb_id": "tt10731256",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9BXYLjXtSipBp2GfAlsri4i8hPC.jpg"
     },
     {
         "title": "Halloween Ends",
@@ -20,24 +30,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3uDwqxbr0j34rJVJMOW6o8Upw5W.jpg"
     },
     {
-        "title": "Hocus Pocus 2",
-        "imdb_id": "tt11909878",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg"
-    },
-    {
         "title": "Luckiest Girl Alive",
         "imdb_id": "tt4595186",
         "poster_url": "https://image.tmdb.org/t/p/w500/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg"
     },
     {
-        "title": "Mr. Harrigan's Phone",
-        "imdb_id": "tt12908110",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg"
-    },
-    {
-        "title": "Rosaline",
-        "imdb_id": "tt1777606",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg"
+        "title": "The School for Good and Evil",
+        "imdb_id": "tt2935622",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg"
     },
     {
         "title": "Smile",
@@ -47,7 +47,7 @@
     {
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/nzGU9YcZYbusvIMAZzx13X38jey.jpg"
     },
     {
         "title": "Werewolf by Night",
