@@ -2,7 +2,7 @@
     {
         "title": "Barbarian",
         "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/n3N3j08ocxecz2gohfeecnZAFOt.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
     },
     {
         "title": "Black Adam",
@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
     },
     {
-        "title": "Bros",
-        "imdb_id": "tt9731598",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4CArWLRroMPXwKJeO3HSYiyKyHD.jpg"
-    },
-    {
         "title": "Don't Worry Darling",
         "imdb_id": "tt10731256",
         "poster_url": "https://image.tmdb.org/t/p/w500/9BXYLjXtSipBp2GfAlsri4i8hPC.jpg"
@@ -27,7 +22,7 @@
     {
         "title": "Halloween Ends",
         "imdb_id": "tt10665342",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3uDwqxbr0j34rJVJMOW6o8Upw5W.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/kFMntvUmKhvw1uAHXecqqNSFXt.jpg"
     },
     {
         "title": "Luckiest Girl Alive",
@@ -48,6 +43,11 @@
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
         "poster_url": "https://image.tmdb.org/t/p/w500/nzGU9YcZYbusvIMAZzx13X38jey.jpg"
+    },
+    {
+        "title": "Ticket to Paradise",
+        "imdb_id": "tt14109724",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg"
     },
     {
         "title": "Werewolf by Night",
