@@ -5,14 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
     },
     {
-        "title": "Chucky",
-        "tvdb_id": 349415,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
-    },
-    {
         "title": "Dahmer \u2013 Monster: The Jeffrey Dahmer Story",
         "tvdb_id": 389492,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qAv0UoAQVZWd6HGc83fsli1aKmo.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/f2PVrphK0u81ES256lw3oAZuF3x.jpg"
     },
     {
         "title": "House of the Dragon",
@@ -28,5 +23,10 @@
         "title": "Rick and Morty",
         "tvdb_id": 275274,
         "poster_url": "https://image.tmdb.org/t/p/w500/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg"
+    },
+    {
+        "title": "The Walking Dead",
+        "tvdb_id": 153021,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
     }
 ]
