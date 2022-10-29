@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
     },
     {
-        "title": "Blonde",
-        "imdb_id": "tt1655389",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
-    },
-    {
         "title": "Don't Worry Darling",
         "imdb_id": "tt10731256",
         "poster_url": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg"
@@ -38,6 +33,11 @@
         "title": "Smile",
         "imdb_id": "tt15474916",
         "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
+    },
+    {
+        "title": "The Stranger",
+        "imdb_id": "tt11897478",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg"
     },
     {
         "title": "Terrifier 2",
