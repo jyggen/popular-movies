@@ -1,5 +1,10 @@
 [
     {
+        "title": "All Quiet on the Western Front",
+        "imdb_id": "tt1016150",
+        "poster_url": "https://image.tmdb.org/t/p/w500/glZfjVEzZCJ7oTHWa3m6KefcoRN.jpg"
+    },
+    {
         "title": "Barbarian",
         "imdb_id": "tt15791034",
         "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
@@ -43,11 +48,6 @@
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
         "poster_url": "https://image.tmdb.org/t/p/w500/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg"
-    },
-    {
-        "title": "Ticket to Paradise",
-        "imdb_id": "tt14109724",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg"
     },
     {
         "title": "Werewolf by Night",
