@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
     },
     {
+        "title": "Selena Gomez: My Mind & Me",
+        "imdb_id": "tt21819250",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg"
+    },
+    {
         "title": "Smile",
         "imdb_id": "tt15474916",
         "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
@@ -53,10 +58,5 @@
         "title": "Wendell & Wild",
         "imdb_id": "tt5181830",
         "poster_url": "https://image.tmdb.org/t/p/w500/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg"
-    },
-    {
-        "title": "The Woman King",
-        "imdb_id": "tt8093700",
-        "poster_url": "https://image.tmdb.org/t/p/w500/438QXt1E3WJWb3PqNniK0tAE5c1.jpg"
     }
 ]
