@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
     },
     {
+        "title": "My Policeman",
+        "imdb_id": "tt13139228",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg"
+    },
+    {
         "title": "Selena Gomez: My Mind & Me",
         "imdb_id": "tt21819250",
         "poster_url": "https://image.tmdb.org/t/p/w500/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg"
@@ -47,12 +52,7 @@
     {
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b6IRp6Pl2Fsq37r9jFhGoLtaqHm.jpg"
-    },
-    {
-        "title": "Ticket to Paradise",
-        "imdb_id": "tt14109724",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/wRKHUqYGrp3PO91mZVQ18xlwYzW.jpg"
     },
     {
         "title": "Wendell & Wild",
