@@ -7,12 +7,17 @@
     {
         "title": "Barbarian",
         "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/d0Lhdp9AX70vdvVfhnSraaWw06R.jpg"
     },
     {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
         "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
+    },
+    {
+        "title": "Causeway",
+        "imdb_id": "tt10192406",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg"
     },
     {
         "title": "Don't Worry Darling",
@@ -23,11 +28,6 @@
         "title": "Enola Holmes 2",
         "imdb_id": "tt14641788",
         "poster_url": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
-    },
-    {
-        "title": "The Good Nurse",
-        "imdb_id": "tt4273800",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
     },
     {
         "title": "My Policeman",
