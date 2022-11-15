@@ -7,12 +7,17 @@
     {
         "title": "Barbarian",
         "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d0Lhdp9AX70vdvVfhnSraaWw06R.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
     },
     {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
         "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
+    },
+    {
+        "title": "Black Panther: Wakanda Forever",
+        "imdb_id": "tt9114286",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
     },
     {
         "title": "Causeway",
@@ -30,14 +35,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
     },
     {
+        "title": "The Good Nurse",
+        "imdb_id": "tt4273800",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
+    },
+    {
         "title": "My Policeman",
         "imdb_id": "tt13139228",
         "poster_url": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg"
-    },
-    {
-        "title": "Selena Gomez: My Mind & Me",
-        "imdb_id": "tt21819250",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg"
     },
     {
         "title": "Smile",
@@ -53,10 +58,5 @@
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
         "poster_url": "https://image.tmdb.org/t/p/w500/b6IRp6Pl2Fsq37r9jFhGoLtaqHm.jpg"
-    },
-    {
-        "title": "Wendell & Wild",
-        "imdb_id": "tt5181830",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg"
     }
 ]
