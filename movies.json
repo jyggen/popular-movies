@@ -12,17 +12,12 @@
     {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
     },
     {
         "title": "Black Panther: Wakanda Forever",
         "imdb_id": "tt9114286",
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
-    },
-    {
-        "title": "Causeway",
-        "imdb_id": "tt10192406",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg"
     },
     {
         "title": "Don't Worry Darling",
@@ -35,9 +30,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
     },
     {
-        "title": "The Good Nurse",
-        "imdb_id": "tt4273800",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
+        "title": "Falling for Christmas",
+        "imdb_id": "tt14715170",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg"
     },
     {
         "title": "My Policeman",
@@ -58,5 +53,10 @@
         "title": "Terrifier 2",
         "imdb_id": "tt10403420",
         "poster_url": "https://image.tmdb.org/t/p/w500/b6IRp6Pl2Fsq37r9jFhGoLtaqHm.jpg"
+    },
+    {
+        "title": "Weird: The Al Yankovic Story",
+        "imdb_id": "tt17076046",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
     }
 ]
