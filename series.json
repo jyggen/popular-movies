@@ -1,10 +1,5 @@
 [
     {
-        "title": "Chainsaw Man",
-        "tvdb_id": 397934,
-        "poster_url": "https://image.tmdb.org/t/p/w500/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg"
-    },
-    {
         "title": "Chucky",
         "tvdb_id": 349415,
         "poster_url": "https://image.tmdb.org/t/p/w500/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
@@ -13,6 +8,11 @@
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg"
+    },
+    {
+        "title": "The Peripheral",
+        "tvdb_id": 349187,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ccBe5BVeibdBEQU7l6P6BubajWV.jpg"
     },
     {
         "title": "Rick and Morty",
