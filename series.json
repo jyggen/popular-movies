@@ -1,5 +1,10 @@
 [
     {
+        "title": "1899",
+        "tvdb_id": 384429,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2QK8tIXafyiz93PvAbKxxfK2BLb.jpg"
+    },
+    {
         "title": "Chucky",
         "tvdb_id": 349415,
         "poster_url": "https://image.tmdb.org/t/p/w500/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
@@ -23,10 +28,5 @@
         "title": "The Walking Dead",
         "tvdb_id": 153021,
         "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
-    },
-    {
-        "title": "Yellowstone",
-        "tvdb_id": 341164,
-        "poster_url": "https://image.tmdb.org/t/p/w500/iqWCUwLcjkVgtpsDLs8xx8kscg6.jpg"
     }
 ]
