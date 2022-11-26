@@ -2,16 +2,16 @@ import json
 import logging
 import os
 from datetime import date, timedelta
-from typing import Any, Optional
+from typing import Any, Iterator, Optional
 
 import requests
 import sentry_sdk
+from bs4 import BeautifulSoup
 from tmdbv3api import TV, Search
 
 from _shared import (
     _calculate_scores,
     _sort_key,
-    _get_year_variants,
     _get_title_variants,
 )
 
@@ -20,7 +20,14 @@ _search_api = Search()
 _tv_api = TV()
 
 
-def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
+def _best_match(
+    a: dict,
+    b: Optional[dict],
+    title: str,
+    year: int,
+    season_name: str,
+    season_number: int | None,
+) -> dict:
     if b is None:
         return a
 
@@ -30,18 +37,45 @@ def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
     if a["name"] != title and b["name"] == title:
         return b
 
-    a_has_release_date = "first_air_date" in a and a["first_air_date"]
-    b_has_release_date = "first_air_date" in b and b["first_air_date"]
+    a_has_matching_season = next(
+        (
+            season
+            for season in a["seasons"]
+            if season["season_number"] == season_number
+            or season["name"] == season_name
+            or (
+                not season["season_number"]
+                and season["air_date"]
+                and date.fromisoformat(season["air_date"]).year == year
+            )
+        ),
+        None,
+    )
 
-    if a_has_release_date and not b_has_release_date:
+    b_has_matching_season = next(
+        (
+            season
+            for season in b["seasons"]
+            if season["season_number"] == season_number
+            or season["name"] == season_name
+            or (
+                not season["season_number"]
+                and season["air_date"]
+                and date.fromisoformat(season["air_date"]).year == year
+            )
+        ),
+        None,
+    )
+
+    if a_has_matching_season and not b_has_matching_season:
         return a
 
-    if not a_has_release_date and b_has_release_date:
+    if not a_has_matching_season and b_has_matching_season:
         return b
 
-    if a_has_release_date and b_has_release_date:
-        a_date = date.fromisoformat(a["first_air_date"])
-        b_date = date.fromisoformat(b["first_air_date"])
+    if a_has_matching_season and b_has_matching_season:
+        a_date = date.fromisoformat(a_has_matching_season["air_date"])
+        b_date = date.fromisoformat(b_has_matching_season["air_date"])
 
         if abs(a_date.year - year) > abs(b_date.year - year):
             return b
@@ -55,7 +89,7 @@ def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
     return b
 
 
-def _filter_by_recently_aried(series: Any) -> bool:
+def _filter_by_recently_aired(series: Any) -> bool:
     series = _tv_api.details(series["id"])
 
     if "last_episode_to_air" in series and series["last_episode_to_air"]:
@@ -75,57 +109,81 @@ def _filter_by_recently_aried(series: Any) -> bool:
     return False
 
 
-def _find_series_by_title_year(title: str, year: int) -> dict | None:
+def _find_series_by_title_year_season(
+    title: str, year: int, season_name: str, season_number: int | None
+) -> dict | None:
     match = None
 
-    for search_year in _get_year_variants(year):
-        for search_query in _get_title_variants(title):
-            page = 1
+    for search_query in _get_title_variants(title):
+        page = 1
 
-            while page == 1 or page <= int(_search_api.total_pages):
-                results = _search_api.tv_shows(
-                    {
-                        "query": search_query,
-                        "first_air_date_year": search_year,
-                        "page": page,
-                    }
-                )
-                page += 1
+        while page == 1 or page <= int(_search_api.total_pages):
+            query = {
+                "query": search_query,
+                "page": page,
+            }
 
-                for option in results:
-                    match = _best_match(option, match, search_query, search_year)
+            results = _search_api.tv_shows(query)
+            page += 1
 
-            if match:
-                match = dict(match)
-                match["imdb_id"] = _tv_api.external_ids(match["id"]).imdb_id
-
-                logging.info(
-                    'Matched "{title}" ({year}) against "{imdb_id}".'.format(
-                        imdb_id=match["imdb_id"],
-                        title=title,
-                        year=year,
-                    )
+            for option in results:
+                option = _tv_api.details(option["id"])
+                match = _best_match(
+                    option, match, search_query, year, season_name, season_number
                 )
 
-                return match
+        if match:
+            match = dict(match)
+            match["imdb_id"] = _tv_api.external_ids(match["id"]).imdb_id
+
+            logging.info(
+                'Matched "{season_name}" of "{title}" ({year}) against "{imdb_id}".'.format(
+                    imdb_id=match["imdb_id"],
+                    title=title,
+                    season_name=season_name,
+                    year=year,
+                )
+            )
+
+            return match
 
     logging.exception(
-        'Unable to find a match for "{title}" ({year}).'.format(title=title, year=year)
+        'Unable to find a match for "{season_name}" of "{title}" ({year}).'.format(
+            title=title,
+            season_name=season_name,
+            year=year,
+        )
     )
 
     return None
 
 
-def _get_reelgood_series() -> [tuple[str, int]]:
+def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int, str, int | None]]:
     response = requests.get(
-        "https://api.reelgood.com/v3.0/content/browse/curated/trending-picks?availability=onAnySource&content_kind=both&skip=0&sort=1&take=50"
+        "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
     )
+    body = BeautifulSoup(response.content, features="html.parser")
 
-    for series in response.json()["results"]:
-        if not series["released_on"]:
+    if (
+        body.find("h1").text
+        != "25 Most Popular TV Shows Right Now: Top Series Everyone’s Watching"
+    ):
+        raise ValueError("Unable to parse Rotten Tomatoes response.")
+
+    for movie in body.select(".article_movie_title h2"):
+        title = movie.find("a").text
+
+        if not title:
             continue
 
-        yield series["title"], int(series["released_on"][0:4])
+        title, season_name = title.rsplit(": ", 1)
+        year = int(movie.find(class_="start-year").text[1:5])
+        season = None
+
+        if season_name.startswith("Season "):
+            season = int(season_name[7:])
+
+        yield title, year, season_name, season
 
 
 def _to_steven_lu_format(series: list[dict]) -> [dict]:
@@ -141,12 +199,12 @@ def _generate() -> list[dict]:
     series = filter(
         None,
         [
-            _find_series_by_title_year(title, year)
-            for title, year in _get_reelgood_series()
+            _find_series_by_title_year_season(title, year, season_text, season_number)
+            for title, year, season_text, season_number in _get_rotten_tomatoes_series()
         ],
     )
 
-    series = filter(_filter_by_recently_aried, series)
+    series = filter(_filter_by_recently_aired, series)
     series = _calculate_scores(list(series))
     series = sorted(series, key=lambda show: show["score"], reverse=True)
     series = _to_steven_lu_format(series[:_MAX_RESULTS])
