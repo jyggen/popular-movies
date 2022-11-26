@@ -5,14 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg"
     },
     {
-        "title": "Barbarian",
-        "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
-    },
-    {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
     },
     {
         "title": "Black Panther: Wakanda Forever",
@@ -23,11 +18,6 @@
         "title": "Disenchanted",
         "imdb_id": "tt1596342",
         "poster_url": "https://image.tmdb.org/t/p/w500/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg"
-    },
-    {
-        "title": "Don't Worry Darling",
-        "imdb_id": "tt10731256",
-        "poster_url": "https://image.tmdb.org/t/p/w500/60hrKYVq6Y1QRJeHNbYo3tHDcUd.jpg"
     },
     {
         "title": "Enola Holmes 2",
@@ -50,13 +40,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/f18kgonrgr8YvEuvshExS4XBGL8.jpg"
     },
     {
+        "title": "Slumberland",
+        "imdb_id": "tt13320662",
+        "poster_url": "https://image.tmdb.org/t/p/w500/f18kgonrgr8YvEuvshExS4XBGL8.jpg"
+    },
+    {
         "title": "Smile",
         "imdb_id": "tt15474916",
         "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
     },
     {
-        "title": "Weird: The Al Yankovic Story",
-        "imdb_id": "tt17076046",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qcj2z13G0KjaIgc01ifiUKu7W07.jpg"
+        "title": "Spirited",
+        "imdb_id": "tt10999120",
+        "poster_url": "https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg"
+    },
+    {
+        "title": "The Wonder",
+        "imdb_id": "tt9288822",
+        "poster_url": "https://image.tmdb.org/t/p/w500/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg"
     }
 ]
