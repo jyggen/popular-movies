@@ -5,14 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg"
     },
     {
-        "title": "Chainsaw Man",
-        "tvdb_id": 397934,
-        "poster_url": "https://image.tmdb.org/t/p/w500/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg"
-    },
-    {
-        "title": "House of the Dragon",
-        "tvdb_id": 371572,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg"
+        "title": "The Lord of the Rings: The Rings of Power",
+        "tvdb_id": 367506,
+        "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
     },
     {
         "title": "The Peripheral",
@@ -20,13 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ccBe5BVeibdBEQU7l6P6BubajWV.jpg"
     },
     {
-        "title": "Rick and Morty",
-        "tvdb_id": 275274,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg"
+        "title": "Star Wars: Andor",
+        "tvdb_id": 393189,
+        "poster_url": "https://image.tmdb.org/t/p/w500/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg"
     },
     {
-        "title": "The Walking Dead",
-        "tvdb_id": 153021,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+        "title": "Wednesday",
+        "tvdb_id": 397060,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jeGtaMwGxPmQN5xM4ClnwPQcNQz.jpg"
+    },
+    {
+        "title": "Yellowstone",
+        "tvdb_id": 341164,
+        "poster_url": "https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg"
     }
 ]
