@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg"
     },
     {
-        "title": "Barbarian",
-        "imdb_id": "tt15791034",
-        "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
-    },
-    {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
         "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
@@ -18,6 +13,11 @@
         "title": "Black Panther: Wakanda Forever",
         "imdb_id": "tt9114286",
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+    },
+    {
+        "title": "A Christmas Story Christmas",
+        "imdb_id": "tt17220704",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg"
     },
     {
         "title": "Disenchanted",
