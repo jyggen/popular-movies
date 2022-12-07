@@ -1,10 +1,5 @@
 [
     {
-        "title": "All Quiet on the Western Front",
-        "imdb_id": "tt1016150",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg"
-    },
-    {
         "title": "Barbarian",
         "imdb_id": "tt15791034",
         "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg"
@@ -20,16 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg"
     },
     {
-        "title": "Bones and All",
-        "imdb_id": "tt10168670",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dBQuk2LkHjrDsSjueirPQg96GCc.jpg"
-    },
-    {
-        "title": "Disenchanted",
-        "imdb_id": "tt1596342",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg"
-    },
-    {
         "title": "The Guardians of the Galaxy Holiday Special",
         "imdb_id": "tt13623136",
         "poster_url": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
@@ -38,6 +23,11 @@
         "title": "The Menu",
         "imdb_id": "tt9764362",
         "poster_url": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
+    },
+    {
+        "title": "The Noel Diary",
+        "imdb_id": "tt13007592",
+        "poster_url": "https://image.tmdb.org/t/p/w500/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg"
     },
     {
         "title": "Slumberland",
@@ -58,5 +48,15 @@
         "title": "The Swimmers",
         "imdb_id": "tt8745676",
         "poster_url": "https://image.tmdb.org/t/p/w500/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg"
+    },
+    {
+        "title": "Troll",
+        "imdb_id": "tt11116912",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9z4jRr43JdtU66P0iy8h18OyLql.jpg"
+    },
+    {
+        "title": "Violent Night",
+        "imdb_id": "tt12003946",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1CHp8QQjGwqWaPZWjzcRidlt5Xs.jpg"
     }
 ]
