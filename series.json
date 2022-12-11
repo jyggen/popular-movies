@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gZleGu1MQVBArH2dlpZ9CGi0hhy.jpg"
     },
     {
-        "title": "The Lord of the Rings: The Rings of Power",
-        "tvdb_id": 367506,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
-    },
-    {
         "title": "The Peripheral",
         "tvdb_id": 349187,
         "poster_url": "https://image.tmdb.org/t/p/w500/ccBe5BVeibdBEQU7l6P6BubajWV.jpg"
@@ -23,6 +18,11 @@
         "title": "Wednesday",
         "tvdb_id": 397060,
         "poster_url": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
+    },
+    {
+        "title": "Willow",
+        "tvdb_id": 393192,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg"
     },
     {
         "title": "Yellowstone",
