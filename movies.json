@@ -1,5 +1,10 @@
 [
     {
+        "title": "Amsterdam",
+        "imdb_id": "tt10304142",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg"
+    },
+    {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
         "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
@@ -8,6 +13,11 @@
         "title": "Black Panther: Wakanda Forever",
         "imdb_id": "tt9114286",
         "poster_url": "https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg"
+    },
+    {
+        "title": "Don't Worry Darling",
+        "imdb_id": "tt10731256",
+        "poster_url": "https://image.tmdb.org/t/p/w500/60hrKYVq6Y1QRJeHNbYo3tHDcUd.jpg"
     },
     {
         "title": "The Guardians of the Galaxy Holiday Special",
@@ -23,21 +33,6 @@
         "title": "The Menu",
         "imdb_id": "tt9764362",
         "poster_url": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
-    },
-    {
-        "title": "The Noel Diary",
-        "imdb_id": "tt13007592",
-        "poster_url": "https://image.tmdb.org/t/p/w500/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg"
-    },
-    {
-        "title": "Slumberland",
-        "imdb_id": "tt13320662",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eCgBLNAFC4XDZ4DiyQ80PIJdSHU.jpg"
-    },
-    {
-        "title": "Smile",
-        "imdb_id": "tt15474916",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg"
     },
     {
         "title": "Spirited",
@@ -58,5 +53,10 @@
         "title": "Violent Night",
         "imdb_id": "tt12003946",
         "poster_url": "https://image.tmdb.org/t/p/w500/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg"
+    },
+    {
+        "title": "The Wonder",
+        "imdb_id": "tt9288822",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4dX1LPGuZG0FSoP9y9SyDKLYicy.jpg"
     }
 ]
