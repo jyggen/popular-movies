@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/60hrKYVq6Y1QRJeHNbYo3tHDcUd.jpg"
     },
     {
+        "title": "Emancipation",
+        "imdb_id": "tt12530246",
+        "poster_url": "https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg"
+    },
+    {
         "title": "The Guardians of the Galaxy Holiday Special",
         "imdb_id": "tt13623136",
         "poster_url": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
@@ -53,10 +58,5 @@
         "title": "Violent Night",
         "imdb_id": "tt12003946",
         "poster_url": "https://image.tmdb.org/t/p/w500/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg"
-    },
-    {
-        "title": "The Wonder",
-        "imdb_id": "tt9288822",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4dX1LPGuZG0FSoP9y9SyDKLYicy.jpg"
     }
 ]
