@@ -25,6 +25,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg"
     },
     {
+        "title": "Glass Onion: A Knives Out Mystery",
+        "imdb_id": "tt11564570",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
+    },
+    {
         "title": "The Guardians of the Galaxy Holiday Special",
         "imdb_id": "tt13623136",
         "poster_url": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
@@ -43,11 +48,6 @@
         "title": "Spirited",
         "imdb_id": "tt10999120",
         "poster_url": "https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg"
-    },
-    {
-        "title": "The Swimmers",
-        "imdb_id": "tt8745676",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg"
     },
     {
         "title": "Troll",
