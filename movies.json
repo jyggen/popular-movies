@@ -1,5 +1,15 @@
 [
     {
+        "title": "Avatar: The Way of Water",
+        "imdb_id": "tt1630029",
+        "poster_url": "https://image.tmdb.org/t/p/w500/94xxm5701CzOdJdUEdIuwqZaowx.jpg"
+    },
+    {
+        "title": "The Banshees of Inisherin",
+        "imdb_id": "tt11813216",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+    },
+    {
         "title": "Black Adam",
         "imdb_id": "tt6443346",
         "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
@@ -25,14 +35,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg"
     },
     {
-        "title": "Glass Onion: A Knives Out Mystery",
-        "imdb_id": "tt11564570",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
-    },
-    {
-        "title": "The Guardians of the Galaxy Holiday Special",
-        "imdb_id": "tt13623136",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+        "title": "God's Crooked Lines",
+        "imdb_id": "tt13229894",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hB2VqiLDiHAyLdZ1dlXIGqDJy06.jpg"
     },
     {
         "title": "Guillermo del Toro's Pinocchio",
@@ -43,11 +48,6 @@
         "title": "The Menu",
         "imdb_id": "tt9764362",
         "poster_url": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
-    },
-    {
-        "title": "Spirited",
-        "imdb_id": "tt10999120",
-        "poster_url": "https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg"
     },
     {
         "title": "Troll",
