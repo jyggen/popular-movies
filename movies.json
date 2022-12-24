@@ -2,7 +2,7 @@
     {
         "title": "Avatar: The Way of Water",
         "imdb_id": "tt1630029",
-        "poster_url": "https://image.tmdb.org/t/p/w500/94xxm5701CzOdJdUEdIuwqZaowx.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
     },
     {
         "title": "The Banshees of Inisherin",
@@ -35,6 +35,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xId9zoiv5WPQOuxqykUDrlpmrUz.jpg"
     },
     {
+        "title": "Glass Onion: A Knives Out Mystery",
+        "imdb_id": "tt11564570",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
+    },
+    {
         "title": "God's Crooked Lines",
         "imdb_id": "tt13229894",
         "poster_url": "https://image.tmdb.org/t/p/w500/6zEwJI1Q4GZNZfwQ6RtX05ybLRr.jpg"
@@ -43,11 +48,6 @@
         "title": "Guillermo del Toro's Pinocchio",
         "imdb_id": "tt1488589",
         "poster_url": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
-    },
-    {
-        "title": "The Menu",
-        "imdb_id": "tt9764362",
-        "poster_url": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
     },
     {
         "title": "Troll",
