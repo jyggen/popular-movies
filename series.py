@@ -165,8 +165,7 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int, str, int | None]]:
     body = BeautifulSoup(response.content, features="html.parser")
 
     if (
-        body.find("h1").text
-        != "25 Most Popular TV Shows Right Now: Top Series Everyone’s Watching"
+        "25 Most Popular TV Shows Right Now" not in body.find("h1").text
     ):
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
