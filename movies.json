@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
     },
     {
-        "title": "Bones and All",
-        "imdb_id": "tt10168670",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dBQuk2LkHjrDsSjueirPQg96GCc.jpg"
-    },
-    {
         "title": "Emancipation",
         "imdb_id": "tt12530246",
         "poster_url": "https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg"
@@ -50,9 +45,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
     },
     {
-        "title": "Troll",
-        "imdb_id": "tt11116912",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9z4jRr43JdtU66P0iy8h18OyLql.jpg"
+        "title": "Puss in Boots: The Last Wish",
+        "imdb_id": "tt3915174",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg"
+    },
+    {
+        "title": "Strange World",
+        "imdb_id": "tt10298840",
+        "poster_url": "https://image.tmdb.org/t/p/w500/mPywkW1dfDer6GxxTvjwOTsAVud.jpg"
     },
     {
         "title": "Violent Night",
