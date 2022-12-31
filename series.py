@@ -24,7 +24,7 @@ def _best_match(
     a: dict,
     b: Optional[dict],
     title: str,
-    year: int,
+    year: int | None,
     season_name: str,
     season_number: int | None,
 ) -> dict:
@@ -73,7 +73,7 @@ def _best_match(
     if not a_has_matching_season and b_has_matching_season:
         return b
 
-    if a_has_matching_season and b_has_matching_season:
+    if year and a_has_matching_season and b_has_matching_season:
         a_date = date.fromisoformat(a_has_matching_season["air_date"])
         b_date = date.fromisoformat(b_has_matching_season["air_date"])
 
@@ -110,7 +110,7 @@ def _filter_by_recently_aired(series: Any) -> bool:
 
 
 def _find_series_by_title_year_season(
-    title: str, year: int, season_name: str, season_number: int | None
+    title: str, year: int | None, season_name: str, season_number: int | None
 ) -> dict | None:
     match = None
 
@@ -158,7 +158,7 @@ def _find_series_by_title_year_season(
     return None
 
 
-def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int, str, int | None]]:
+def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | None]]:
     response = requests.get(
         "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
     )
@@ -176,7 +176,12 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int, str, int | None]]:
             continue
 
         title, season_name = title.rsplit(": ", 1)
-        year = int(movie.find(class_="start-year").text[1:5])
+        year_text = movie.find(class_="start-year").text
+        year = None
+
+        if year_text != '()':
+            year = int(year_text[1:5])
+
         season = None
 
         if season_name.startswith("Season "):
