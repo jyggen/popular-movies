@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
     },
     {
-        "title": "Emancipation",
-        "imdb_id": "tt12530246",
-        "poster_url": "https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg"
-    },
-    {
         "title": "Glass Onion: A Knives Out Mystery",
         "imdb_id": "tt11564570",
         "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
@@ -35,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
     },
     {
+        "title": "M3GAN",
+        "imdb_id": "tt8760708",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg"
+    },
+    {
         "title": "The Menu",
         "imdb_id": "tt9764362",
         "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
@@ -42,12 +42,7 @@
     {
         "title": "Puss in Boots: The Last Wish",
         "imdb_id": "tt3915174",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d01JuYN8yozPZsTPwYz6V9IoRJP.jpg"
-    },
-    {
-        "title": "Roald Dahl's Matilda the Musical",
-        "imdb_id": "tt3447590",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg"
     },
     {
         "title": "Strange World",
@@ -57,6 +52,11 @@
     {
         "title": "Violent Night",
         "imdb_id": "tt12003946",
-        "poster_url": "https://image.tmdb.org/t/p/w500/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1XSYOP0JjjyMz1irihvWywro82r.jpg"
+    },
+    {
+        "title": "White Noise",
+        "imdb_id": "tt6160448",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1a48bfLQm57ByADdw05uRMoFCZc.jpg"
     }
 ]
