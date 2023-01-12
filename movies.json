@@ -32,7 +32,7 @@
     {
         "title": "M3GAN",
         "imdb_id": "tt8760708",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
     },
     {
         "title": "The Menu",
@@ -40,9 +40,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
     },
     {
+        "title": "The Pale Blue Eye",
+        "imdb_id": "tt14138650",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
+    },
+    {
         "title": "Puss in Boots: The Last Wish",
         "imdb_id": "tt3915174",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg"
     },
     {
         "title": "Strange World",
@@ -53,10 +58,5 @@
         "title": "Violent Night",
         "imdb_id": "tt12003946",
         "poster_url": "https://image.tmdb.org/t/p/w500/1XSYOP0JjjyMz1irihvWywro82r.jpg"
-    },
-    {
-        "title": "The Whale",
-        "imdb_id": "tt13833688",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bGlTTHAhLJXIXb1a0zyBEPqtxV9.jpg"
     }
 ]
