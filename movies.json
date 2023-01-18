@@ -10,14 +10,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
     },
     {
-        "title": "Black Adam",
-        "imdb_id": "tt6443346",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
-    },
-    {
         "title": "Black Panther: Wakanda Forever",
         "imdb_id": "tt9114286",
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+    },
+    {
+        "title": "Devotion",
+        "imdb_id": "tt7693316",
+        "poster_url": "https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg"
+    },
+    {
+        "title": "The Fabelmans",
+        "imdb_id": "tt14208870",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xId9zoiv5WPQOuxqykUDrlpmrUz.jpg"
     },
     {
         "title": "Glass Onion: A Knives Out Mystery",
@@ -25,14 +30,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
     },
     {
-        "title": "Guillermo del Toro's Pinocchio",
-        "imdb_id": "tt1488589",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
-    },
-    {
         "title": "M3GAN",
         "imdb_id": "tt8760708",
         "poster_url": "https://image.tmdb.org/t/p/w500/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg"
+    },
+    {
+        "title": "A Man Called Otto",
+        "imdb_id": "tt7405458",
+        "poster_url": "https://image.tmdb.org/t/p/w500/d7uLLwLsRwwQlTigSBnPj4CU2sP.jpg"
     },
     {
         "title": "The Menu",
@@ -50,13 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
     },
     {
-        "title": "Strange World",
-        "imdb_id": "tt10298840",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg"
-    },
-    {
-        "title": "Violent Night",
-        "imdb_id": "tt12003946",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1XSYOP0JjjyMz1irihvWywro82r.jpg"
+        "title": "The Whale",
+        "imdb_id": "tt13833688",
+        "poster_url": "https://image.tmdb.org/t/p/w500/63Dsk2P2bu0KXLslShS5I60wsOD.jpg"
     }
 ]
