@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
-        "title": "The Banshees of Inisherin",
-        "imdb_id": "tt11813216",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
-    },
-    {
         "title": "Black Panther: Wakanda Forever",
         "imdb_id": "tt9114286",
         "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
@@ -23,6 +18,11 @@
         "title": "Devotion",
         "imdb_id": "tt7693316",
         "poster_url": "https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg"
+    },
+    {
+        "title": "The Fabelmans",
+        "imdb_id": "tt14208870",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xId9zoiv5WPQOuxqykUDrlpmrUz.jpg"
     },
     {
         "title": "Glass Onion: A Knives Out Mystery",
