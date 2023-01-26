@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
     },
     {
+        "title": "M3GAN",
+        "imdb_id": "tt8760708",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rxDPzExeovcBZY2IVWdYs87AzVE.jpg"
+    },
+    {
         "title": "A Man Called Otto",
         "imdb_id": "tt7405458",
         "poster_url": "https://image.tmdb.org/t/p/w500/d7uLLwLsRwwQlTigSBnPj4CU2sP.jpg"
@@ -43,11 +48,6 @@
         "title": "The Pale Blue Eye",
         "imdb_id": "tt14138650",
         "poster_url": "https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
-    },
-    {
-        "title": "Plane",
-        "imdb_id": "tt5884796",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2g9ZBjUfF1X53EinykJqiBieUaO.jpg"
     },
     {
         "title": "Puss in Boots: The Last Wish",
