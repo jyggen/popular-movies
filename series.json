@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
     },
     {
-        "title": "Vikings: Valhalla",
-        "tvdb_id": 372700,
-        "poster_url": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
-    },
-    {
         "title": "Wednesday",
         "tvdb_id": 397060,
         "poster_url": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
+    },
+    {
+        "title": "Willow",
+        "tvdb_id": 393192,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg"
     }
 ]
