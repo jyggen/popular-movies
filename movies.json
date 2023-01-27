@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
-        "title": "Black Panther: Wakanda Forever",
-        "imdb_id": "tt9114286",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
-    },
-    {
         "title": "Devotion",
         "imdb_id": "tt7693316",
         "poster_url": "https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg"
@@ -28,6 +23,11 @@
         "title": "Glass Onion: A Knives Out Mystery",
         "imdb_id": "tt11564570",
         "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
+    },
+    {
+        "title": "JUNG_E",
+        "imdb_id": "tt22352848",
+        "poster_url": "https://image.tmdb.org/t/p/w500/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg"
     },
     {
         "title": "M3GAN",
@@ -57,6 +57,6 @@
     {
         "title": "The Whale",
         "imdb_id": "tt13833688",
-        "poster_url": "https://image.tmdb.org/t/p/w500/63Dsk2P2bu0KXLslShS5I60wsOD.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/k2ez0xoCc2uDkRPqktGhW1qZzuP.jpg"
     }
 ]

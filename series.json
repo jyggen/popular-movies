@@ -1,13 +1,13 @@
 [
     {
-        "title": "Anne Rice's Mayfair Witches",
-        "tvdb_id": 413074,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zKRBfuRWGbs9R2nxhlNP8CfArUh.jpg"
-    },
-    {
         "title": "Ginny & Georgia",
         "tvdb_id": 393625,
         "poster_url": "https://image.tmdb.org/t/p/w500/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg"
+    },
+    {
+        "title": "Kaleidoscope",
+        "tvdb_id": 410092,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg"
     },
     {
         "title": "The Last of Us",
@@ -15,18 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
     },
     {
-        "title": "Tulsa King",
-        "tvdb_id": 413215,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg"
+        "title": "Vikings: Valhalla",
+        "tvdb_id": 372700,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
+    },
+    {
+        "title": "Vikings: Valhalla",
+        "tvdb_id": 372700,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
     },
     {
         "title": "Wednesday",
         "tvdb_id": 397060,
         "poster_url": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
-    },
-    {
-        "title": "Yellowstone",
-        "tvdb_id": 341164,
-        "poster_url": "https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg"
     }
 ]
