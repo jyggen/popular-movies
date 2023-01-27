@@ -109,6 +109,20 @@ def _filter_by_recently_aired(series: Any) -> bool:
     return False
 
 
+def _remove_duplicates(series: list[dict]) -> list[dict]:
+    seen = set()
+    new_list = []
+
+    for item in series:
+        if item["id"] in seen:
+            continue
+
+        seen.add(item["id"])
+        new_list.append(item)
+
+    return new_list
+
+
 def _find_series_by_title_year_season(
     title: str, year: int | None, season_name: str, season_number: int | None
 ) -> dict | None:
@@ -164,9 +178,7 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
     )
     body = BeautifulSoup(response.content, features="html.parser")
 
-    if (
-        "25 Most Popular TV Shows Right Now" not in body.find("h1").text
-    ):
+    if "25 Most Popular TV Shows Right Now" not in body.find("h1").text:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
     for movie in body.select(".article_movie_title h2"):
@@ -179,7 +191,7 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
         year_text = movie.find(class_="start-year").text
         year = None
 
-        if year_text != '()':
+        if year_text != "()":
             year = int(year_text[1:5])
 
         season = None
@@ -208,6 +220,7 @@ def _generate() -> list[dict]:
         ],
     )
 
+    series = _remove_duplicates(series)
     series = filter(_filter_by_recently_aired, series)
     series = _calculate_scores(list(series))
     series = sorted(series, key=lambda show: show["score"], reverse=True)
