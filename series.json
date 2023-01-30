@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg"
     },
     {
+        "title": "Junji Ito Maniac: Japanese Tales of the Macabre",
+        "tvdb_id": 421061,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eE3vyu2F8upsQujhS8IP7QiG8Hm.jpg"
+    },
+    {
         "title": "Kaleidoscope",
         "tvdb_id": 410092,
         "poster_url": "https://image.tmdb.org/t/p/w500/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg"
@@ -23,10 +28,5 @@
         "title": "Wednesday",
         "tvdb_id": 397060,
         "poster_url": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
-    },
-    {
-        "title": "Willow",
-        "tvdb_id": 393192,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg"
     }
 ]
