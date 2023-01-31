@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/eE3vyu2F8upsQujhS8IP7QiG8Hm.jpg"
     },
     {
-        "title": "Kaleidoscope",
-        "tvdb_id": 410092,
-        "poster_url": "https://image.tmdb.org/t/p/w500/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg"
-    },
-    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
+    },
+    {
+        "title": "Poker Face",
+        "tvdb_id": 398822,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nsOtuGh2psp0aRnUBQgePlLCfM6.jpg"
     },
     {
         "title": "Vikings: Valhalla",
