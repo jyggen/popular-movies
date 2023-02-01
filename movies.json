@@ -7,27 +7,7 @@
     {
         "title": "Babylon",
         "imdb_id": "tt10640346",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
-    },
-    {
-        "title": "Devotion",
-        "imdb_id": "tt7693316",
-        "poster_url": "https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg"
-    },
-    {
-        "title": "The Fabelmans",
-        "imdb_id": "tt14208870",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg"
-    },
-    {
-        "title": "Glass Onion: A Knives Out Mystery",
-        "imdb_id": "tt11564570",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
-    },
-    {
-        "title": "JUNG_E",
-        "imdb_id": "tt22352848",
-        "poster_url": "https://image.tmdb.org/t/p/w500/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/eKEk1w1aO7YWESer1vnxVE96qvN.jpg"
     },
     {
         "title": "M3GAN",
@@ -45,14 +25,34 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
     },
     {
+        "title": "Narvik",
+        "imdb_id": "tt9737876",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg"
+    },
+    {
         "title": "The Pale Blue Eye",
         "imdb_id": "tt14138650",
         "poster_url": "https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
     },
     {
+        "title": "Pathaan",
+        "imdb_id": "tt12844910",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m1b9toKYyCujHuLoXB5GSDunO9e.jpg"
+    },
+    {
         "title": "Puss in Boots: The Last Wish",
         "imdb_id": "tt3915174",
         "poster_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
+    },
+    {
+        "title": "Teen Wolf: The Movie",
+        "imdb_id": "tt15486810",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg"
+    },
+    {
+        "title": "The Wandering Earth II",
+        "imdb_id": "tt13539646",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pZCamRrMWGotEoZV0y51uVGozXg.jpg"
     },
     {
         "title": "The Whale",
