@@ -25,7 +25,7 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     )
 
     for item in items:
-        if item["imdb_id"] == '' or item["imdb_id"] is None:
+        if item["imdb_id"] == "" or item["imdb_id"] is None:
             imdb_rating = 0
         else:
             try:

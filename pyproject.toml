@@ -8,14 +8,14 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-beautifulsoup4 = "^4.9.3"
-cinemagoer = "^2022.2.11"
-requests = "^2.26.0"
-sentry-sdk = "^1.5.8"
-tmdbv3api = "^1.7.6"
+beautifulsoup4 = "^4.11.2"
+cinemagoer = "^2022.12.27"
+requests = "^2.28.2"
+sentry-sdk = "^1.14.0"
+tmdbv3api = "^1.7.7"
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.3.0"
+black = "^23.1.0"
 
 [build-system]
 requires = ["poetry-core"]

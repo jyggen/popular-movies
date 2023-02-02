@@ -6,7 +6,7 @@ This tool takes the 30 most popular movies right now from Rotten Tomates and ret
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.10+
 - Poetry
 
 ### Installation
