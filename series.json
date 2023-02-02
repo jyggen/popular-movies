@@ -1,10 +1,5 @@
 [
     {
-        "title": "Ginny & Georgia",
-        "tvdb_id": 393625,
-        "poster_url": "https://image.tmdb.org/t/p/w500/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg"
-    },
-    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
@@ -13,6 +8,11 @@
         "title": "The Legend of Vox Machina",
         "tvdb_id": 368316,
         "poster_url": "https://image.tmdb.org/t/p/w500/4fqfhmVNOHe2nLcligiVMtMnfeM.jpg"
+    },
+    {
+        "title": "The Snow Girl",
+        "tvdb_id": 401594,
+        "poster_url": "https://image.tmdb.org/t/p/w500/iPPFBfCxcxIHH6JdavjyOIXMj1O.jpg"
     },
     {
         "title": "That '90s Show",
