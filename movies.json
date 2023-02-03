@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
     },
     {
-        "title": "A Man Called Otto",
-        "imdb_id": "tt7405458",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d7uLLwLsRwwQlTigSBnPj4CU2sP.jpg"
-    },
-    {
         "title": "The Menu",
         "imdb_id": "tt9764362",
         "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
@@ -48,6 +43,11 @@
         "title": "Teen Wolf: The Movie",
         "imdb_id": "tt15486810",
         "poster_url": "https://image.tmdb.org/t/p/w500/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg"
+    },
+    {
+        "title": "There's Something Wrong with the Children",
+        "imdb_id": "tt16127696",
+        "poster_url": "https://image.tmdb.org/t/p/w500/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg"
     },
     {
         "title": "The Wandering Earth II",
