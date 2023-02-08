@@ -10,14 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
-        "title": "Black Panther: Wakanda Forever",
-        "imdb_id": "tt9114286",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
-    },
-    {
         "title": "Knock at the Cabin",
         "imdb_id": "tt15679400",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/vNK62gIXk1BNTbijIcO7RcU0qwW.jpg"
     },
     {
         "title": "M3GAN",
@@ -33,6 +28,11 @@
         "title": "The Pale Blue Eye",
         "imdb_id": "tt14138650",
         "poster_url": "https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
+    },
+    {
+        "title": "Plane",
+        "imdb_id": "tt5884796",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2g9ZBjUfF1X53EinykJqiBieUaO.jpg"
     },
     {
         "title": "Puss in Boots: The Last Wish",
