@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ginny & Georgia",
+        "tvdb_id": 393625,
+        "poster_url": "https://image.tmdb.org/t/p/w500/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg"
+    },
+    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
@@ -23,10 +28,5 @@
         "title": "Wednesday",
         "tvdb_id": 397060,
         "poster_url": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
-    },
-    {
-        "title": "Your Honor",
-        "tvdb_id": 359579,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5NDs12paqvz4Jug3f13fC9XmSVN.jpg"
     }
 ]
