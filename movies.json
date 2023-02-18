@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
+        "title": "Empire of Light",
+        "imdb_id": "tt14402146",
+        "poster_url": "https://image.tmdb.org/t/p/w500/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg"
+    },
+    {
         "title": "Knock at the Cabin",
         "imdb_id": "tt15679400",
         "poster_url": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg"
@@ -47,12 +52,7 @@
     {
         "title": "The Whale",
         "imdb_id": "tt13833688",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bB6y1tV6gFj4t0Z4klRFwRYiQfP.jpg"
-    },
-    {
-        "title": "You People",
-        "imdb_id": "tt14826022",
-        "poster_url": "https://image.tmdb.org/t/p/w500/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pjnxR9Yw83Vi7Dsl49K3rJcKWk4.jpg"
     },
     {
         "title": "Your Place or Mine",
