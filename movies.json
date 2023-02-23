@@ -20,14 +20,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg"
     },
     {
+        "title": "Knock at the Cabin",
+        "imdb_id": "tt15679400",
+        "poster_url": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg"
+    },
+    {
         "title": "M3GAN",
         "imdb_id": "tt8760708",
         "poster_url": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
-    },
-    {
-        "title": "A Man Called Otto",
-        "imdb_id": "tt7405458",
-        "poster_url": "https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg"
     },
     {
         "title": "Plane",
@@ -52,7 +52,7 @@
     {
         "title": "The Whale",
         "imdb_id": "tt13833688",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kTNd0RWTwoF6QB5tef0y2nlFhoQ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg"
     },
     {
         "title": "Your Place or Mine",
