@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg"
     },
     {
+        "title": "The Chosen",
+        "tvdb_id": 356992,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2pnZWHg9E34LLwLBLYUPLdZwer8.jpg"
+    },
+    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
@@ -18,11 +23,6 @@
         "title": "The Snow Girl",
         "tvdb_id": 401594,
         "poster_url": "https://image.tmdb.org/t/p/w500/iPPFBfCxcxIHH6JdavjyOIXMj1O.jpg"
-    },
-    {
-        "title": "Star Trek: Picard",
-        "tvdb_id": 364093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/bONYUEn7iMFCebhDuqNG7hqqwoO.jpg"
     },
     {
         "title": "You",
