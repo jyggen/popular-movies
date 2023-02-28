@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
+        "title": "Cocaine Bear",
+        "imdb_id": "tt14209916",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
+    },
+    {
         "title": "Knock at the Cabin",
         "imdb_id": "tt15679400",
         "poster_url": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg"
@@ -25,9 +30,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
     },
     {
-        "title": "A Man Called Otto",
-        "imdb_id": "tt7405458",
-        "poster_url": "https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg"
+        "title": "Missing",
+        "imdb_id": "tt10855768",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jYXJW19PMEUrpyavEHrnnlItQn1.jpg"
     },
     {
         "title": "Plane",
@@ -40,19 +45,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
     },
     {
-        "title": "Shotgun Wedding",
-        "imdb_id": "tt9686790",
-        "poster_url": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg"
+        "title": "Sharper",
+        "imdb_id": "tt12573454",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg"
     },
     {
-        "title": "Somebody I Used to Know",
-        "imdb_id": "tt15333984",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg"
-    },
-    {
-        "title": "The Whale",
-        "imdb_id": "tt13833688",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg"
+        "title": "Winnie-the-Pooh: Blood and Honey",
+        "imdb_id": "tt19623240",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wtFwgFFk1ze789ghcadWGEVjj3N.jpg"
     },
     {
         "title": "Your Place or Mine",
