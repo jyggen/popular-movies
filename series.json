@@ -1,5 +1,10 @@
 [
     {
+        "title": "1923",
+        "tvdb_id": 416491,
+        "poster_url": "https://image.tmdb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg"
+    },
+    {
         "title": "Carnival Row",
         "tvdb_id": 365026,
         "poster_url": "https://image.tmdb.org/t/p/w500/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg"
@@ -10,19 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
     },
     {
-        "title": "Poker Face",
-        "tvdb_id": 398822,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nsOtuGh2psp0aRnUBQgePlLCfM6.jpg"
+        "title": "The Mandalorian",
+        "tvdb_id": 361753,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg"
     },
     {
-        "title": "The Snow Girl",
-        "tvdb_id": 401594,
-        "poster_url": "https://image.tmdb.org/t/p/w500/iPPFBfCxcxIHH6JdavjyOIXMj1O.jpg"
-    },
-    {
-        "title": "Star Trek: Picard",
-        "tvdb_id": 364093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/bONYUEn7iMFCebhDuqNG7hqqwoO.jpg"
+        "title": "Sex/Life",
+        "tvdb_id": 368373,
+        "poster_url": "https://image.tmdb.org/t/p/w500/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg"
     },
     {
         "title": "You",
