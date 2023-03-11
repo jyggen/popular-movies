@@ -15,14 +15,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
-        "title": "Cocaine Bear",
-        "imdb_id": "tt14209916",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
-    },
-    {
         "title": "Creed III",
         "imdb_id": "tt11145118",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg"
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
@@ -47,7 +42,12 @@
     {
         "title": "Missing",
         "imdb_id": "tt10855768",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/jYXJW19PMEUrpyavEHrnnlItQn1.jpg"
+    },
+    {
+        "title": "Operation Fortune: Ruse de Guerre",
+        "imdb_id": "tt7985704",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
     },
     {
         "title": "The Strays",
