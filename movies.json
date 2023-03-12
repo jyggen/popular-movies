@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
+        "title": "Cocaine Bear",
+        "imdb_id": "tt14209916",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
+    },
+    {
         "title": "Creed III",
         "imdb_id": "tt11145118",
         "poster_url": "https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg"
@@ -48,11 +53,6 @@
         "title": "Operation Fortune: Ruse de Guerre",
         "imdb_id": "tt7985704",
         "poster_url": "https://image.tmdb.org/t/p/w500/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
-    },
-    {
-        "title": "The Strays",
-        "imdb_id": "tt16437278",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg"
     },
     {
         "title": "We Have a Ghost",
