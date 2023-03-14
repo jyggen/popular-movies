@@ -1,5 +1,10 @@
 [
     {
+        "title": "65",
+        "imdb_id": "tt12261776",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg"
+    },
+    {
         "title": "Ant-Man and the Wasp: Quantumania",
         "imdb_id": "tt10954600",
         "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
@@ -13,11 +18,6 @@
         "title": "Babylon",
         "imdb_id": "tt10640346",
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
-    },
-    {
-        "title": "Cocaine Bear",
-        "imdb_id": "tt14209916",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
     },
     {
         "title": "Creed III",
@@ -55,8 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg"
     },
     {
-        "title": "We Have a Ghost",
-        "imdb_id": "tt7798604",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg"
+        "title": "Scream VI",
+        "imdb_id": "tt17663992",
+        "poster_url": "https://image.tmdb.org/t/p/w500/t2NEaFrNFRCrBIyAETlz5sqq15H.jpg"
     }
 ]
