@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
     },
     {
-        "title": "Avatar: The Way of Water",
-        "imdb_id": "tt1630029",
-        "poster_url": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
-    },
-    {
         "title": "Babylon",
         "imdb_id": "tt10640346",
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
@@ -58,5 +53,10 @@
         "title": "Scream VI",
         "imdb_id": "tt17663992",
         "poster_url": "https://image.tmdb.org/t/p/w500/t2NEaFrNFRCrBIyAETlz5sqq15H.jpg"
+    },
+    {
+        "title": "Women Talking",
+        "imdb_id": "tt13669038",
+        "poster_url": "https://image.tmdb.org/t/p/w500/twUbb6Irktv0VEsJXQWJ3VKyxFX.jpg"
     }
 ]
