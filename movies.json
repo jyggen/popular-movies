@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
     },
     {
+        "title": "Cocaine Bear",
+        "imdb_id": "tt14209916",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
+    },
+    {
         "title": "Creed III",
         "imdb_id": "tt11145118",
         "poster_url": "https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg"
@@ -52,11 +57,6 @@
     {
         "title": "Scream VI",
         "imdb_id": "tt17663992",
-        "poster_url": "https://image.tmdb.org/t/p/w500/t2NEaFrNFRCrBIyAETlz5sqq15H.jpg"
-    },
-    {
-        "title": "Women Talking",
-        "imdb_id": "tt13669038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/twUbb6Irktv0VEsJXQWJ3VKyxFX.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/aePBN8ffLCHoUXp8lkA5P29CXdx.jpg"
     }
 ]
