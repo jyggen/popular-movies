@@ -1,5 +1,10 @@
 [
     {
+        "title": "Daisy Jones & the Six",
+        "tvdb_id": 416580,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ltfscPUljehY7IwGG85vij2TEbQ.jpg"
+    },
+    {
         "title": "The Glory",
         "tvdb_id": 411469,
         "poster_url": "https://image.tmdb.org/t/p/w500/6jOpyXVzQyYL4QB12VRpHUxdwg1.jpg"
@@ -13,11 +18,6 @@
         "title": "The Mandalorian",
         "tvdb_id": 361753,
         "poster_url": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg"
-    },
-    {
-        "title": "Shadow and Bone",
-        "tvdb_id": 369844,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg"
     },
     {
         "title": "Ted Lasso",
