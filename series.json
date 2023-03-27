@@ -15,14 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg"
     },
     {
-        "title": "Shadow and Bone",
-        "tvdb_id": 369844,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg"
-    },
-    {
         "title": "Ted Lasso",
         "tvdb_id": 383203,
         "poster_url": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+        "title": "Yellowjackets",
+        "tvdb_id": 399731,
+        "poster_url": "https://image.tmdb.org/t/p/w500/o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg"
     },
     {
         "title": "You",
