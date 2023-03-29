@@ -187,7 +187,9 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
         if not title:
             continue
 
-        title, season_name = title.rsplit(": ", 1)
+        parts = title.rsplit(": ", 1)
+        title = parts[0]
+        season_name = parts[1] if len(parts) > 1 else ""
         year_text = movie.find(class_="start-year").text
         year = None
 
