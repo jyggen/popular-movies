@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
     },
     {
-        "title": "Boston Strangler",
-        "imdb_id": "tt2560078",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg"
-    },
-    {
         "title": "Cocaine Bear",
         "imdb_id": "tt14209916",
         "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
@@ -23,6 +18,11 @@
         "title": "Creed III",
         "imdb_id": "tt11145118",
         "poster_url": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg"
+    },
+    {
+        "title": "Dungeons & Dragons: Honor Among Thieves",
+        "imdb_id": "tt2906216",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg"
     },
     {
         "title": "John Wick: Chapter 4",
@@ -35,14 +35,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg"
     },
     {
-        "title": "Luther: The Fallen Sun",
-        "imdb_id": "tt3155298",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg"
+        "title": "Murder Mystery 2",
+        "imdb_id": "tt15255288",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg"
     },
     {
-        "title": "Money Shot: The Pornhub Story",
-        "imdb_id": "tt26739529",
-        "poster_url": "https://image.tmdb.org/t/p/w500/g7fD1EHgctNSjBUzAOfxEsHaB2k.jpg"
+        "title": "Pinball: The Man Who Saved the Game",
+        "imdb_id": "tt13365876",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ubsHDCMXCCaxhviCvQAQsRtpUb4.jpg"
     },
     {
         "title": "Scream VI",
