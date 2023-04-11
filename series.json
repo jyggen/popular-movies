@@ -1,5 +1,10 @@
 [
     {
+        "title": "BEEF",
+        "tvdb_id": 399838,
+        "poster_url": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg"
+    },
+    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
@@ -18,11 +23,6 @@
         "title": "Rabbit Hole",
         "tvdb_id": 415584,
         "poster_url": "https://image.tmdb.org/t/p/w500/zb5MArsrMxK4mSSLzUmbfcXAc60.jpg"
-    },
-    {
-        "title": "Succession",
-        "tvdb_id": 338186,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg"
     },
     {
         "title": "Ted Lasso",
