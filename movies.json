@@ -30,14 +30,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
     },
     {
-        "title": "Hunger",
-        "imdb_id": "tt22695402",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iZ3lhTFfK97pktBzEQTr7CDhssI.jpg"
-    },
-    {
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+    },
+    {
+        "title": "The Last Kingdom: Seven Kings Must Die",
+        "imdb_id": "tt15767808",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg"
     },
     {
         "title": "The Pope's Exorcist",
