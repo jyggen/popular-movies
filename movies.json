@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg"
     },
     {
-        "title": "Air",
-        "imdb_id": "tt16419074",
-        "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
-    },
-    {
         "title": "Chupa",
         "imdb_id": "tt14923260",
         "poster_url": "https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg"
@@ -27,7 +22,12 @@
     {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/fCbmaavb52cabO4OfrjrbzfokfL.jpg"
+    },
+    {
+        "title": "A Good Person",
+        "imdb_id": "tt14153080",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg"
     },
     {
         "title": "John Wick: Chapter 4",
