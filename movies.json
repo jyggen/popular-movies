@@ -10,9 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
     },
     {
-        "title": "Chupa",
-        "imdb_id": "tt14923260",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg"
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "imdb_id": "tt10954600",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
     },
     {
         "title": "Cocaine Bear",
@@ -20,19 +20,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
     },
     {
-        "title": "Creed III",
-        "imdb_id": "tt11145118",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg"
-    },
-    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
         "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
     },
     {
-        "title": "A Good Person",
-        "imdb_id": "tt14153080",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg"
+        "title": "Evil Dead Rise",
+        "imdb_id": "tt13345606",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg"
+    },
+    {
+        "title": "Guy Ritchie's The Covenant",
+        "imdb_id": "tt4873118",
+        "poster_url": "https://image.tmdb.org/t/p/w500/efe3NMBzhturwBVMWVy1HewVmA2.jpg"
+    },
+    {
+        "title": "Huesera: The Bone Woman",
+        "imdb_id": "tt11718516",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zgpj76z9byUgcWnxLDmtZ3XqfvN.jpg"
     },
     {
         "title": "John Wick: Chapter 4",
@@ -48,11 +53,6 @@
         "title": "The Pope's Exorcist",
         "imdb_id": "tt13375076",
         "poster_url": "https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg"
-    },
-    {
-        "title": "Shazam! Fury of the Gods",
-        "imdb_id": "tt10151854",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg"
     },
     {
         "title": "The Super Mario Bros. Movie",
