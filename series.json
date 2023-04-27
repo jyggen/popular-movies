@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg"
     },
     {
+        "title": "From",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uV65yaFkw6B4KHXAsBYui0KvJq.jpg"
+    },
+    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"
@@ -18,11 +23,6 @@
         "title": "The Night Agent",
         "tvdb_id": 407281,
         "poster_url": "https://image.tmdb.org/t/p/w500/xjsx6rGEgHl2tUqkimo6Bz2KzVo.jpg"
-    },
-    {
-        "title": "Succession",
-        "tvdb_id": 338186,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg"
     },
     {
         "title": "Ted Lasso",
