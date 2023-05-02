@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
     },
     {
-        "title": "Cocaine Bear",
-        "imdb_id": "tt14209916",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg"
-    },
-    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
         "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
@@ -28,6 +23,11 @@
         "title": "Ghosted",
         "imdb_id": "tt15326988",
         "poster_url": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
+    },
+    {
+        "title": "Huesera: The Bone Woman",
+        "imdb_id": "tt11718516",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zgpj76z9byUgcWnxLDmtZ3XqfvN.jpg"
     },
     {
         "title": "Hunger",
@@ -50,13 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg"
     },
     {
+        "title": "Scream VI",
+        "imdb_id": "tt17663992",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg"
+    },
+    {
         "title": "The Super Mario Bros. Movie",
         "imdb_id": "tt6718170",
         "poster_url": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
-    },
-    {
-        "title": "A Tourist's Guide to Love",
-        "imdb_id": "tt20115096",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg"
     }
 ]
