@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
     },
     {
-        "title": "Hunger",
-        "imdb_id": "tt22695402",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rNYHsKHFP3AY2PIDZgz3AuY7QoC.jpg"
-    },
-    {
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
@@ -48,6 +43,11 @@
         "title": "The Pope's Exorcist",
         "imdb_id": "tt13375076",
         "poster_url": "https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg"
+    },
+    {
+        "title": "Renfield",
+        "imdb_id": "tt11358390",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
     },
     {
         "title": "Scream VI",
