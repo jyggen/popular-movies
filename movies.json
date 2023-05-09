@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
     },
     {
-        "title": "Ant-Man and the Wasp: Quantumania",
-        "imdb_id": "tt10954600",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
-    },
-    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
         "poster_url": "https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg"
@@ -30,19 +25,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
     },
     {
+        "title": "Guardians of the Galaxy Volume 3",
+        "imdb_id": "tt6791350",
+        "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+    },
+    {
+        "title": "Guy Ritchie's The Covenant",
+        "imdb_id": "tt4873118",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
+    },
+    {
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
     },
     {
-        "title": "The Last Kingdom: Seven Kings Must Die",
-        "imdb_id": "tt15767808",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7yyFEsuaLGTPul5UkHc5BhXnQ0k.jpg"
-    },
-    {
-        "title": "The Pope's Exorcist",
-        "imdb_id": "tt13375076",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg"
+        "title": "Peter Pan & Wendy",
+        "imdb_id": "tt5635026",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg"
     },
     {
         "title": "Renfield",
