@@ -2,7 +2,7 @@
     {
         "title": "BEEF",
         "tvdb_id": 399838,
-        "poster_url": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5sPPUbeHytbTnaIVBNcCQ4p6XYY.jpg"
     },
     {
         "title": "From",
@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg"
     },
     {
-        "title": "The Night Agent",
-        "tvdb_id": 407281,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xjsx6rGEgHl2tUqkimo6Bz2KzVo.jpg"
-    },
-    {
         "title": "Rabbit Hole",
         "tvdb_id": 415584,
         "poster_url": "https://image.tmdb.org/t/p/w500/zb5MArsrMxK4mSSLzUmbfcXAc60.jpg"
+    },
+    {
+        "title": "Ted Lasso",
+        "tvdb_id": 383203,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     }
 ]

@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
     },
     {
+        "title": "Clock",
+        "imdb_id": "tt17219484",
+        "poster_url": "https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg"
+    },
+    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
         "poster_url": "https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg"
@@ -28,11 +33,6 @@
         "title": "Guardians of the Galaxy Volume 3",
         "imdb_id": "tt6791350",
         "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
-    },
-    {
-        "title": "Guy Ritchie's The Covenant",
-        "imdb_id": "tt4873118",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
     },
     {
         "title": "John Wick: Chapter 4",
