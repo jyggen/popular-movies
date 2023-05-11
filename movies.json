@@ -35,14 +35,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
     },
     {
+        "title": "Guy Ritchie's The Covenant",
+        "imdb_id": "tt4873118",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg"
+    },
+    {
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
-    },
-    {
-        "title": "Peter Pan & Wendy",
-        "imdb_id": "tt5635026",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg"
     },
     {
         "title": "Renfield",
