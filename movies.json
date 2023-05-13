@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
     },
     {
+        "title": "The Artifice Girl",
+        "imdb_id": "tt20859464",
+        "poster_url": "https://image.tmdb.org/t/p/w500/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg"
+    },
+    {
         "title": "Clock",
         "imdb_id": "tt17219484",
         "poster_url": "https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg"
@@ -43,11 +48,6 @@
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
-    },
-    {
-        "title": "Renfield",
-        "imdb_id": "tt11358390",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
     },
     {
         "title": "Scream VI",
