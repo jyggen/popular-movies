@@ -1,10 +1,5 @@
 [
     {
-        "title": "65",
-        "imdb_id": "tt12261776",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg"
-    },
-    {
         "title": "Air",
         "imdb_id": "tt16419074",
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
@@ -13,11 +8,6 @@
         "title": "The Artifice Girl",
         "imdb_id": "tt20859464",
         "poster_url": "https://image.tmdb.org/t/p/w500/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg"
-    },
-    {
-        "title": "Clock",
-        "imdb_id": "tt17219484",
-        "poster_url": "https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg"
     },
     {
         "title": "Dungeons & Dragons: Honor Among Thieves",
@@ -50,9 +40,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
     },
     {
-        "title": "Scream VI",
-        "imdb_id": "tt17663992",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg"
+        "title": "The Mother",
+        "imdb_id": "tt6968614",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg"
+    },
+    {
+        "title": "The Pope's Exorcist",
+        "imdb_id": "tt13375076",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4IjRR2OW2itjQWQnmlUzvwLz9DQ.jpg"
+    },
+    {
+        "title": "Renfield",
+        "imdb_id": "tt11358390",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
     },
     {
         "title": "The Super Mario Bros. Movie",
