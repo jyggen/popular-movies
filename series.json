@@ -1,8 +1,13 @@
 [
     {
-        "title": "Citadel",
-        "tvdb_id": 393268,
-        "poster_url": "https://image.tmdb.org/t/p/w500/AcrDB32TqpAGwvQFbICALGxSzn3.jpg"
+        "title": "Black Knight",
+        "tvdb_id": 405921,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5YvXX1sBJVZBF8DocLFq16Z0ABU.jpg"
+    },
+    {
+        "title": "From",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
     },
     {
         "title": "Mayor of Kingstown",
@@ -23,10 +28,5 @@
         "title": "Sweet Tooth",
         "tvdb_id": 355837,
         "poster_url": "https://image.tmdb.org/t/p/w500/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg"
-    },
-    {
-        "title": "Ted Lasso",
-        "tvdb_id": 383203,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     }
 ]
