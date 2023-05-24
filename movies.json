@@ -35,11 +35,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
     },
     {
-        "title": "Knights of the Zodiac",
-        "imdb_id": "tt6528290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1nbFEdIFprRNSWcCM0RUjQqZifF.jpg"
-    },
-    {
         "title": "The Mother",
         "imdb_id": "tt6968614",
         "poster_url": "https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg"
@@ -47,7 +42,12 @@
     {
         "title": "Peter Pan & Wendy",
         "imdb_id": "tt5635026",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8naZFKLQxhsYfvgveSP9Xw7Jv1B.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg"
+    },
+    {
+        "title": "Polite Society",
+        "imdb_id": "tt18257464",
+        "poster_url": "https://image.tmdb.org/t/p/w500/Af1izSvHbGu6JiFTVzgfKxWQOfs.jpg"
     },
     {
         "title": "The Super Mario Bros. Movie",

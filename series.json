@@ -15,18 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg"
     },
     {
-        "title": "Queen Charlotte: A Bridgerton Story",
-        "tvdb_id": 425204,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eR7btjpvOugivUYSoEsD2iAOYsJ.jpg"
-    },
-    {
         "title": "Silo",
         "tvdb_id": 403245,
         "poster_url": "https://image.tmdb.org/t/p/w500/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg"
     },
     {
-        "title": "Sweet Tooth",
-        "tvdb_id": 355837,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg"
+        "title": "XO, Kitty",
+        "tvdb_id": 412285,
+        "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
+    },
+    {
+        "title": "Yellowjackets",
+        "tvdb_id": 399731,
+        "poster_url": "https://image.tmdb.org/t/p/w500/o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg"
     }
 ]
