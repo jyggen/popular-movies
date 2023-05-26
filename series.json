@@ -1,8 +1,8 @@
 [
     {
-        "title": "Black Knight",
-        "tvdb_id": 405921,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5YvXX1sBJVZBF8DocLFq16Z0ABU.jpg"
+        "title": "Citadel",
+        "tvdb_id": 393268,
+        "poster_url": "https://image.tmdb.org/t/p/w500/AcrDB32TqpAGwvQFbICALGxSzn3.jpg"
     },
     {
         "title": "From",
@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg"
     },
     {
+        "title": "Queen Charlotte: A Bridgerton Story",
+        "tvdb_id": 425204,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eR7btjpvOugivUYSoEsD2iAOYsJ.jpg"
+    },
+    {
         "title": "Silo",
         "tvdb_id": 403245,
         "poster_url": "https://image.tmdb.org/t/p/w500/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg"
@@ -23,10 +28,5 @@
         "title": "XO, Kitty",
         "tvdb_id": 412285,
         "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
-    },
-    {
-        "title": "Yellowjackets",
-        "tvdb_id": 399731,
-        "poster_url": "https://image.tmdb.org/t/p/w500/o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg"
     }
 ]
