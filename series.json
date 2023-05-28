@@ -1,5 +1,10 @@
 [
     {
+        "title": "Citadel",
+        "tvdb_id": 393268,
+        "poster_url": "https://image.tmdb.org/t/p/w500/AcrDB32TqpAGwvQFbICALGxSzn3.jpg"
+    },
+    {
         "title": "From",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/uV65yaFkw6B4KHXAsBYui0KvJq.jpg"
@@ -8,11 +13,6 @@
         "title": "Love & Death",
         "tvdb_id": 402181,
         "poster_url": "https://image.tmdb.org/t/p/w500/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg"
-    },
-    {
-        "title": "Queen Charlotte: A Bridgerton Story",
-        "tvdb_id": 425204,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eR7btjpvOugivUYSoEsD2iAOYsJ.jpg"
     },
     {
         "title": "Silo",
