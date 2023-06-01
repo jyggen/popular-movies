@@ -12,12 +12,7 @@
     {
         "title": "Silo",
         "tvdb_id": 403245,
-        "poster_url": "https://image.tmdb.org/t/p/w500/2MOuSwzam4IUIBEvKUDBsQUtGtc.jpg"
-    },
-    {
-        "title": "A Small Light",
-        "tvdb_id": 428632,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ksDDvTxUp07yu8FdOAXwJeyTilu.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg"
     },
     {
         "title": "Succession",
@@ -28,5 +23,10 @@
         "title": "XO, Kitty",
         "tvdb_id": 412285,
         "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
+    },
+    {
+        "title": "Yellowjackets",
+        "tvdb_id": 399731,
+        "poster_url": "https://image.tmdb.org/t/p/w500/o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg"
     }
 ]
