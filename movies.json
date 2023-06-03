@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
     },
     {
+        "title": "Blood & Gold",
+        "imdb_id": "tt18073328",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg"
+    },
+    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "imdb_id": "tt2906216",
         "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
@@ -27,7 +32,7 @@
     {
         "title": "Guy Ritchie's The Covenant",
         "imdb_id": "tt4873118",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jZy73aPYrwwhuc37ALgnJUCaTnK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
     },
     {
         "title": "John Wick: Chapter 4",
@@ -53,10 +58,5 @@
         "title": "The Super Mario Bros. Movie",
         "imdb_id": "tt6718170",
         "poster_url": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
-    },
-    {
-        "title": "White Men Can't Jump",
-        "imdb_id": "tt6436620",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7MUQMSncjUSYeNx0ZAgFCxhlPhv.jpg"
     }
 ]
