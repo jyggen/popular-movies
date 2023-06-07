@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
     },
     {
-        "title": "Evil Dead Rise",
-        "imdb_id": "tt13345606",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg"
-    },
-    {
         "title": "Fast X",
         "imdb_id": "tt5433140",
         "poster_url": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg"
@@ -35,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
     },
     {
+        "title": "Hypnotic",
+        "imdb_id": "tt8080204",
+        "poster_url": "https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg"
+    },
+    {
         "title": "John Wick: Chapter 4",
         "imdb_id": "tt10366206",
         "poster_url": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
@@ -45,14 +45,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
     },
     {
-        "title": "The Mother",
-        "imdb_id": "tt6968614",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg"
+        "title": "Reality",
+        "imdb_id": "tt24068064",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg"
     },
     {
-        "title": "Shazam! Fury of the Gods",
-        "imdb_id": "tt10151854",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg"
+        "title": "Spider-Man: Across the Spider-Verse",
+        "imdb_id": "tt9362722",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
     },
     {
         "title": "The Super Mario Bros. Movie",
