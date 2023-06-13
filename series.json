@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
     },
     {
-        "title": "The Idol",
-        "tvdb_id": 405882,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg"
-    },
-    {
         "title": "Manifest",
         "tvdb_id": 349271,
         "poster_url": "https://image.tmdb.org/t/p/w500/eTemCphrglLKrXOsNRhYezHA7H9.jpg"
+    },
+    {
+        "title": "Never Have I Ever",
+        "tvdb_id": 378746,
+        "poster_url": "https://image.tmdb.org/t/p/w500/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg"
     },
     {
         "title": "Silo",
