@@ -1,5 +1,10 @@
 [
     {
+        "title": "Black Mirror",
+        "tvdb_id": 253463,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
+    },
+    {
         "title": "The Flash",
         "tvdb_id": 279121,
         "poster_url": "https://image.tmdb.org/t/p/w500/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg"
@@ -10,9 +15,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
     },
     {
-        "title": "Never Have I Ever",
-        "tvdb_id": 378746,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg"
+        "title": "Outlander",
+        "tvdb_id": 270408,
+        "poster_url": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg"
     },
     {
         "title": "Silo",
@@ -20,13 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/zBx1X06G1OlndbXTCZI13FECNz2.jpg"
     },
     {
-        "title": "Succession",
-        "tvdb_id": 338186,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg"
-    },
-    {
-        "title": "Ted Lasso",
-        "tvdb_id": 383203,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+        "title": "The Walking Dead: Dead City",
+        "tvdb_id": 417549,
+        "poster_url": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
     }
 ]
