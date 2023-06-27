@@ -2,7 +2,12 @@
     {
         "title": "Elemental",
         "imdb_id": "tt15789038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6oH378KUfCEitzJkm07r97L0RsZ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
+    },
+    {
+        "title": "Evil Dead Rise",
+        "imdb_id": "tt13345606",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg"
     },
     {
         "title": "Extraction 2",
@@ -38,11 +43,6 @@
         "title": "My Fault",
         "imdb_id": "tt21909764",
         "poster_url": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg"
-    },
-    {
-        "title": "No Hard Feelings",
-        "imdb_id": "tt15671028",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5xeNPGbM8ImVdJACUoGpXT8Pxx3.jpg"
     },
     {
         "title": "Spider-Man: Across the Spider-Verse",
