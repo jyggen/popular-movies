@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
     },
     {
-        "title": "Evil Dead Rise",
-        "imdb_id": "tt13345606",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg"
-    },
-    {
         "title": "Extraction 2",
         "imdb_id": "tt12263384",
         "poster_url": "https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg"
@@ -33,6 +28,11 @@
         "title": "Guy Ritchie's The Covenant",
         "imdb_id": "tt4873118",
         "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
+    },
+    {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "imdb_id": "tt1462764",
+        "poster_url": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
     },
     {
         "title": "The Little Mermaid",
