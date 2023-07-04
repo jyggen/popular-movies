@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
     },
     {
-        "title": "The Flash",
-        "tvdb_id": 279121,
-        "poster_url": "https://image.tmdb.org/t/p/w500/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg"
-    },
-    {
         "title": "From",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
@@ -28,5 +23,10 @@
         "title": "The Walking Dead: Dead City",
         "tvdb_id": 417549,
         "poster_url": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+    },
+    {
+        "title": "The Witcher",
+        "tvdb_id": 362696,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg"
     }
 ]
