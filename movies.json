@@ -30,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
     },
     {
+        "title": "Knights of the Zodiac",
+        "imdb_id": "tt6528290",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg"
+    },
+    {
         "title": "The Little Mermaid",
         "imdb_id": "tt5971474",
         "poster_url": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
@@ -53,10 +58,5 @@
         "title": "Transformers: Rise of the Beasts",
         "imdb_id": "tt5090568",
         "poster_url": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg"
-    },
-    {
-        "title": "You Hurt My Feelings",
-        "imdb_id": "tt15771916",
-        "poster_url": "https://image.tmdb.org/t/p/w500/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg"
     }
 ]
