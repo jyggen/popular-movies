@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
     },
     {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "imdb_id": "tt6791350",
+        "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+    },
+    {
         "title": "Guy Ritchie's The Covenant",
         "imdb_id": "tt4873118",
         "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
@@ -30,24 +35,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
     },
     {
-        "title": "Knights of the Zodiac",
-        "imdb_id": "tt6528290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg"
-    },
-    {
-        "title": "The Little Mermaid",
-        "imdb_id": "tt5971474",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
-    },
-    {
-        "title": "Mission: Impossible - Dead Reckoning Part One",
-        "imdb_id": "tt9603212",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pZCa8WgnP0AgVHsFjvuUDhcNjOJ.jpg"
+        "title": "Insidious: The Red Door",
+        "imdb_id": "tt13405778",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg"
     },
     {
         "title": "Nimona",
         "imdb_id": "tt19500164",
         "poster_url": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg"
+    },
+    {
+        "title": "No Hard Feelings",
+        "imdb_id": "tt15671028",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5xeNPGbM8ImVdJACUoGpXT8Pxx3.jpg"
     },
     {
         "title": "Spider-Man: Across the Spider-Verse",
