@@ -1,5 +1,10 @@
 [
     {
+        "title": "From",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
+    },
+    {
         "title": "Hijack",
         "tvdb_id": 419254,
         "poster_url": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
@@ -8,11 +13,6 @@
         "title": "Secret Invasion",
         "tvdb_id": 393203,
         "poster_url": "https://image.tmdb.org/t/p/w500/3rINdUPSy9AklJg74jWHOyUXuZd.jpg"
-    },
-    {
-        "title": "Tom Clancy's Jack Ryan",
-        "tvdb_id": 336261,
-        "poster_url": "https://image.tmdb.org/t/p/w500/u7iHICDItwAoHZjwTwoBmPHql4G.jpg"
     },
     {
         "title": "The Walking Dead: Dead City",
