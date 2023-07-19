@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
     },
     {
-        "title": "Guy Ritchie's The Covenant",
-        "imdb_id": "tt4873118",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
-    },
-    {
         "title": "Indiana Jones and the Dial of Destiny",
         "imdb_id": "tt1462764",
         "poster_url": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
@@ -48,6 +43,11 @@
         "title": "Nimona",
         "imdb_id": "tt19500164",
         "poster_url": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg"
+    },
+    {
+        "title": "The Out-Laws",
+        "imdb_id": "tt11274492",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg"
     },
     {
         "title": "Spider-Man: Across the Spider-Verse",
