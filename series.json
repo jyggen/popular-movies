@@ -1,10 +1,5 @@
 [
     {
-        "title": "Black Mirror",
-        "tvdb_id": 253463,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
-    },
-    {
         "title": "Hijack",
         "tvdb_id": 419254,
         "poster_url": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
@@ -12,7 +7,7 @@
     {
         "title": "Secret Invasion",
         "tvdb_id": 393203,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3rINdUPSy9AklJg74jWHOyUXuZd.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
     },
     {
         "title": "The Summer I Turned Pretty",
@@ -23,6 +18,11 @@
         "title": "Tom Clancy's Jack Ryan",
         "tvdb_id": 336261,
         "poster_url": "https://image.tmdb.org/t/p/w500/u7iHICDItwAoHZjwTwoBmPHql4G.jpg"
+    },
+    {
+        "title": "Warrior",
+        "tvdb_id": 359326,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ip0JTVXV4atOdx18ixlYPwESBQR.jpg"
     },
     {
         "title": "The Witcher",
