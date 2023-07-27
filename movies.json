@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
-        "title": "Bird Box Barcelona",
-        "imdb_id": "tt14400246",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hOb6ODI7QQFKkOe3eJU2Fdh2fk1.jpg"
-    },
-    {
         "title": "Elemental",
         "imdb_id": "tt15789038",
         "poster_url": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
@@ -38,6 +33,11 @@
         "title": "Mission: Impossible - Dead Reckoning Part One",
         "imdb_id": "tt9603212",
         "poster_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+    },
+    {
+        "title": "Nimona",
+        "imdb_id": "tt19500164",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg"
     },
     {
         "title": "Oppenheimer",
