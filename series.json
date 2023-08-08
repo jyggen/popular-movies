@@ -1,5 +1,10 @@
 [
     {
+        "title": "Black Mirror",
+        "tvdb_id": 253463,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
+    },
+    {
         "title": "Hijack",
         "tvdb_id": 419254,
         "poster_url": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
@@ -18,11 +23,6 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/ePpNZ6QCT5ylXniZmfQPyjyFCCM.jpg"
-    },
-    {
-        "title": "Warrior",
-        "tvdb_id": 359326,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ip0JTVXV4atOdx18ixlYPwESBQR.jpg"
     },
     {
         "title": "The Witcher",
