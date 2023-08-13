@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
     },
     {
-        "title": "Secret Invasion",
-        "tvdb_id": 393203,
-        "poster_url": "https://image.tmdb.org/t/p/w500/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
-    },
-    {
         "title": "Special Ops: Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg"
@@ -23,6 +18,11 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/utNX6hHohGmenZLW5pFMSrdOhL7.jpg"
+    },
+    {
+        "title": "Twisted Metal",
+        "tvdb_id": 366532,
+        "poster_url": "https://image.tmdb.org/t/p/w500/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
     },
     {
         "title": "The Witcher",
