@@ -1,5 +1,10 @@
 [
     {
+        "title": "Foundation",
+        "tvdb_id": 366972,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
+    },
+    {
         "title": "Heartstopper",
         "tvdb_id": 395494,
         "poster_url": "https://image.tmdb.org/t/p/w500/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg"
@@ -18,11 +23,6 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/utNX6hHohGmenZLW5pFMSrdOhL7.jpg"
-    },
-    {
-        "title": "Twisted Metal",
-        "tvdb_id": 366532,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
     },
     {
         "title": "The Witcher",
