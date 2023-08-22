@@ -5,24 +5,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
-        "title": "Cobweb",
-        "imdb_id": "tt9100018",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg"
+        "title": "Blue Beetle",
+        "imdb_id": "tt9362930",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg"
+    },
+    {
+        "title": "Elemental",
+        "imdb_id": "tt15789038",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6oH378KUfCEitzJkm07r97L0RsZ.jpg"
+    },
+    {
+        "title": "The Flash",
+        "imdb_id": "tt0439572",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
     },
     {
         "title": "Heart of Stone",
         "imdb_id": "tt13603966",
         "poster_url": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
-    },
-    {
-        "title": "Hidden Strike",
-        "imdb_id": "tt6879446",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg"
-    },
-    {
-        "title": "Insidious: The Red Door",
-        "imdb_id": "tt13405778",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg"
     },
     {
         "title": "Meg 2: The Trench",
@@ -35,6 +35,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
     },
     {
+        "title": "No Hard Feelings",
+        "imdb_id": "tt15671028",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg"
+    },
+    {
         "title": "Oppenheimer",
         "imdb_id": "tt15398776",
         "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
@@ -42,12 +47,7 @@
     {
         "title": "Red, White & Royal Blue",
         "imdb_id": "tt10172266",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uffOY4W354o9RTRmercFyVvl56Z.jpg"
-    },
-    {
-        "title": "River Wild",
-        "imdb_id": "tt21291992",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fffPeOw5Ld8CrI8X9X36wMSzXuX.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/vM1HzW1zA8QQ5Cw9g2tWdAxlbOQ.jpg"
     },
     {
         "title": "Spider-Man: Across the Spider-Verse",
