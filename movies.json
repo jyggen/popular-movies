@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
-        "title": "Blue Beetle",
-        "imdb_id": "tt9362930",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg"
-    },
-    {
         "title": "Cobweb",
         "imdb_id": "tt9100018",
         "poster_url": "https://image.tmdb.org/t/p/w500/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg"
@@ -25,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
     },
     {
+        "title": "Gran Turismo",
+        "imdb_id": "tt4495098",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ckW6FZqMFEKA9DonixjZSAPxJMo.jpg"
+    },
+    {
         "title": "Heart of Stone",
         "imdb_id": "tt13603966",
         "poster_url": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
@@ -32,7 +32,7 @@
     {
         "title": "Meg 2: The Trench",
         "imdb_id": "tt9224104",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/FQHtuf2zc8suMFE28RyvFt3FJN.jpg"
     },
     {
         "title": "Mission: Impossible - Dead Reckoning Part One",
