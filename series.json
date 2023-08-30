@@ -1,8 +1,8 @@
 [
     {
-        "title": "Billions",
-        "tvdb_id": 279536,
-        "poster_url": "https://image.tmdb.org/t/p/w500/edwYPQdZE998d748AdwWLsfy0rl.jpg"
+        "title": "Ahsoka",
+        "tvdb_id": 393187,
+        "poster_url": "https://image.tmdb.org/t/p/w500/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
     },
     {
         "title": "Foundation",
@@ -10,9 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
     },
     {
-        "title": "Silo",
-        "tvdb_id": 403245,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zBx1X06G1OlndbXTCZI13FECNz2.jpg"
+        "title": "Mask Girl",
+        "tvdb_id": 419370,
+        "poster_url": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg"
+    },
+    {
+        "title": "Only Murders in the Building",
+        "tvdb_id": 399959,
+        "poster_url": "https://image.tmdb.org/t/p/w500/yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg"
     },
     {
         "title": "Special Ops: Lioness",
@@ -23,10 +28,5 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/ePpNZ6QCT5ylXniZmfQPyjyFCCM.jpg"
-    },
-    {
-        "title": "The Witcher",
-        "tvdb_id": 362696,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg"
     }
 ]
