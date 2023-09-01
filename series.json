@@ -2,17 +2,12 @@
     {
         "title": "Ahsoka",
         "tvdb_id": 393187,
-        "poster_url": "https://image.tmdb.org/t/p/w500/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/7ewhhV7aSDkrwCNsbwyMmv4Pmo5.jpg"
     },
     {
         "title": "Foundation",
         "tvdb_id": 366972,
         "poster_url": "https://image.tmdb.org/t/p/w500/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
-    },
-    {
-        "title": "Mask Girl",
-        "tvdb_id": 419370,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg"
     },
     {
         "title": "Only Murders in the Building",
@@ -28,5 +23,10 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/ePpNZ6QCT5ylXniZmfQPyjyFCCM.jpg"
+    },
+    {
+        "title": "Who Is Erin Carter?",
+        "tvdb_id": 422814,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1FCsjYtEtuine1TUssIFjy6vmJW.jpg"
     }
 ]

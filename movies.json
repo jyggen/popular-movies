@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
-        "title": "Blue Beetle",
-        "imdb_id": "tt9362930",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg"
-    },
-    {
         "title": "Elemental",
         "imdb_id": "tt15789038",
         "poster_url": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
@@ -28,6 +23,11 @@
         "title": "Heart of Stone",
         "imdb_id": "tt13603966",
         "poster_url": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
+    },
+    {
+        "title": "The Last Voyage of the Demeter",
+        "imdb_id": "tt1001520",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg"
     },
     {
         "title": "Meg 2: The Trench",
