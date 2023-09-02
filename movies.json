@@ -5,9 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
+        "title": "Blue Beetle",
+        "imdb_id": "tt9362930",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg"
+    },
+    {
         "title": "Elemental",
         "imdb_id": "tt15789038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/rvSzdzwfRjAeESh1BPIxjf4eklN.jpg"
     },
     {
         "title": "The Flash",
@@ -48,11 +53,6 @@
         "title": "Oppenheimer",
         "imdb_id": "tt15398776",
         "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-    },
-    {
-        "title": "Strays",
-        "imdb_id": "tt15153532",
-        "poster_url": "https://image.tmdb.org/t/p/w500/wDyIj84k4zpEMbhNbX4zaUW0Jkj.jpg"
     },
     {
         "title": "Talk to Me",

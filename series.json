@@ -2,12 +2,17 @@
     {
         "title": "Ahsoka",
         "tvdb_id": 393187,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7ewhhV7aSDkrwCNsbwyMmv4Pmo5.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
     },
     {
         "title": "Foundation",
         "tvdb_id": 366972,
         "poster_url": "https://image.tmdb.org/t/p/w500/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
+    },
+    {
+        "title": "The Lost Flowers of Alice Hart",
+        "tvdb_id": 403090,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nZUsJV3mQsDjetYcPiN1c4PZSfv.jpg"
     },
     {
         "title": "Only Murders in the Building",
@@ -23,10 +28,5 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/ePpNZ6QCT5ylXniZmfQPyjyFCCM.jpg"
-    },
-    {
-        "title": "Who Is Erin Carter?",
-        "tvdb_id": 422814,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1FCsjYtEtuine1TUssIFjy6vmJW.jpg"
     }
 ]
