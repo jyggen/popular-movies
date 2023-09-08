@@ -37,17 +37,17 @@
     {
         "title": "Meg 2: The Trench",
         "imdb_id": "tt9224104",
-        "poster_url": "https://image.tmdb.org/t/p/w500/FQHtuf2zc8suMFE28RyvFt3FJN.jpg"
-    },
-    {
-        "title": "Mission: Impossible - Dead Reckoning Part One",
-        "imdb_id": "tt9603212",
-        "poster_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/drCySAAAvegq1vQRGRqPKN9f00w.jpg"
     },
     {
         "title": "Oppenheimer",
         "imdb_id": "tt15398776",
         "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+    },
+    {
+        "title": "Strays",
+        "imdb_id": "tt15153532",
+        "poster_url": "https://image.tmdb.org/t/p/w500/muDaKftykz9Nj1mhRheMdbuNI9Z.jpg"
     },
     {
         "title": "Talk to Me",
@@ -57,6 +57,6 @@
     {
         "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
         "imdb_id": "tt8589698",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/sGm09gLVyICQl8lVIHpmHZAgSNq.jpg"
     }
 ]
