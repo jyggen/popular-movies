@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg"
     },
     {
+        "title": "Silo",
+        "tvdb_id": 403245,
+        "poster_url": "https://image.tmdb.org/t/p/w500/zBx1X06G1OlndbXTCZI13FECNz2.jpg"
+    },
+    {
         "title": "Special Ops: Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg"
@@ -23,10 +28,5 @@
         "title": "The Summer I Turned Pretty",
         "tvdb_id": 396505,
         "poster_url": "https://image.tmdb.org/t/p/w500/ePpNZ6QCT5ylXniZmfQPyjyFCCM.jpg"
-    },
-    {
-        "title": "Warrior",
-        "tvdb_id": 359326,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ip0JTVXV4atOdx18ixlYPwESBQR.jpg"
     }
 ]
