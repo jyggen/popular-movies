@@ -7,17 +7,17 @@
     {
         "title": "Elemental",
         "imdb_id": "tt15789038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
-    },
-    {
-        "title": "The Equalizer 3",
-        "imdb_id": "tt17024450",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/6oH378KUfCEitzJkm07r97L0RsZ.jpg"
     },
     {
         "title": "The Flash",
         "imdb_id": "tt0439572",
         "poster_url": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
+    },
+    {
+        "title": "Gran Turismo",
+        "imdb_id": "tt4495098",
+        "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
     },
     {
         "title": "Indiana Jones and the Dial of Destiny",
@@ -57,6 +57,6 @@
     {
         "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
         "imdb_id": "tt8589698",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sGm09gLVyICQl8lVIHpmHZAgSNq.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"
     }
 ]
