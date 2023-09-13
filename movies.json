@@ -5,19 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
-        "title": "Elemental",
-        "imdb_id": "tt15789038",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6oH378KUfCEitzJkm07r97L0RsZ.jpg"
+        "title": "The Equalizer 3",
+        "imdb_id": "tt17024450",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg"
     },
     {
         "title": "Gran Turismo",
         "imdb_id": "tt4495098",
         "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
-    },
-    {
-        "title": "Heart of Stone",
-        "imdb_id": "tt13603966",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
     },
     {
         "title": "Indiana Jones and the Dial of Destiny",
@@ -38,6 +33,11 @@
         "title": "No Hard Feelings",
         "imdb_id": "tt15671028",
         "poster_url": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg"
+    },
+    {
+        "title": "The Nun II",
+        "imdb_id": "tt10160976",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
         "title": "Oppenheimer",
