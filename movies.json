@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
     },
     {
+        "title": "Blue Beetle",
+        "imdb_id": "tt9362930",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vNfL4DYnonltukBrrgMmw94zMYL.jpg"
+    },
+    {
         "title": "The Equalizer 3",
         "imdb_id": "tt17024450",
         "poster_url": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg"
@@ -27,12 +32,7 @@
     {
         "title": "Meg 2: The Trench",
         "imdb_id": "tt9224104",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg"
-    },
-    {
-        "title": "No Hard Feelings",
-        "imdb_id": "tt15671028",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/FQHtuf2zc8suMFE28RyvFt3FJN.jpg"
     },
     {
         "title": "The Nun II",
