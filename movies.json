@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
     },
     {
-        "title": "A Haunting in Venice",
-        "imdb_id": "tt22687790",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
-    },
-    {
         "title": "Indiana Jones and the Dial of Destiny",
         "imdb_id": "tt1462764",
         "poster_url": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
@@ -58,5 +53,10 @@
         "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
         "imdb_id": "tt8589698",
         "poster_url": "https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"
+    },
+    {
+        "title": "Theater Camp",
+        "imdb_id": "tt21232992",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg"
     }
 ]
