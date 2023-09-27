@@ -5,28 +5,28 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
     },
     {
+        "title": "American Horror Story",
+        "tvdb_id": 250487,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg"
+    },
+    {
+        "title": "The Continental: From the World of John Wick",
+        "tvdb_id": 414734,
+        "poster_url": "https://image.tmdb.org/t/p/w500/v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg"
+    },
+    {
         "title": "The Morning Show",
         "tvdb_id": 361563,
         "poster_url": "https://image.tmdb.org/t/p/w500/oTfAheayTCWoselYuty8D6Lem2t.jpg"
     },
     {
-        "title": "Only Murders in the Building",
-        "tvdb_id": 399959,
-        "poster_url": "https://image.tmdb.org/t/p/w500/yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg"
-    },
-    {
-        "title": "Special Ops: Lioness",
-        "tvdb_id": 388589,
-        "poster_url": "https://image.tmdb.org/t/p/w500/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg"
+        "title": "Sex Education",
+        "tvdb_id": 356317,
+        "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
     },
     {
         "title": "The Walking Dead: Daryl Dixon",
         "tvdb_id": 427464,
         "poster_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
-    },
-    {
-        "title": "The Wheel of Time",
-        "tvdb_id": 355730,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg"
     }
 ]
