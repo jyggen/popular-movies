@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg"
     },
     {
-        "title": "The Morning Show",
-        "tvdb_id": 361563,
-        "poster_url": "https://image.tmdb.org/t/p/w500/oTfAheayTCWoselYuty8D6Lem2t.jpg"
-    },
-    {
         "title": "Sex Education",
         "tvdb_id": 356317,
         "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
@@ -28,5 +23,10 @@
         "title": "The Walking Dead: Daryl Dixon",
         "tvdb_id": 427464,
         "poster_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
+    },
+    {
+        "title": "The Wheel of Time",
+        "tvdb_id": 355730,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg"
     }
 ]
