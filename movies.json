@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
     },
     {
+        "title": "Expend4bles",
+        "imdb_id": "tt3291150",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg"
+    },
+    {
         "title": "Gran Turismo",
         "imdb_id": "tt4495098",
         "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
@@ -37,7 +42,7 @@
     {
         "title": "The Nun II",
         "imdb_id": "tt10160976",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/c9kVD7W8CT5xe4O3hQ7bFWwk68U.jpg"
     },
     {
         "title": "Oppenheimer",
@@ -53,10 +58,5 @@
         "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
         "imdb_id": "tt8589698",
         "poster_url": "https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"
-    },
-    {
-        "title": "Theater Camp",
-        "imdb_id": "tt21232992",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg"
     }
 ]
