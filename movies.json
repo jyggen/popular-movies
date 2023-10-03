@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg"
     },
     {
+        "title": "El Conde",
+        "imdb_id": "tt21113540",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rxBe0Js4dCvp1ZGgHHnBxjtbGPw.jpg"
+    },
+    {
         "title": "The Equalizer 3",
         "imdb_id": "tt17024450",
         "poster_url": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
@@ -25,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
     },
     {
-        "title": "A Haunting in Venice",
-        "imdb_id": "tt22687790",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
-    },
-    {
         "title": "A Million Miles Away",
         "imdb_id": "tt21940010",
         "poster_url": "https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg"
@@ -42,7 +42,7 @@
     {
         "title": "The Nun II",
         "imdb_id": "tt10160976",
-        "poster_url": "https://image.tmdb.org/t/p/w500/c9kVD7W8CT5xe4O3hQ7bFWwk68U.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
         "title": "Oppenheimer",
