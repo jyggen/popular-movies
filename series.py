@@ -31,10 +31,10 @@ def _best_match(
     if b is None:
         return a
 
-    if a["name"] == title and b["name"] != title:
+    if a["name"].lower() == title.lower() and b["name"].lower() != title.lower():
         return a
 
-    if a["name"] != title and b["name"] == title:
+    if a["name"].lower() != title.lower() and b["name"].lower() == title.lower():
         return b
 
     a_has_matching_season = next(
@@ -148,11 +148,13 @@ def _find_series_by_title_year_season(
 
         if match:
             match = dict(match)
-            match["imdb_id"] = _tv_api.external_ids(match["id"]).imdb_id
+            external_ids = _tv_api.external_ids(match["id"])
+            match["imdb_id"] = external_ids.imdb_id
+            match["tvdb_id"] = external_ids.tvdb_id
 
             logging.info(
-                'Matched "{season_name}" of "{title}" ({year}) against "{imdb_id}".'.format(
-                    imdb_id=match["imdb_id"],
+                'Matched "{season_name}" of "{title}" ({year}) against "{tvdb_id}".'.format(
+                    tvdb_id=match["tvdb_id"],
                     title=title,
                     season_name=season_name,
                     year=year,
@@ -208,7 +210,7 @@ def _to_steven_lu_format(series: list[dict]) -> [dict]:
     for show in series:
         yield {
             "title": show["name"],
-            "tvdb_id": _tv_api.external_ids(show["id"]).tvdb_id,
+            "tvdb_id": show["tvdb_id"],
             "poster_url": f"https://image.tmdb.org/t/p/w500{show['poster_path']}",
         }
 
