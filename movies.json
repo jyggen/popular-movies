@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg"
     },
     {
-        "title": "Bottoms",
-        "imdb_id": "tt17527468",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg"
-    },
-    {
         "title": "The Creator",
         "imdb_id": "tt11858890",
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
@@ -33,6 +28,11 @@
         "title": "No One Will Save You",
         "imdb_id": "tt14509110",
         "poster_url": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg"
+    },
+    {
+        "title": "Nowhere",
+        "imdb_id": "tt15789472",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rpzFxv78UvYG5yQba2soO5mMl4T.jpg"
     },
     {
         "title": "The Nun II",
