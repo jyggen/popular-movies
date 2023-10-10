@@ -5,9 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
     },
     {
+        "title": "American Horror Story",
+        "tvdb_id": 250487,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg"
+    },
+    {
         "title": "The Continental: From the World of John Wick",
         "tvdb_id": 414734,
-        "poster_url": "https://image.tmdb.org/t/p/w500/v1YEOdGptCyNxnc4mJSYNd4cE8E.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/weszIbxgvh5Xnm8y76gahL3t5uL.jpg"
     },
     {
         "title": "ONE PIECE",
@@ -23,10 +28,5 @@
         "title": "The Walking Dead: Daryl Dixon",
         "tvdb_id": 427464,
         "poster_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
-    },
-    {
-        "title": "The Wheel of Time",
-        "tvdb_id": 355730,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg"
     }
 ]

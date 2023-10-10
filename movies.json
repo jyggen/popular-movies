@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg"
     },
     {
+        "title": "Bottoms",
+        "imdb_id": "tt17527468",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg"
+    },
+    {
         "title": "The Creator",
         "imdb_id": "tt11858890",
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
@@ -32,7 +37,7 @@
     {
         "title": "Nowhere",
         "imdb_id": "tt15789472",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rpzFxv78UvYG5yQba2soO5mMl4T.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg"
     },
     {
         "title": "The Nun II",
@@ -43,11 +48,6 @@
         "title": "Oppenheimer",
         "imdb_id": "tt15398776",
         "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-    },
-    {
-        "title": "Reptile",
-        "imdb_id": "tt13274016",
-        "poster_url": "https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg"
     },
     {
         "title": "Saw X",
