@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg"
     },
     {
-        "title": "Bottoms",
-        "imdb_id": "tt17527468",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg"
-    },
-    {
         "title": "The Creator",
         "imdb_id": "tt11858890",
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
@@ -50,9 +45,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
     },
     {
+        "title": "PAW Patrol: The Mighty Movie",
+        "imdb_id": "tt15837338",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg"
+    },
+    {
         "title": "Saw X",
         "imdb_id": "tt21807222",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/w54xXtX9B9zZnE31OcMHqi2WIST.jpg"
     },
     {
         "title": "Talk to Me",
