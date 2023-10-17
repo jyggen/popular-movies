@@ -1,13 +1,8 @@
 [
     {
-        "title": "Barbie",
-        "imdb_id": "tt1517268",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-    },
-    {
-        "title": "Blue Beetle",
-        "imdb_id": "tt9362930",
-        "poster_url": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg"
+        "title": "Ballerina",
+        "imdb_id": "tt26350277",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg"
     },
     {
         "title": "The Creator",
@@ -20,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
     },
     {
-        "title": "Gran Turismo",
-        "imdb_id": "tt4495098",
-        "poster_url": "https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg"
+        "title": "Fair Play",
+        "imdb_id": "tt16304446",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg"
+    },
+    {
+        "title": "Haunted Mansion",
+        "imdb_id": "tt1695843",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg"
     },
     {
         "title": "No One Will Save You",
@@ -40,16 +40,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
-        "title": "Oppenheimer",
-        "imdb_id": "tt15398776",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-    },
-    {
-        "title": "PAW Patrol: The Mighty Movie",
-        "imdb_id": "tt15837338",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg"
-    },
-    {
         "title": "Saw X",
         "imdb_id": "tt21807222",
         "poster_url": "https://image.tmdb.org/t/p/w500/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg"
@@ -58,5 +48,15 @@
         "title": "Talk to Me",
         "imdb_id": "tt10638522",
         "poster_url": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg"
+    },
+    {
+        "title": "TAYLOR SWIFT | THE ERAS TOUR",
+        "imdb_id": "tt28814949",
+        "poster_url": "https://image.tmdb.org/t/p/w500/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg"
+    },
+    {
+        "title": "Totally Killer",
+        "imdb_id": "tt11426232",
+        "poster_url": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg"
     }
 ]
