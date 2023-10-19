@@ -1,5 +1,10 @@
 [
     {
+        "title": "American Horror Story",
+        "tvdb_id": 250487,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg"
+    },
+    {
         "title": "Chucky",
         "tvdb_id": 349415,
         "poster_url": "https://image.tmdb.org/t/p/w500/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg"
@@ -18,11 +23,6 @@
         "title": "Lupin",
         "tvdb_id": 375921,
         "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
-    },
-    {
-        "title": "Sex Education",
-        "tvdb_id": 356317,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
     },
     {
         "title": "The Walking Dead: Daryl Dixon",
