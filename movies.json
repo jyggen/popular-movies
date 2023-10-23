@@ -7,12 +7,7 @@
     {
         "title": "The Conference",
         "imdb_id": "tt26547864",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9imBftrSrLToSfAIzdh3zPoa6VM.jpg"
-    },
-    {
-        "title": "The Creator",
-        "imdb_id": "tt11858890",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg"
     },
     {
         "title": "The Equalizer 3",
@@ -28,6 +23,16 @@
         "title": "Haunted Mansion",
         "imdb_id": "tt1695843",
         "poster_url": "https://image.tmdb.org/t/p/w500/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg"
+    },
+    {
+        "title": "It Lives Inside",
+        "imdb_id": "tt15683734",
+        "poster_url": "https://image.tmdb.org/t/p/w500/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg"
+    },
+    {
+        "title": "No One Will Save You",
+        "imdb_id": "tt14509110",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg"
     },
     {
         "title": "Nowhere",
@@ -48,11 +53,6 @@
         "title": "Talk to Me",
         "imdb_id": "tt10638522",
         "poster_url": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg"
-    },
-    {
-        "title": "TAYLOR SWIFT | THE ERAS TOUR",
-        "imdb_id": "tt28814949",
-        "poster_url": "https://image.tmdb.org/t/p/w500/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg"
     },
     {
         "title": "Totally Killer",
