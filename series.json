@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg"
     },
     {
+        "title": "The Fall of the House of Usher",
+        "tvdb_id": 411021,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
+    },
+    {
         "title": "Gen V",
         "tvdb_id": 417909,
         "poster_url": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
@@ -18,11 +23,6 @@
         "title": "Loki",
         "tvdb_id": 362472,
         "poster_url": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg"
-    },
-    {
-        "title": "The Morning Show",
-        "tvdb_id": 361563,
-        "poster_url": "https://image.tmdb.org/t/p/w500/oTfAheayTCWoselYuty8D6Lem2t.jpg"
     },
     {
         "title": "The Walking Dead: Daryl Dixon",
