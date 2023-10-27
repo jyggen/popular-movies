@@ -45,11 +45,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ax1rpxHCcXVwwfn0zSte1udoJwV.jpg"
     },
     {
-        "title": "Reptile",
-        "imdb_id": "tt13274016",
-        "poster_url": "https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg"
-    },
-    {
         "title": "Saw X",
         "imdb_id": "tt21807222",
         "poster_url": "https://image.tmdb.org/t/p/w500/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"
@@ -58,5 +53,10 @@
         "title": "TAYLOR SWIFT | THE ERAS TOUR",
         "imdb_id": "tt28814949",
         "poster_url": "https://image.tmdb.org/t/p/w500/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg"
+    },
+    {
+        "title": "Totally Killer",
+        "imdb_id": "tt11426232",
+        "poster_url": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg"
     }
 ]
