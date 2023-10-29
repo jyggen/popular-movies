@@ -7,12 +7,17 @@
     {
         "title": "The Conference",
         "imdb_id": "tt26547864",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9imBftrSrLToSfAIzdh3zPoa6VM.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg"
     },
     {
         "title": "The Creator",
         "imdb_id": "tt11858890",
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
+    },
+    {
+        "title": "The Devil on Trial",
+        "imdb_id": "tt28810493",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg"
     },
     {
         "title": "The Equalizer 3",
@@ -23,11 +28,6 @@
         "title": "The Exorcist: Believer",
         "imdb_id": "tt12921446",
         "poster_url": "https://image.tmdb.org/t/p/w500/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg"
-    },
-    {
-        "title": "Fair Play",
-        "imdb_id": "tt16304446",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg"
     },
     {
         "title": "Killers of the Flower Moon",
