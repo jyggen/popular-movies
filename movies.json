@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
     },
     {
-        "title": "The Devil on Trial",
-        "imdb_id": "tt28810493",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg"
-    },
-    {
         "title": "The Equalizer 3",
         "imdb_id": "tt17024450",
         "poster_url": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
@@ -28,6 +23,11 @@
         "title": "The Exorcist: Believer",
         "imdb_id": "tt12921446",
         "poster_url": "https://image.tmdb.org/t/p/w500/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg"
+    },
+    {
+        "title": "A Haunting in Venice",
+        "imdb_id": "tt22687790",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
     },
     {
         "title": "Killers of the Flower Moon",
