@@ -5,19 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg"
     },
     {
-        "title": "The Conference",
-        "imdb_id": "tt26547864",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg"
-    },
-    {
         "title": "The Creator",
         "imdb_id": "tt11858890",
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
-    },
-    {
-        "title": "The Equalizer 3",
-        "imdb_id": "tt17024450",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
     },
     {
         "title": "The Exorcist: Believer",
@@ -25,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg"
     },
     {
-        "title": "A Haunting in Venice",
-        "imdb_id": "tt22687790",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
+        "title": "Fair Play",
+        "imdb_id": "tt16304446",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg"
+    },
+    {
+        "title": "Five Nights at Freddy's",
+        "imdb_id": "tt4589218",
+        "poster_url": "https://image.tmdb.org/t/p/w500/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg"
     },
     {
         "title": "Killers of the Flower Moon",
@@ -58,5 +53,10 @@
         "title": "Totally Killer",
         "imdb_id": "tt11426232",
         "poster_url": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg"
+    },
+    {
+        "title": "The Wonderful Story of Henry Sugar",
+        "imdb_id": "tt16968450",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg"
     }
 ]
