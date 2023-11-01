@@ -1,13 +1,8 @@
 [
     {
-        "title": "American Horror Story",
-        "tvdb_id": 250487,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg"
-    },
-    {
-        "title": "Chucky",
-        "tvdb_id": 349415,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg"
+        "title": "The Fall of the House of Usher",
+        "tvdb_id": 411021,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg"
     },
     {
         "title": "Gen V",
@@ -25,8 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/oTfAheayTCWoselYuty8D6Lem2t.jpg"
     },
     {
-        "title": "The Walking Dead: Daryl Dixon",
-        "tvdb_id": 427464,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
+        "title": "Rick and Morty",
+        "tvdb_id": 275274,
+        "poster_url": "https://image.tmdb.org/t/p/w500/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg"
+    },
+    {
+        "title": "Sex Education",
+        "tvdb_id": 356317,
+        "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
     }
 ]
