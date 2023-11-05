@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bosch: Legacy",
+        "tvdb_id": 414553,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jaBQkpjXw0wtbAFLJ23SKFc6fa8.jpg"
+    },
+    {
         "title": "Gen V",
         "tvdb_id": 417909,
         "poster_url": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
@@ -8,11 +13,6 @@
         "title": "Loki",
         "tvdb_id": 362472,
         "poster_url": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg"
-    },
-    {
-        "title": "Lupin",
-        "tvdb_id": 375921,
-        "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
     },
     {
         "title": "The Morning Show",
