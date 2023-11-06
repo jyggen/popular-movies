@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bosch: Legacy",
-        "tvdb_id": 414553,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jaBQkpjXw0wtbAFLJ23SKFc6fa8.jpg"
-    },
-    {
         "title": "Gen V",
         "tvdb_id": 417909,
         "poster_url": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
@@ -28,5 +23,10 @@
         "title": "Sex Education",
         "tvdb_id": 356317,
         "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
+    },
+    {
+        "title": "Upload",
+        "tvdb_id": 368211,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xHA48xeftf7hZmjXNZqDghCZM1a.jpg"
     }
 ]
