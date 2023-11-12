@@ -20,6 +20,16 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg"
     },
     {
+        "title": "A Haunting in Venice",
+        "imdb_id": "tt22687790",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
+    },
+    {
+        "title": "The Killer",
+        "imdb_id": "tt1136617",
+        "poster_url": "https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg"
+    },
+    {
         "title": "Killers of the Flower Moon",
         "imdb_id": "tt5537002",
         "poster_url": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
@@ -30,29 +40,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
-        "title": "Old Dads",
-        "imdb_id": "tt18394190",
-        "poster_url": "https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg"
+        "title": "NYAD",
+        "imdb_id": "tt5302918",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg"
     },
     {
-        "title": "Pain Hustlers",
-        "imdb_id": "tt15257160",
-        "poster_url": "https://image.tmdb.org/t/p/w500/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg"
+        "title": "Quiz Lady",
+        "imdb_id": "tt13405810",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tqKiprkTUfXWi8bOjCl0lHtCwod.jpg"
     },
     {
         "title": "Saw X",
         "imdb_id": "tt21807222",
         "poster_url": "https://image.tmdb.org/t/p/w500/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"
-    },
-    {
-        "title": "TAYLOR SWIFT | THE ERAS TOUR",
-        "imdb_id": "tt28814949",
-        "poster_url": "https://image.tmdb.org/t/p/w500/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg"
-    },
-    {
-        "title": "Totally Killer",
-        "imdb_id": "tt11426232",
-        "poster_url": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg"
     },
     {
         "title": "When Evil Lurks",
