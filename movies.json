@@ -12,7 +12,7 @@
     {
         "title": "Dumb Money",
         "imdb_id": "tt13957560",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gbOnTa2eTbCAznHiusxHI5oA78c.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/xYTymnjkVqhn3V66QmNJxFUesLT.jpg"
     },
     {
         "title": "Five Nights at Freddy's",
@@ -23,6 +23,11 @@
         "title": "A Haunting in Venice",
         "imdb_id": "tt22687790",
         "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
+    },
+    {
+        "title": "The Holdovers",
+        "imdb_id": "tt14849194",
+        "poster_url": "https://image.tmdb.org/t/p/w500/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg"
     },
     {
         "title": "The Killer",
@@ -40,11 +45,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
     },
     {
-        "title": "NYAD",
-        "imdb_id": "tt5302918",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg"
-    },
-    {
         "title": "Radical",
         "imdb_id": "tt14570440",
         "poster_url": "https://image.tmdb.org/t/p/w500/eSatbygYZp8ooprBHZdb6GFZxGB.jpg"
@@ -52,7 +52,7 @@
     {
         "title": "TAYLOR SWIFT | THE ERAS TOUR",
         "imdb_id": "tt28814949",
-        "poster_url": "https://image.tmdb.org/t/p/w500/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/oUsk0NtxOW3fpxOZfR8Nk3ekp57.jpg"
     },
     {
         "title": "When Evil Lurks",
