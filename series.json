@@ -1,10 +1,5 @@
 [
     {
-        "title": "30 Coins (30 Monedas)",
-        "tvdb_id": 369414,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gb1JG7jzjWKQPdhc2TSokoiFK2S.jpg"
-    },
-    {
         "title": "Gen V",
         "tvdb_id": 417909,
         "poster_url": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
@@ -13,6 +8,11 @@
         "title": "Invincible",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
+    },
+    {
+        "title": "Lessons in Chemistry",
+        "tvdb_id": 395685,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg"
     },
     {
         "title": "Loki",
