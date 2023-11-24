@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
     },
     {
-        "title": "Dumb Money",
-        "imdb_id": "tt13957560",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xYTymnjkVqhn3V66QmNJxFUesLT.jpg"
-    },
-    {
         "title": "Five Nights at Freddy's",
         "imdb_id": "tt4589218",
         "poster_url": "https://image.tmdb.org/t/p/w500/j9mH1pr3IahtraTWxVEMANmPSGR.jpg"
@@ -37,12 +32,17 @@
     {
         "title": "The Marvels",
         "imdb_id": "tt10676048",
-        "poster_url": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/y4YMYsGSMwu8e985g0Zbumvqxld.jpg"
     },
     {
         "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
         "imdb_id": "tt21335356",
         "poster_url": "https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg"
+    },
+    {
+        "title": "Saltburn",
+        "imdb_id": "tt17351924",
+        "poster_url": "https://image.tmdb.org/t/p/w500/opUXVi8FtgIWi8cy8mo90vMPimQ.jpg"
     },
     {
         "title": "TAYLOR SWIFT | THE ERAS TOUR",
@@ -57,6 +57,6 @@
     {
         "title": "Trolls Band Together",
         "imdb_id": "tt14362112",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg"
     }
 ]
