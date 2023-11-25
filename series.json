@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
     },
     {
+        "title": "Lessons in Chemistry",
+        "tvdb_id": 395685,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg"
+    },
+    {
         "title": "Loki",
         "tvdb_id": 362472,
         "poster_url": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg"
-    },
-    {
-        "title": "Sex Education",
-        "tvdb_id": 356317,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zn6VNUOHGWKvSGRL6KiMtAe9ELy.jpg"
     }
 ]
