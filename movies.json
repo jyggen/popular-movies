@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/j9mH1pr3IahtraTWxVEMANmPSGR.jpg"
     },
     {
-        "title": "A Haunting in Venice",
-        "imdb_id": "tt22687790",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
-    },
-    {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
         "imdb_id": "tt10545296",
         "poster_url": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
@@ -30,24 +25,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
     },
     {
+        "title": "Leo",
+        "imdb_id": "tt5755238",
+        "poster_url": "https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg"
+    },
+    {
         "title": "The Marvels",
         "imdb_id": "tt10676048",
         "poster_url": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
     },
     {
-        "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
-        "imdb_id": "tt21335356",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg"
-    },
-    {
-        "title": "Saltburn",
-        "imdb_id": "tt17351924",
-        "poster_url": "https://image.tmdb.org/t/p/w500/opUXVi8FtgIWi8cy8mo90vMPimQ.jpg"
-    },
-    {
-        "title": "TAYLOR SWIFT | THE ERAS TOUR",
-        "imdb_id": "tt28814949",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fcWEbKJIBdClaZ4ovTMOrrQLWBS.jpg"
+        "title": "Napoleon",
+        "imdb_id": "tt13287846",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
     },
     {
         "title": "Thanksgiving",
@@ -58,5 +48,15 @@
         "title": "Trolls Band Together",
         "imdb_id": "tt14362112",
         "poster_url": "https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg"
+    },
+    {
+        "title": "When Evil Lurks",
+        "imdb_id": "tt16300962",
+        "poster_url": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg"
+    },
+    {
+        "title": "Wish",
+        "imdb_id": "tt11304740",
+        "poster_url": "https://image.tmdb.org/t/p/w500/8QtDhh8mnGUEyrJsaeb3kYgDRaA.jpg"
     }
 ]
