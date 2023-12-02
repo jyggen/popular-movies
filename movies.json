@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/j9mH1pr3IahtraTWxVEMANmPSGR.jpg"
     },
     {
+        "title": "The Holdovers",
+        "imdb_id": "tt14849194",
+        "poster_url": "https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+    },
+    {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
         "imdb_id": "tt10545296",
         "poster_url": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
@@ -32,7 +37,7 @@
     {
         "title": "The Marvels",
         "imdb_id": "tt10676048",
-        "poster_url": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/y4YMYsGSMwu8e985g0Zbumvqxld.jpg"
     },
     {
         "title": "Napoleon",
@@ -48,11 +53,6 @@
         "title": "Trolls Band Together",
         "imdb_id": "tt14362112",
         "poster_url": "https://image.tmdb.org/t/p/w500/qV4fdXXUm5xNlEJ2jw7af3XxuQB.jpg"
-    },
-    {
-        "title": "When Evil Lurks",
-        "imdb_id": "tt16300962",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg"
     },
     {
         "title": "Wish",
