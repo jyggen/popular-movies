@@ -12,7 +12,7 @@
     {
         "title": "Five Nights at Freddy's",
         "imdb_id": "tt4589218",
-        "poster_url": "https://image.tmdb.org/t/p/w500/j9mH1pr3IahtraTWxVEMANmPSGR.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg"
     },
     {
         "title": "Freelance",
@@ -22,12 +22,7 @@
     {
         "title": "Godzilla Minus One",
         "imdb_id": "tt23289160",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
-    },
-    {
-        "title": "The Holdovers",
-        "imdb_id": "tt14849194",
-        "poster_url": "https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/fk62hm95sVNHy5Lkx3d18wj1v19.jpg"
     },
     {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -48,6 +43,11 @@
         "title": "The Marvels",
         "imdb_id": "tt10676048",
         "poster_url": "https://image.tmdb.org/t/p/w500/y4YMYsGSMwu8e985g0Zbumvqxld.jpg"
+    },
+    {
+        "title": "May December",
+        "imdb_id": "tt13651794",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yibtHDMO70RueiEmtrcJeTiiHFo.jpg"
     },
     {
         "title": "Napoleon",

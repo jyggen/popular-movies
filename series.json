@@ -1,10 +1,5 @@
 [
     {
-        "title": "BLUE EYE SAMURAI",
-        "tvdb_id": 434151,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
-    },
-    {
         "title": "Fargo",
         "tvdb_id": 269613,
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
@@ -28,5 +23,10 @@
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
+    },
+    {
+        "title": "Squid Game: The Challenge",
+        "tvdb_id": 421260,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg"
     }
 ]
