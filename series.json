@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
     },
     {
+        "title": "Obliterated",
+        "tvdb_id": 419726,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5g3UrcV6oguAcI3myMKb6wi28y5.jpg"
+    },
+    {
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
-    },
-    {
-        "title": "Squid Game: The Challenge",
-        "tvdb_id": 421260,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg"
     }
 ]
