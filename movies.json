@@ -5,19 +5,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2pYgOBtBaFxAELQGj6p86vuIhhG.jpg"
     },
     {
-        "title": "The Creator",
-        "imdb_id": "tt11858890",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
-    },
-    {
         "title": "Five Nights at Freddy's",
         "imdb_id": "tt4589218",
         "poster_url": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg"
-    },
-    {
-        "title": "Freelance",
-        "imdb_id": "tt15744298",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg"
     },
     {
         "title": "Godzilla Minus One",
@@ -35,6 +25,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
     },
     {
+        "title": "Leave the World Behind",
+        "imdb_id": "tt12747748",
+        "poster_url": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg"
+    },
+    {
         "title": "Leo",
         "imdb_id": "tt5755238",
         "poster_url": "https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg"
@@ -42,7 +37,7 @@
     {
         "title": "The Marvels",
         "imdb_id": "tt10676048",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
     },
     {
         "title": "May December",
@@ -55,8 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
     },
     {
-        "title": "Trolls Band Together",
-        "imdb_id": "tt14362112",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sEaLO9s7CIN3fjz8R3Qksum44en.jpg"
+        "title": "Thanksgiving",
+        "imdb_id": "tt1448754",
+        "poster_url": "https://image.tmdb.org/t/p/w500/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg"
+    },
+    {
+        "title": "Wish",
+        "imdb_id": "tt11304740",
+        "poster_url": "https://image.tmdb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg"
     }
 ]
