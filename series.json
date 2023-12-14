@@ -1,18 +1,13 @@
 [
     {
+        "title": "The Crown",
+        "tvdb_id": 305574,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg"
+    },
+    {
         "title": "Fargo",
         "tvdb_id": 269613,
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
-    },
-    {
-        "title": "Invincible",
-        "tvdb_id": 368207,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
-    },
-    {
-        "title": "Loki",
-        "tvdb_id": 362472,
-        "poster_url": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg"
     },
     {
         "title": "Monarch: Legacy of Monsters",
@@ -20,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
     },
     {
-        "title": "Obliterated",
-        "tvdb_id": 419726,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5g3UrcV6oguAcI3myMKb6wi28y5.jpg"
+        "title": "My Life with the Walter Boys",
+        "tvdb_id": 405817,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg"
+    },
+    {
+        "title": "Reacher",
+        "tvdb_id": 366924,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
     },
     {
         "title": "Slow Horses",
