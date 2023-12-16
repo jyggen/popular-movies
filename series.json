@@ -1,5 +1,10 @@
 [
     {
+        "title": "BLUE EYE SAMURAI",
+        "tvdb_id": 434151,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
+    },
+    {
         "title": "The Crown",
         "tvdb_id": 305574,
         "poster_url": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg"
@@ -23,10 +28,5 @@
         "title": "Reacher",
         "tvdb_id": 366924,
         "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
-    },
-    {
-        "title": "Slow Horses",
-        "tvdb_id": 372264,
-        "poster_url": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
     }
 ]
