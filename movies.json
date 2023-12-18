@@ -1,5 +1,10 @@
 [
     {
+        "title": "Candy Cane Lane",
+        "imdb_id": "tt21328106",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2pYgOBtBaFxAELQGj6p86vuIhhG.jpg"
+    },
+    {
         "title": "Fast Charlie",
         "imdb_id": "tt6722400",
         "poster_url": "https://image.tmdb.org/t/p/w500/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg"
@@ -48,11 +53,6 @@
         "title": "Napoleon",
         "imdb_id": "tt13287846",
         "poster_url": "https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
-    },
-    {
-        "title": "Poor Things",
-        "imdb_id": "tt14230458",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hplhTGTmKoz85Z9UBZ9kYOxtzm0.jpg"
     },
     {
         "title": "Wish",
