@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
     },
     {
+        "title": "For All Mankind",
+        "tvdb_id": 356202,
+        "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
+    },
+    {
         "title": "Monarch: Legacy of Monsters",
         "tvdb_id": 422598,
         "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
@@ -23,10 +28,5 @@
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
-    },
-    {
-        "title": "Yu Yu Hakusho",
-        "tvdb_id": 413737,
-        "poster_url": "https://image.tmdb.org/t/p/w500/t9WiCEnojzksL3crxiCt7HIda8p.jpg"
     }
 ]
