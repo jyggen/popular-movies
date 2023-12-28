@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
     },
     {
-        "title": "For All Mankind",
-        "tvdb_id": 356202,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
-    },
-    {
         "title": "Monarch: Legacy of Monsters",
         "tvdb_id": 422598,
         "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
+    },
+    {
+        "title": "Percy Jackson and the Olympians",
+        "tvdb_id": 415151,
+        "poster_url": "https://image.tmdb.org/t/p/w500/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg"
     },
     {
         "title": "Reacher",
@@ -25,8 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
     },
     {
-        "title": "Slow Horses",
-        "tvdb_id": 372264,
-        "poster_url": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
+        "title": "What If...?",
+        "tvdb_id": 367147,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg"
     }
 ]
