@@ -73,7 +73,7 @@ def _best_match(
     if not a_has_matching_season and b_has_matching_season:
         return b
 
-    if year and a_has_matching_season and b_has_matching_season:
+    if year and a_has_matching_season and a_has_matching_season["air_date"] and b_has_matching_season and b_has_matching_season["air_date"]:
         a_date = date.fromisoformat(a_has_matching_season["air_date"])
         b_date = date.fromisoformat(b_has_matching_season["air_date"])
 
