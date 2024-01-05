@@ -97,7 +97,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
 
                 return match
 
-    logging.exception(
+    logging.error(
         'Unable to find a match for "{title}" ({year}).'.format(title=title, year=year)
     )
 

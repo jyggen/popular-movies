@@ -163,7 +163,7 @@ def _find_series_by_title_year_season(
 
             return match
 
-    logging.exception(
+    logging.error(
         'Unable to find a match for "{season_name}" of "{title}" ({year}).'.format(
             title=title,
             season_name=season_name,

@@ -30,8 +30,14 @@ jobs:
             SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
             TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
             TMDB_CACHE_ENABLED: False
+      - run: poetry run python swedish.py > public/swedish.json
+        env:
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
       - run: cat public/series.json
+      - run: cat public/swedish.json
       - uses: crazy-max/ghaction-github-status@v2
         with:
           pages_threshold: major_outage
