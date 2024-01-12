@@ -1,10 +1,5 @@
 [
     {
-        "title": "Berlin",
-        "tvdb_id": 413033,
-        "poster_url": "https://image.tmdb.org/t/p/w500/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg"
-    },
-    {
         "title": "Fargo",
         "tvdb_id": 269613,
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
@@ -13,6 +8,11 @@
         "title": "For All Mankind",
         "tvdb_id": 356202,
         "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
+    },
+    {
+        "title": "Monarch: Legacy of Monsters",
+        "tvdb_id": 422598,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
     },
     {
         "title": "Percy Jackson and the Olympians",
@@ -25,8 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
     },
     {
-        "title": "What If...?",
-        "tvdb_id": 367147,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zaqfFDUrSfIljdD0OBxSjcutX8n.jpg"
+        "title": "True Detective",
+        "tvdb_id": 270633,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
     }
 ]
