@@ -1,5 +1,10 @@
 [
     {
+        "title": "Berlin",
+        "tvdb_id": 413033,
+        "poster_url": "https://image.tmdb.org/t/p/w500/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg"
+    },
+    {
         "title": "Fargo",
         "tvdb_id": 269613,
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
@@ -8,11 +13,6 @@
         "title": "For All Mankind",
         "tvdb_id": 356202,
         "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
-    },
-    {
-        "title": "Monarch: Legacy of Monsters",
-        "tvdb_id": 422598,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
     },
     {
         "title": "Percy Jackson and the Olympians",
