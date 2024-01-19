@@ -1,10 +1,5 @@
 [
     {
-        "title": "Berlin",
-        "tvdb_id": 413033,
-        "poster_url": "https://image.tmdb.org/t/p/w500/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg"
-    },
-    {
         "title": "Fargo",
         "tvdb_id": 269613,
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
@@ -23,6 +18,11 @@
         "title": "Reacher",
         "tvdb_id": 366924,
         "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
+    },
+    {
+        "title": "ted",
+        "tvdb_id": 404604,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
     },
     {
         "title": "True Detective",
