@@ -25,6 +25,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg"
     },
     {
+        "title": "The Marvels",
+        "imdb_id": "tt10676048",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg"
+    },
+    {
         "title": "Napoleon",
         "imdb_id": "tt13287846",
         "poster_url": "https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
@@ -33,11 +38,6 @@
         "title": "Poor Things",
         "imdb_id": "tt14230458",
         "poster_url": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
-    },
-    {
-        "title": "Rebel Moon - Part One: A Child of Fire",
-        "imdb_id": "tt14998742",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg"
     },
     {
         "title": "Role Play",
