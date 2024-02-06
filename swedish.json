@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bamse and the World's Smallest Adventure",
-        "imdb_id": "tt22246236",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6DgFaIEwvR2h6t1xCFs1CrhLe3g.jpg"
-    },
-    {
         "title": "The Final Race",
         "imdb_id": "tt20355484",
         "poster_url": "https://image.tmdb.org/t/p/w500/avIfw5vAxi3pPKM9L0QMR20uYH6.jpg"
@@ -13,5 +8,10 @@
         "title": "Hammarskj\u00f6ld \u2013 Fight For Peace",
         "imdb_id": "tt26676104",
         "poster_url": "https://image.tmdb.org/t/p/w500/lsRJFPqvhtwpLnnc9pV9wBdk0Mp.jpg"
+    },
+    {
+        "title": "Knyckertz & snutjakten",
+        "imdb_id": "tt27664898",
+        "poster_url": "https://image.tmdb.org/t/p/w500/3vQZvZofE0dgDQWv9N8DEzmuO8O.jpg"
     }
 ]
