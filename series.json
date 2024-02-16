@@ -1,13 +1,18 @@
 [
     {
+        "title": "Fargo",
+        "tvdb_id": 269613,
+        "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
+    },
+    {
         "title": "For All Mankind",
         "tvdb_id": 356202,
         "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
     },
     {
-        "title": "Griselda",
-        "tvdb_id": 412111,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg"
+        "title": "Halo",
+        "tvdb_id": 366524,
+        "poster_url": "https://image.tmdb.org/t/p/w500/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
     },
     {
         "title": "Hazbin Hotel",
@@ -18,11 +23,6 @@
         "title": "Masters of the Air",
         "tvdb_id": 370853,
         "poster_url": "https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg"
-    },
-    {
-        "title": "Reacher",
-        "tvdb_id": 366924,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
     },
     {
         "title": "True Detective",
