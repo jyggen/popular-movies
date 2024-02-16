@@ -35,9 +35,7 @@ def _find_movie_by_imdb_id(imdb_id: str) -> dict | None:
     results = _find_api.find_by_imdb_id(imdb_id)
 
     if not results["movie_results"]:
-        logging.error(
-            'Unable to find a match for "{imdb_id}".'.format(imdb_id=imdb_id)
-        )
+        logging.error('Unable to find a match for "{imdb_id}".'.format(imdb_id=imdb_id))
         return None
 
     match = dict(results["movie_results"][0])
@@ -75,7 +73,7 @@ def _get_moviezine_movies() -> Iterator[str]:
         if not imdb_id:
             continue
 
-        yield "tt"+imdb_id
+        yield "tt" + imdb_id
 
 
 def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
@@ -94,10 +92,7 @@ def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
 def _generate() -> list[dict]:
     movies = filter(
         None,
-        [
-            _find_movie_by_imdb_id(imdb_id)
-            for imdb_id in _get_moviezine_movies()
-        ],
+        [_find_movie_by_imdb_id(imdb_id) for imdb_id in _get_moviezine_movies()],
     )
 
     movies = filter(_filter_by_release_date, movies)

@@ -76,7 +76,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
 
             while page == 1 or page <= int(_search_api.total_pages):
                 results = _search_api.movies(
-                    {"query": search_query, "year": search_year, "page": page}
+                    term=search_query, year=search_year, page=page
                 )
                 page += 1
 

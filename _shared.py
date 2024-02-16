@@ -2,6 +2,7 @@ import copy
 import math
 import re
 from typing import Iterator
+from tenacity import Retrying, stop_after_attempt, wait_fixed, wait_random
 
 import imdb
 
@@ -29,7 +30,11 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
             imdb_rating = 0
         else:
             try:
-                imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
+                for attempt in Retrying(
+                    wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
+                ):
+                    with attempt:
+                        imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
             except KeyError:
                 imdb_rating = 0
 
