@@ -5,14 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
     },
     {
-        "title": "For All Mankind",
-        "tvdb_id": 356202,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
-    },
-    {
         "title": "Halo",
         "tvdb_id": 366524,
         "poster_url": "https://image.tmdb.org/t/p/w500/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
+    },
+    {
+        "title": "Hazbin Hotel",
+        "tvdb_id": 358805,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg"
     },
     {
         "title": "Masters of the Air",
