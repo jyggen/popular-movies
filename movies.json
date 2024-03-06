@@ -32,12 +32,17 @@
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/mFnF8tpPMqEwti2J2aMhYGZYdv0.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
     },
     {
         "title": "Lisa Frankenstein",
         "imdb_id": "tt21188080",
         "poster_url": "https://image.tmdb.org/t/p/w500/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg"
+    },
+    {
+        "title": "Out of Darkness",
+        "imdb_id": "tt7527682",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9tG77VE7bP8ve79X86ABwHzDqbb.jpg"
     },
     {
         "title": "Poor Things",
@@ -48,11 +53,6 @@
         "title": "Spaceman",
         "imdb_id": "tt11097384",
         "poster_url": "https://image.tmdb.org/t/p/w500/5hnFFOWEchErNVr0wMLWFEob3q1.jpg"
-    },
-    {
-        "title": "Wonka",
-        "imdb_id": "tt6166392",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
     },
     {
         "title": "The Zone of Interest",
