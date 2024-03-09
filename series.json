@@ -1,8 +1,8 @@
 [
     {
-        "title": "Fargo",
-        "tvdb_id": 269613,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
+        "title": "Avatar: The Last Airbender",
+        "tvdb_id": 385925,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
     },
     {
         "title": "Halo",
@@ -10,23 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
     },
     {
-        "title": "Hazbin Hotel",
-        "tvdb_id": 358805,
-        "poster_url": "https://image.tmdb.org/t/p/w500/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg"
-    },
-    {
         "title": "Masters of the Air",
         "tvdb_id": 370853,
         "poster_url": "https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg"
     },
     {
-        "title": "Reacher",
-        "tvdb_id": 366924,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
+        "title": "Sh\u014dgun",
+        "tvdb_id": 392573,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
     },
     {
         "title": "True Detective",
         "tvdb_id": 270633,
         "poster_url": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
+    },
+    {
+        "title": "The Walking Dead: The Ones Who Live",
+        "tvdb_id": 427202,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
     }
 ]
