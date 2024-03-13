@@ -10,19 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg"
     },
     {
-        "title": "Aquaman and the Lost Kingdom",
-        "imdb_id": "tt9663764",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg"
-    },
-    {
         "title": "Argylle",
         "imdb_id": "tt15009428",
         "poster_url": "https://image.tmdb.org/t/p/w500/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg"
-    },
-    {
-        "title": "The Beekeeper",
-        "imdb_id": "tt15314262",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
     },
     {
         "title": "Bob Marley: One Love",
@@ -30,24 +20,34 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg"
     },
     {
-        "title": "Code 8 Part II",
-        "imdb_id": "tt14764464",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg"
+        "title": "Damsel",
+        "imdb_id": "tt13452446",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg"
     },
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5aUVLiqcW0kFTBfGsCWjvLas91w.jpg"
     },
     {
-        "title": "Lisa Frankenstein",
-        "imdb_id": "tt21188080",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg"
+        "title": "Kung Fu Panda 4",
+        "imdb_id": "tt21692408",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
     },
     {
-        "title": "Out of Darkness",
-        "imdb_id": "tt7527682",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9tG77VE7bP8ve79X86ABwHzDqbb.jpg"
+        "title": "Madame Web",
+        "imdb_id": "tt11057302",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
+    },
+    {
+        "title": "Megamind vs. the Doom Syndicate",
+        "imdb_id": "tt31122323",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg"
+    },
+    {
+        "title": "Ricky Stanicky",
+        "imdb_id": "tt1660648",
+        "poster_url": "https://image.tmdb.org/t/p/w500/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg"
     },
     {
         "title": "Spaceman",
