@@ -27,7 +27,7 @@
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5aUVLiqcW0kFTBfGsCWjvLas91w.jpg"
     },
     {
         "title": "Imaginary",
@@ -38,6 +38,11 @@
         "title": "Kung Fu Panda 4",
         "imdb_id": "tt21692408",
         "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+    },
+    {
+        "title": "Madame Web",
+        "imdb_id": "tt11057302",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
     },
     {
         "title": "Megamind vs. the Doom Syndicate",
@@ -53,10 +58,5 @@
         "title": "Spaceman",
         "imdb_id": "tt11097384",
         "poster_url": "https://image.tmdb.org/t/p/w500/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg"
-    },
-    {
-        "title": "The Zone of Interest",
-        "imdb_id": "tt7160372",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
     }
 ]
