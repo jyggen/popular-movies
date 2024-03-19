@@ -27,17 +27,12 @@
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
-    },
-    {
-        "title": "Imaginary",
-        "imdb_id": "tt26658104",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
     },
     {
         "title": "Kung Fu Panda 4",
         "imdb_id": "tt21692408",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/wkfG7DaExmcVsGLR4kLouMwxeT5.jpg"
     },
     {
         "title": "Love Lies Bleeding",
@@ -48,6 +43,11 @@
         "title": "Madame Web",
         "imdb_id": "tt11057302",
         "poster_url": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
+    },
+    {
+        "title": "Megamind vs. the Doom Syndicate",
+        "imdb_id": "tt31122323",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg"
     },
     {
         "title": "Ricky Stanicky",
