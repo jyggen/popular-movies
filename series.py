@@ -141,7 +141,7 @@ def _find_series_by_title_year_season(
             results = _search_api.tv_shows(term=search_query, page=page)
             page += 1
 
-            for option in results:
+            for option in results.results:
                 option = _tv_api.details(option["id"])
                 match = _best_match(
                     option, match, search_query, year, season_name, season_number
