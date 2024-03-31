@@ -2,7 +2,7 @@
     {
         "title": "3 Body Problem",
         "tvdb_id": 411959,
-        "poster_url": "https://image.tmdb.org/t/p/w500/sphnjjiYb50SbWMToW7fyGigH1n.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
     },
     {
         "title": "Halo",
@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
     },
     {
-        "title": "True Detective",
-        "tvdb_id": 270633,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
-    },
-    {
         "title": "The Walking Dead: The Ones Who Live",
         "tvdb_id": 427202,
         "poster_url": "https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+    },
+    {
+        "title": "X-Men '97",
+        "tvdb_id": 412432,
+        "poster_url": "https://image.tmdb.org/t/p/w500/383PV0WolYYQvTriH0NfvMUA28R.jpg"
     }
 ]
