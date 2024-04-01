@@ -1,8 +1,13 @@
 [
     {
+        "title": "Arthur the King",
+        "imdb_id": "tt10720352",
+        "poster_url": "https://image.tmdb.org/t/p/w500/q1zJFGgLIz7rR9qpEZl21wFGnPx.jpg"
+    },
+    {
         "title": "Bob Marley: One Love",
         "imdb_id": "tt8521778",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4eWeXswkAUIvdVWFvPrUFu2TxuI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg"
     },
     {
         "title": "Damsel",
@@ -12,7 +17,7 @@
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
     },
     {
         "title": "Ghostbusters: Frozen Empire",
@@ -33,11 +38,6 @@
         "title": "Land of Bad",
         "imdb_id": "tt19864802",
         "poster_url": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg"
-    },
-    {
-        "title": "Late Night with the Devil",
-        "imdb_id": "tt14966898",
-        "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
     },
     {
         "title": "Madame Web",
