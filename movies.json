@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg"
     },
     {
-        "title": "The Beekeeper",
-        "imdb_id": "tt15314262",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
-    },
-    {
         "title": "Damsel",
         "imdb_id": "tt13452446",
         "poster_url": "https://image.tmdb.org/t/p/w500/AgHbB9DCE9aE57zkHjSmseszh6e.jpg"
@@ -22,7 +17,7 @@
     {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dk3Wo6Q5azRoggtjDICwL2wCc04.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
     },
     {
         "title": "Ghostbusters: Frozen Empire",
@@ -32,12 +27,17 @@
     {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1hUTqPnfTvuupk7XW7WCkWYW4M1.jpg"
     },
     {
         "title": "Kung Fu Panda 4",
         "imdb_id": "tt21692408",
         "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+    },
+    {
+        "title": "Late Night with the Devil",
+        "imdb_id": "tt14966898",
+        "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
     },
     {
         "title": "Madame Web",
