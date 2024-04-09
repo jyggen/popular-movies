@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg"
     },
     {
-        "title": "Damsel",
-        "imdb_id": "tt13452446",
-        "poster_url": "https://image.tmdb.org/t/p/w500/AgHbB9DCE9aE57zkHjSmseszh6e.jpg"
-    },
-    {
         "title": "Dune: Part Two",
         "imdb_id": "tt15239678",
         "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+        "title": "The First Omen",
+        "imdb_id": "tt5672290",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hil2ResSCwP95JweZVJsZ5CbZdc.jpg"
     },
     {
         "title": "Ghostbusters: Frozen Empire",
@@ -27,7 +27,7 @@
     {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1hUTqPnfTvuupk7XW7WCkWYW4M1.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg"
     },
     {
         "title": "Kung Fu Panda 4",
@@ -40,14 +40,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
     },
     {
-        "title": "Madame Web",
-        "imdb_id": "tt11057302",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
-    },
-    {
-        "title": "Ricky Stanicky",
-        "imdb_id": "tt1660648",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cEuX73Q1wpMypB1cr4l3MoMGpL4.jpg"
+        "title": "Monkey Man",
+        "imdb_id": "tt9214772",
+        "poster_url": "https://image.tmdb.org/t/p/w500/b4fn3VIdVTT3SX0rFMNFbl5xuvg.jpg"
     },
     {
         "title": "Road House",
@@ -55,8 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg"
     },
     {
-        "title": "Spaceman",
-        "imdb_id": "tt11097384",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5hnFFOWEchErNVr0wMLWFEob3q1.jpg"
+        "title": "Scoop",
+        "imdb_id": "tt21279806",
+        "poster_url": "https://image.tmdb.org/t/p/w500/agWt9bJzr2m1HY3A5InxXveUyIe.jpg"
+    },
+    {
+        "title": "Winnie-the-Pooh: Blood and Honey 2",
+        "imdb_id": "tt23330554",
+        "poster_url": "https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg"
     }
 ]
