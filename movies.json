@@ -2,12 +2,7 @@
     {
         "title": "Arthur the King",
         "imdb_id": "tt10720352",
-        "poster_url": "https://image.tmdb.org/t/p/w500/x81JRYiVjvHc9PrnQngVDEE0WpE.jpg"
-    },
-    {
-        "title": "The Beautiful Game",
-        "imdb_id": "tt5113010",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg"
     },
     {
         "title": "Dune: Part Two",
@@ -38,6 +33,11 @@
         "title": "Monkey Man",
         "imdb_id": "tt9214772",
         "poster_url": "https://image.tmdb.org/t/p/w500/b4fn3VIdVTT3SX0rFMNFbl5xuvg.jpg"
+    },
+    {
+        "title": "M\u00fasica",
+        "imdb_id": "tt19853698",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg"
     },
     {
         "title": "Ordinary Angels",
