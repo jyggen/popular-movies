@@ -40,9 +40,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
     },
     {
+        "title": "Late Night with the Devil",
+        "imdb_id": "tt14966898",
+        "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
+    },
+    {
         "title": "Monkey Man",
         "imdb_id": "tt9214772",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gCKMqSIWj50mfhzokaajqq4SCPw.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
     },
     {
         "title": "M\u00fasica",
@@ -53,10 +58,5 @@
         "title": "Road House",
         "imdb_id": "tt3359350",
         "poster_url": "https://image.tmdb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg"
-    },
-    {
-        "title": "Sleeping Dogs",
-        "imdb_id": "tt8542964",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg"
     }
 ]
