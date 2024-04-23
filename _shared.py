@@ -29,14 +29,14 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
         if item["imdb_id"] == "" or item["imdb_id"] is None:
             imdb_rating = 0
         else:
-            try:
-                for attempt in Retrying(
+            for attempt in Retrying(
                     wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
                 ):
                     with attempt:
-                        imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
-            except KeyError:
-                imdb_rating = 0
+                        try:
+                            imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
+                        except KeyError:
+                            imdb_rating = 0
 
         item["score"] = (
             (math.log10(item["popularity"]) - min_value) / (max_value - min_value) * 100
