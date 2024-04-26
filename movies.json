@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg"
     },
     {
+        "title": "Challengers",
+        "imdb_id": "tt16426418",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ciiaCM5GWoi8n2rt1VCWlLHG6JU.jpg"
+    },
+    {
         "title": "Civil War",
         "imdb_id": "tt17279496",
         "poster_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
@@ -15,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
     },
     {
-        "title": "The First Omen",
-        "imdb_id": "tt5672290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/phUZyA2TVWuS3Kn6Vdokh8HoIYW.jpg"
-    },
-    {
         "title": "Ghostbusters: Frozen Empire",
         "imdb_id": "tt21235248",
         "poster_url": "https://image.tmdb.org/t/p/w500/6faYaQyiBPhqAizldJKq21mIVaE.jpg"
@@ -27,7 +27,7 @@
     {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/h3Hf0gMJQIZ73GyacGwUKcvE4Yy.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg"
     },
     {
         "title": "Immaculate",
@@ -50,9 +50,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
     },
     {
-        "title": "Rebel Moon - Part Two: The Scargiver",
+        "title": "Rebel Moon \u2014 Part Two: The Scargiver",
         "imdb_id": "tt23137904",
-        "poster_url": "https://image.tmdb.org/t/p/w500/r4a3cO9Cc6GTLMeUR48gVqMb6jK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lV70XeG15PNNg3S1mwaoNk3LVHk.jpg"
     },
     {
         "title": "Road House",
