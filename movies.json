@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg"
     },
     {
+        "title": "Arthur the King",
+        "imdb_id": "tt10720352",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg"
+    },
+    {
         "title": "Challengers",
         "imdb_id": "tt16426418",
         "poster_url": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg"
@@ -27,7 +32,7 @@
     {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg"
     },
     {
         "title": "Immaculate",
@@ -53,10 +58,5 @@
         "title": "Rebel Moon \u2014 Part Two: The Scargiver",
         "imdb_id": "tt23137904",
         "poster_url": "https://image.tmdb.org/t/p/w500/cxevDYdeFkiixRShbObdwAHBZry.jpg"
-    },
-    {
-        "title": "Road House",
-        "imdb_id": "tt3359350",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg"
     }
 ]
