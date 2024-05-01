@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/f4Yg5yKoDTNdYScm01SC0TQE9ar.jpg"
     },
     {
+        "title": "Dead Boy Detectives",
+        "tvdb_id": 419024,
+        "poster_url": "https://image.tmdb.org/t/p/w500/346ju9C5zy0tkzfQoetOYtM74gw.jpg"
+    },
+    {
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
@@ -18,11 +23,6 @@
         "title": "Sh\u014dgun",
         "tvdb_id": 392573,
         "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
-    },
-    {
-        "title": "Sugar",
-        "tvdb_id": 421070,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
     },
     {
         "title": "X-Men '97",
