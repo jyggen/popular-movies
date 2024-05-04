@@ -1,5 +1,10 @@
 [
     {
+        "title": "3 Body Problem",
+        "tvdb_id": 411959,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
+    },
+    {
         "title": "Baby Reindeer",
         "tvdb_id": 417223,
         "poster_url": "https://image.tmdb.org/t/p/w500/f4Yg5yKoDTNdYScm01SC0TQE9ar.jpg"
@@ -18,11 +23,6 @@
         "title": "Sh\u014dgun",
         "tvdb_id": 392573,
         "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
-    },
-    {
-        "title": "Sugar",
-        "tvdb_id": 421070,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
     },
     {
         "title": "X-Men '97",
