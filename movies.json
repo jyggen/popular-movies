@@ -25,9 +25,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
     },
     {
-        "title": "The First Omen",
-        "imdb_id": "tt5672290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg"
+        "title": "The Fall Guy",
+        "imdb_id": "tt1684562",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
     },
     {
         "title": "Godzilla x Kong: The New Empire",
@@ -35,14 +35,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nVOZuxRiBygJ3VmXc9QcDGZfHzD.jpg"
     },
     {
-        "title": "Immaculate",
-        "imdb_id": "tt23137390",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg"
-    },
-    {
-        "title": "Kung Fu Panda 4",
-        "imdb_id": "tt21692408",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+        "title": "The Idea of You",
+        "imdb_id": "tt9466114",
+        "poster_url": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
     },
     {
         "title": "Late Night with the Devil",
@@ -53,6 +48,11 @@
         "title": "Love Lies Bleeding",
         "imdb_id": "tt19637052",
         "poster_url": "https://image.tmdb.org/t/p/w500/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg"
+    },
+    {
+        "title": "Monkey Man",
+        "imdb_id": "tt9214772",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
     },
     {
         "title": "Rebel Moon - Part Two: The Scargiver",
