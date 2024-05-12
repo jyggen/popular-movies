@@ -38,9 +38,12 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                         except KeyError:
                             imdb_rating = 0
 
-        item["score"] = (
-            (math.log10(item["popularity"]) - min_value) / (max_value - min_value) * 100
-        ) * (imdb_rating / 10)
+        if max_value == min_value:
+            item["score"] = imdb_rating / 10
+        else:
+            item["score"] = (
+                (math.log10(item["popularity"]) - min_value) / (max_value - min_value) * 100
+            ) * (imdb_rating / 10)
 
     return items
 
