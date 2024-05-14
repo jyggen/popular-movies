@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7qxG0zyt29BI0IzFDfsps62kbQi.jpg"
     },
     {
-        "title": "Arthur the King",
-        "imdb_id": "tt10720352",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg"
-    },
-    {
         "title": "Challengers",
         "imdb_id": "tt16426418",
         "poster_url": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg"
@@ -27,12 +22,17 @@
     {
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
-        "poster_url": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
+    },
+    {
+        "title": "Ghostbusters: Frozen Empire",
+        "imdb_id": "tt21235248",
+        "poster_url": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg"
     },
     {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg"
     },
     {
         "title": "The Idea of You",
@@ -40,19 +40,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
     },
     {
+        "title": "Kingdom of the Planet of the Apes",
+        "imdb_id": "tt11389872",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+    },
+    {
         "title": "Late Night with the Devil",
         "imdb_id": "tt14966898",
         "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
     },
     {
-        "title": "Love Lies Bleeding",
-        "imdb_id": "tt19637052",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg"
-    },
-    {
-        "title": "Rebel Moon - Part Two: The Scargiver",
-        "imdb_id": "tt23137904",
-        "poster_url": "https://image.tmdb.org/t/p/w500/cxevDYdeFkiixRShbObdwAHBZry.jpg"
+        "title": "The Ministry of Ungentlemanly Warfare",
+        "imdb_id": "tt5177120",
+        "poster_url": "https://image.tmdb.org/t/p/w500/x8Od47ZMDDT3ho3IRdXNmcjHknX.jpg"
     },
     {
         "title": "Turtles All the Way Down",
