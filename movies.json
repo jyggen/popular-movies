@@ -15,29 +15,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
     },
     {
-        "title": "Dune: Part Two",
-        "imdb_id": "tt15239678",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gho58bYmw9juYXmUSHRJKOngJGn.jpg"
-    },
-    {
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
         "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
     },
     {
-        "title": "Ghostbusters: Frozen Empire",
-        "imdb_id": "tt21235248",
-        "poster_url": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg"
-    },
-    {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/v4uvGFAkKuYfyKLGZnYj6l47ERQ.jpg"
     },
     {
         "title": "The Idea of You",
         "imdb_id": "tt9466114",
         "poster_url": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
+    },
+    {
+        "title": "IF",
+        "imdb_id": "tt11152168",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
     },
     {
         "title": "Kingdom of the Planet of the Apes",
@@ -58,5 +53,10 @@
         "title": "Monkey Man",
         "imdb_id": "tt9214772",
         "poster_url": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
+    },
+    {
+        "title": "Tarot",
+        "imdb_id": "tt14088510",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
     }
 ]
