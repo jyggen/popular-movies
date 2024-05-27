@@ -50,13 +50,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg"
     },
     {
-        "title": "Monkey Man",
-        "imdb_id": "tt9214772",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
-    },
-    {
         "title": "Sting",
         "imdb_id": "tt20112746",
         "poster_url": "https://image.tmdb.org/t/p/w500/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg"
+    },
+    {
+        "title": "Tarot",
+        "imdb_id": "tt14088510",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
     }
 ]
