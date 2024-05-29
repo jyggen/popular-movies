@@ -5,9 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg"
     },
     {
+        "title": "Atlas",
+        "imdb_id": "tt14856980",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
+    },
+    {
         "title": "Challengers",
         "imdb_id": "tt16426418",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2hvh1u0YMMHxbTgkhovOYSDwbVI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg"
     },
     {
         "title": "Civil War",
@@ -18,6 +23,16 @@
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
         "poster_url": "https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
+    },
+    {
+        "title": "Furiosa: A Mad Max Saga",
+        "imdb_id": "tt12037194",
+        "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+    },
+    {
+        "title": "The Garfield Movie",
+        "imdb_id": "tt5779228",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
     },
     {
         "title": "Godzilla x Kong: The New Empire",
@@ -43,20 +58,5 @@
         "title": "Late Night with the Devil",
         "imdb_id": "tt14966898",
         "poster_url": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg"
-    },
-    {
-        "title": "The Ministry of Ungentlemanly Warfare",
-        "imdb_id": "tt5177120",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg"
-    },
-    {
-        "title": "Sting",
-        "imdb_id": "tt20112746",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg"
-    },
-    {
-        "title": "Tarot",
-        "imdb_id": "tt14088510",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
     }
 ]

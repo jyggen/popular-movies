@@ -1,8 +1,8 @@
 [
     {
-        "title": "Baby Reindeer",
-        "tvdb_id": 417223,
-        "poster_url": "https://image.tmdb.org/t/p/w500/f4Yg5yKoDTNdYScm01SC0TQE9ar.jpg"
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
     },
     {
         "title": "Dark Matter",
@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
     },
     {
-        "title": "Evil",
-        "tvdb_id": 363955,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kkVRKLRy3Gj6nIzMldSmtr8zU8n.jpg"
-    },
-    {
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Rings of Power",
+        "tvdb_id": 367506,
+        "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
     },
     {
         "title": "Sh\u014dgun",
