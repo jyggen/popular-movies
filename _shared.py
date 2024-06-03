@@ -18,6 +18,10 @@ _IMDB_API = imdb.Cinemagoer()
 
 def _calculate_scores(items: list[dict]) -> list[dict]:
     items = list(copy.deepcopy(items))
+
+    if not items:
+        return []
+
     max_value = math.log10(
         max(items, key=lambda item: item["popularity"])["popularity"]
     )
