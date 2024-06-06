@@ -1,5 +1,10 @@
 [
     {
+        "title": "Baby Reindeer",
+        "tvdb_id": 417223,
+        "poster_url": "https://image.tmdb.org/t/p/w500/e5MUdXRjl90Up5dAEdvsGs4zAAS.jpg"
+    },
+    {
         "title": "Bridgerton",
         "tvdb_id": 366668,
         "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
@@ -10,23 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
     },
     {
+        "title": "Eric",
+        "tvdb_id": 421652,
+        "poster_url": "https://image.tmdb.org/t/p/w500/9OV6McrRh1BAnrak3yVP9xYuUId.jpg"
+    },
+    {
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
     },
     {
-        "title": "Interview with the Vampire",
-        "tvdb_id": 405535,
-        "poster_url": "https://image.tmdb.org/t/p/w500/bERvgaWcySHr8mTrpScrbBAnGXh.jpg"
-    },
-    {
         "title": "Sh\u014dgun",
         "tvdb_id": 392573,
         "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
-    },
-    {
-        "title": "X-Men '97",
-        "tvdb_id": 412432,
-        "poster_url": "https://image.tmdb.org/t/p/w500/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg"
     }
 ]
