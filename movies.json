@@ -1,10 +1,5 @@
 [
     {
-        "title": "Abigail",
-        "imdb_id": "tt27489557",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg"
-    },
-    {
         "title": "Atlas",
         "imdb_id": "tt14856980",
         "poster_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
@@ -20,9 +15,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
     },
     {
+        "title": "Colors of Evil: Red",
+        "imdb_id": "tt27578157",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5NAdIXaF2AhewMFMqFvbxZmDC3M.jpg"
+    },
+    {
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
         "poster_url": "https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
+    },
+    {
+        "title": "The First Omen",
+        "imdb_id": "tt5672290",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg"
     },
     {
         "title": "Furiosa: A Mad Max Saga",
@@ -33,11 +38,6 @@
         "title": "The Garfield Movie",
         "imdb_id": "tt5779228",
         "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
-    },
-    {
-        "title": "Godzilla x Kong: The New Empire",
-        "imdb_id": "tt14539740",
-        "poster_url": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
     },
     {
         "title": "The Idea of You",
