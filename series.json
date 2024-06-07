@@ -1,10 +1,5 @@
 [
     {
-        "title": "Baby Reindeer",
-        "tvdb_id": 417223,
-        "poster_url": "https://image.tmdb.org/t/p/w500/e5MUdXRjl90Up5dAEdvsGs4zAAS.jpg"
-    },
-    {
         "title": "Bridgerton",
         "tvdb_id": 366668,
         "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
@@ -23,6 +18,11 @@
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
+    },
+    {
+        "title": "Jurassic World: Chaos Theory",
+        "tvdb_id": 440997,
+        "poster_url": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
     },
     {
         "title": "Sh\u014dgun",
