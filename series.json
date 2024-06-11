@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bridgerton",
-        "tvdb_id": 366668,
-        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
-    },
-    {
         "title": "Dark Matter",
         "tvdb_id": 393159,
         "poster_url": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
@@ -15,18 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/9OV6McrRh1BAnrak3yVP9xYuUId.jpg"
     },
     {
-        "title": "Fallout",
-        "tvdb_id": 416744,
-        "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
+        "title": "Mayor of Kingstown",
+        "tvdb_id": 386630,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bCoVQckqnqVtiAZua0EO17eI2Y1.jpg"
     },
     {
-        "title": "Jurassic World: Chaos Theory",
-        "tvdb_id": 440997,
-        "poster_url": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
+        "title": "Raising Voices",
+        "tvdb_id": 425177,
+        "poster_url": "https://image.tmdb.org/t/p/w500/zPFuNgt97Cej8jjZjMtAbL65Dor.jpg"
     },
     {
         "title": "Sh\u014dgun",
         "tvdb_id": 392573,
         "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+    },
+    {
+        "title": "Sweet Tooth",
+        "tvdb_id": 355837,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg"
     }
 ]
