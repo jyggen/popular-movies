@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
     },
     {
+        "title": "Bad Boys: Ride or Die",
+        "imdb_id": "tt4919268",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
+    },
+    {
         "title": "Challengers",
         "imdb_id": "tt16426418",
         "poster_url": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg"
@@ -35,14 +40,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
     },
     {
-        "title": "Hit Man",
-        "imdb_id": "tt20215968",
-        "poster_url": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
-    },
-    {
-        "title": "The Idea of You",
-        "imdb_id": "tt9466114",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
+        "title": "Godzilla x Kong: The New Empire",
+        "imdb_id": "tt14539740",
+        "poster_url": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
     },
     {
         "title": "IF",
