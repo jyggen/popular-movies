@@ -35,14 +35,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
     },
     {
-        "title": "The Garfield Movie",
-        "imdb_id": "tt5779228",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
-    },
-    {
         "title": "Godzilla x Kong: The New Empire",
         "imdb_id": "tt14539740",
         "poster_url": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+    },
+    {
+        "title": "Hit Man",
+        "imdb_id": "tt20215968",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg"
     },
     {
         "title": "IF",
