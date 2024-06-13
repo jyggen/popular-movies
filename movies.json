@@ -22,7 +22,7 @@
     {
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
     },
     {
         "title": "The First Omen",
@@ -42,12 +42,7 @@
     {
         "title": "Hit Man",
         "imdb_id": "tt20215968",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg"
-    },
-    {
-        "title": "IF",
-        "imdb_id": "tt11152168",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
     },
     {
         "title": "Kingdom of the Planet of the Apes",
@@ -58,5 +53,10 @@
         "title": "Tarot",
         "imdb_id": "tt14088510",
         "poster_url": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
+    },
+    {
+        "title": "Under Paris",
+        "imdb_id": "tt13964390",
+        "poster_url": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
     }
 ]
