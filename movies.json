@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
     },
     {
-        "title": "Challengers",
-        "imdb_id": "tt16426418",
-        "poster_url": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg"
-    },
-    {
         "title": "Civil War",
         "imdb_id": "tt17279496",
         "poster_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
@@ -33,6 +28,11 @@
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+    },
+    {
+        "title": "The Garfield Movie",
+        "imdb_id": "tt5779228",
+        "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
     },
     {
         "title": "Godzilla x Kong: The New Empire",
