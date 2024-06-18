@@ -45,11 +45,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
     },
     {
-        "title": "IF",
-        "imdb_id": "tt11152168",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
-    },
-    {
         "title": "Kingdom of the Planet of the Apes",
         "imdb_id": "tt11389872",
         "poster_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
@@ -58,5 +53,10 @@
         "title": "Under Paris",
         "imdb_id": "tt13964390",
         "poster_url": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
+    },
+    {
+        "title": "The Watchers",
+        "imdb_id": "tt26736843",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg"
     }
 ]
