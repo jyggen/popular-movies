@@ -1,8 +1,13 @@
 [
     {
-        "title": "3 Body Problem",
-        "tvdb_id": 411959,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg"
+        "title": "The Boys",
+        "tvdb_id": 355567,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+    },
+    {
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
     },
     {
         "title": "Dark Matter",
@@ -10,14 +15,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
     },
     {
-        "title": "Fallout",
-        "tvdb_id": 416744,
-        "poster_url": "https://image.tmdb.org/t/p/w500/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
-    },
-    {
-        "title": "Raising Voices",
-        "tvdb_id": 425177,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zPFuNgt97Cej8jjZjMtAbL65Dor.jpg"
+        "title": "House of the Dragon",
+        "tvdb_id": 371572,
+        "poster_url": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
     },
     {
         "title": "Sh\u014dgun",
