@@ -30,14 +30,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
     },
     {
-        "title": "The Garfield Movie",
-        "imdb_id": "tt5779228",
-        "poster_url": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
-    },
-    {
         "title": "Hit Man",
         "imdb_id": "tt20215968",
         "poster_url": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
+    },
+    {
+        "title": "IF",
+        "imdb_id": "tt11152168",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
     },
     {
         "title": "Inside Out 2",
