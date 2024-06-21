@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
     },
     {
-        "title": "The First Omen",
-        "imdb_id": "tt5672290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg"
-    },
-    {
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
@@ -48,6 +43,11 @@
         "title": "Kingdom of the Planet of the Apes",
         "imdb_id": "tt11389872",
         "poster_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+    },
+    {
+        "title": "Ultraman: Rising",
+        "imdb_id": "tt9471678",
+        "poster_url": "https://image.tmdb.org/t/p/w500/j886YEkIUsiImY53px5VHKD4lRa.jpg"
     },
     {
         "title": "Under Paris",
