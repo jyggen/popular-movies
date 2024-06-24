@@ -1,5 +1,10 @@
 [
     {
+        "title": "Atlas",
+        "imdb_id": "tt14856980",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
+    },
+    {
         "title": "Bad Boys: Ride or Die",
         "imdb_id": "tt4919268",
         "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
@@ -13,11 +18,6 @@
         "title": "The Fall Guy",
         "imdb_id": "tt1684562",
         "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
-    },
-    {
-        "title": "The First Omen",
-        "imdb_id": "tt5672290",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg"
     },
     {
         "title": "Furiosa: A Mad Max Saga",
@@ -37,7 +37,7 @@
     {
         "title": "Inside Out 2",
         "imdb_id": "tt22022452",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3aIrZuRyiGs9xDYHvMitHPFDd6r.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/oxxqiyWrnM0XPnBtVe9TgYWnPxT.jpg"
     },
     {
         "title": "Kingdom of the Planet of the Apes",
@@ -52,7 +52,7 @@
     {
         "title": "Under Paris",
         "imdb_id": "tt13964390",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/flX5OSC1NAKHqjLIZL5YcyxtSXh.jpg"
     },
     {
         "title": "The Watchers",
