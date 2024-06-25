@@ -1,10 +1,5 @@
 [
     {
-        "title": "Atlas",
-        "imdb_id": "tt14856980",
-        "poster_url": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
-    },
-    {
         "title": "Bad Boys: Ride or Die",
         "imdb_id": "tt4919268",
         "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
@@ -23,6 +18,11 @@
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+    },
+    {
+        "title": "The Garfield Movie",
+        "imdb_id": "tt5779228",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tSPsiMHb4edeBKZZjKDmhX18Jbs.jpg"
     },
     {
         "title": "Hit Man",
