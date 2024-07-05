@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
     },
     {
+        "title": "A Family Affair",
+        "imdb_id": "tt21051906",
+        "poster_url": "https://image.tmdb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg"
+    },
+    {
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
@@ -43,11 +48,6 @@
         "title": "A Quiet Place:\u00a0Day One",
         "imdb_id": "tt13433802",
         "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
-    },
-    {
-        "title": "Trigger Warning",
-        "imdb_id": "tt5834874",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg"
     },
     {
         "title": "Ultraman: Rising",
