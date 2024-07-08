@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
     },
     {
-        "title": "A Family Affair",
-        "imdb_id": "tt21051906",
-        "poster_url": "https://image.tmdb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg"
-    },
-    {
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
@@ -33,6 +28,11 @@
         "title": "IF",
         "imdb_id": "tt11152168",
         "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
+    },
+    {
+        "title": "In a Violent Nature",
+        "imdb_id": "tt30321146",
+        "poster_url": "https://image.tmdb.org/t/p/w500/o5pcDZaA9Up0X612os34JNCRX6j.jpg"
     },
     {
         "title": "Inside Out 2",
