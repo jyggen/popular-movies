@@ -10,23 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
     },
     {
-        "title": "Bridgerton",
-        "tvdb_id": 366668,
-        "poster_url": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
-    },
-    {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
-        "poster_url": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
     },
     {
-        "title": "Mayor of Kingstown",
-        "tvdb_id": 386630,
-        "poster_url": "https://image.tmdb.org/t/p/w500/bCoVQckqnqVtiAZua0EO17eI2Y1.jpg"
+        "title": "My Lady Jane",
+        "tvdb_id": 426829,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qX68uGVJwxQ0B0sPZBEGikWRmA6.jpg"
     },
     {
         "title": "Presumed Innocent",
         "tvdb_id": 415738,
         "poster_url": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
+    },
+    {
+        "title": "Supacell",
+        "tvdb_id": 427116,
+        "poster_url": "https://image.tmdb.org/t/p/w500/iZsQBIobC1oKSBEX0XoWF598j7F.jpg"
     }
 ]
