@@ -10,9 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/zszRKfzjM5jltiq8rk6rasKVpUv.jpg"
     },
     {
+        "title": "The Bikeriders",
+        "imdb_id": "tt21454134",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ApMuukdDAOR2rgaFDZIcjfigi64.jpg"
+    },
+    {
         "title": "Despicable Me 4",
         "imdb_id": "tt7510222",
-        "poster_url": "https://image.tmdb.org/t/p/w500/dbtxg1bQYYuWMQvtEuoiUe4uvFJ.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
     },
     {
         "title": "The Fall Guy",
@@ -23,6 +28,11 @@
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+    },
+    {
+        "title": "Hit Man",
+        "imdb_id": "tt20215968",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
     },
     {
         "title": "IF",
@@ -40,19 +50,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
     },
     {
-        "title": "Longlegs",
-        "imdb_id": "tt23468450",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2WkyUfT96qvSVZqAY4xa9G1d42A.jpg"
-    },
-    {
         "title": "A Quiet Place:\u00a0Day One",
         "imdb_id": "tt13433802",
         "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
-    },
-    {
-        "title": "Trigger Warning",
-        "imdb_id": "tt5834874",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg"
     },
     {
         "title": "The Watchers",
