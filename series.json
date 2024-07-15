@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
     },
     {
+        "title": "Mayor of Kingstown",
+        "tvdb_id": 386630,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bCoVQckqnqVtiAZua0EO17eI2Y1.jpg"
+    },
+    {
         "title": "Presumed Innocent",
         "tvdb_id": 415738,
         "poster_url": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
-    },
-    {
-        "title": "Sh\u014dgun",
-        "tvdb_id": 392573,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
     }
 ]
