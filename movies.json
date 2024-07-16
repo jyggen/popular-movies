@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bad Boys: Ride or Die",
-        "imdb_id": "tt4919268",
-        "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
-    },
-    {
         "title": "Beverly Hills Cop: Axel F",
         "imdb_id": "tt3083016",
         "poster_url": "https://image.tmdb.org/t/p/w500/zszRKfzjM5jltiq8rk6rasKVpUv.jpg"
@@ -45,6 +40,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
     },
     {
+        "title": "Kingdom of the Planet of the Apes",
+        "imdb_id": "tt11389872",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+    },
+    {
         "title": "Longlegs",
         "imdb_id": "tt23468450",
         "poster_url": "https://image.tmdb.org/t/p/w500/7PFc431SEiHbsMjrkF1VAfFlPn3.jpg"
@@ -55,8 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
     },
     {
-        "title": "The Watchers",
-        "imdb_id": "tt26736843",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg"
+        "title": "Twisters",
+        "imdb_id": "tt12584954",
+        "poster_url": "https://image.tmdb.org/t/p/w500/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg"
     }
 ]
