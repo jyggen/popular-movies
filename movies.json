@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/zszRKfzjM5jltiq8rk6rasKVpUv.jpg"
     },
     {
-        "title": "The Bikeriders",
-        "imdb_id": "tt21454134",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg"
-    },
-    {
         "title": "Descendants: The Rise of Red",
         "imdb_id": "tt20202136",
         "poster_url": "https://image.tmdb.org/t/p/w500/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg"
@@ -40,6 +35,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
     },
     {
+        "title": "In a Violent Nature",
+        "imdb_id": "tt30321146",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg"
+    },
+    {
         "title": "Inside Out 2",
         "imdb_id": "tt22022452",
         "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
@@ -57,6 +57,6 @@
     {
         "title": "Twisters",
         "imdb_id": "tt12584954",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/bYmszCd9kRbwmXWvxMai9Mm9B92.jpg"
     }
 ]
