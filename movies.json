@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/3w84hCFJATpiCO5g8hpdWVPBbmq.jpg"
     },
     {
-        "title": "The Fall Guy",
-        "imdb_id": "tt1684562",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
-    },
-    {
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
@@ -27,7 +22,7 @@
     {
         "title": "Horizon: An American Saga - Chapter 1",
         "imdb_id": "tt17505010",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMI9SGttUJP96GbIIJOAaaCMkFe.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg"
     },
     {
         "title": "IF",
@@ -48,6 +43,11 @@
         "title": "Longlegs",
         "imdb_id": "tt23468450",
         "poster_url": "https://image.tmdb.org/t/p/w500/dLAP1apgFIoBoPNw4HJLVACSu7u.jpg"
+    },
+    {
+        "title": "My Spy the Eternal City",
+        "imdb_id": "tt12930350",
+        "poster_url": "https://image.tmdb.org/t/p/w500/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg"
     },
     {
         "title": "A Quiet Place:\u00a0Day One",
