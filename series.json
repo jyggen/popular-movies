@@ -1,10 +1,5 @@
 [
     {
-        "title": "The Bear",
-        "tvdb_id": 403294,
-        "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
-    },
-    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
@@ -23,6 +18,11 @@
         "title": "Presumed Innocent",
         "tvdb_id": 415738,
         "poster_url": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
+    },
+    {
+        "title": "Those About to Die",
+        "tvdb_id": 422772,
+        "poster_url": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
     },
     {
         "title": "Vikings: Valhalla",
