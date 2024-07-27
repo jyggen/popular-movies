@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
     },
     {
-        "title": "Find Me Falling",
-        "imdb_id": "tt19862722",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg"
-    },
-    {
         "title": "Furiosa: A Mad Max Saga",
         "imdb_id": "tt12037194",
         "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
@@ -27,7 +22,7 @@
     {
         "title": "Horizon: An American Saga - Chapter 1",
         "imdb_id": "tt17505010",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/tMI9SGttUJP96GbIIJOAaaCMkFe.jpg"
     },
     {
         "title": "IF",
@@ -52,11 +47,16 @@
     {
         "title": "A Quiet Place:\u00a0Day One",
         "imdb_id": "tt13433802",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg"
     },
     {
         "title": "Twisters",
         "imdb_id": "tt12584954",
         "poster_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
+    },
+    {
+        "title": "Young Woman and the Sea",
+        "imdb_id": "tt5177114",
+        "poster_url": "https://image.tmdb.org/t/p/w500/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg"
     }
 ]
