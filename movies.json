@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
     },
     {
-        "title": "The Bikeriders",
-        "imdb_id": "tt21454134",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg"
-    },
-    {
         "title": "Deadpool & Wolverine",
         "imdb_id": "tt6263850",
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
@@ -25,9 +20,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg"
     },
     {
+        "title": "Hit Man",
+        "imdb_id": "tt20215968",
+        "poster_url": "https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg"
+    },
+    {
         "title": "Horizon: An American Saga - Chapter 1",
         "imdb_id": "tt17505010",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tMI9SGttUJP96GbIIJOAaaCMkFe.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg"
     },
     {
         "title": "IF",
@@ -52,7 +52,7 @@
     {
         "title": "Twisters",
         "imdb_id": "tt12584954",
-        "poster_url": "https://image.tmdb.org/t/p/w500/mofrsXOCGXDHPYLaubKpBcb1YHt.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
     },
     {
         "title": "Young Woman and the Sea",
