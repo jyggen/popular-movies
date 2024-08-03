@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
     },
     {
-        "title": "Evil",
-        "tvdb_id": 363955,
-        "poster_url": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg"
-    },
-    {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
@@ -23,6 +18,11 @@
         "title": "Snowpiercer",
         "tvdb_id": 364928,
         "poster_url": "https://image.tmdb.org/t/p/w500/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg"
+    },
+    {
+        "title": "Time Bandits",
+        "tvdb_id": 425453,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ahnTuygdAbjXvLKzLQlK2txosMX.jpg"
     },
     {
         "title": "Vikings: Valhalla",
