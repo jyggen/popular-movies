@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Bear",
+        "tvdb_id": 403294,
+        "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
+    },
+    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
@@ -18,11 +23,6 @@
         "title": "Snowpiercer",
         "tvdb_id": 364928,
         "poster_url": "https://image.tmdb.org/t/p/w500/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg"
-    },
-    {
-        "title": "Time Bandits",
-        "tvdb_id": 425453,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ahnTuygdAbjXvLKzLQlK2txosMX.jpg"
     },
     {
         "title": "Vikings: Valhalla",
