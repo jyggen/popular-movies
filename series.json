@@ -1,5 +1,10 @@
 [
     {
+        "title": "Batman: Caped Crusader",
+        "tvdb_id": 403170,
+        "poster_url": "https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg"
+    },
+    {
         "title": "The Bear",
         "tvdb_id": 403294,
         "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
@@ -20,13 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
     },
     {
-        "title": "Snowpiercer",
-        "tvdb_id": 364928,
-        "poster_url": "https://image.tmdb.org/t/p/w500/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg"
-    },
-    {
-        "title": "Vikings: Valhalla",
-        "tvdb_id": 372700,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg"
+        "title": "Presumed Innocent",
+        "tvdb_id": 415738,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
     }
 ]
