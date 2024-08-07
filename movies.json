@@ -32,12 +32,7 @@
     {
         "title": "Kill",
         "imdb_id": "tt28259207",
-        "poster_url": "https://image.tmdb.org/t/p/w500/52tSovUH1w9cp4gzGNThaT4pQW.jpg"
-    },
-    {
-        "title": "Kingdom of the Planet of the Apes",
-        "imdb_id": "tt11389872",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg"
     },
     {
         "title": "Longlegs",
@@ -48,6 +43,11 @@
         "title": "A Quiet Place: Day One",
         "imdb_id": "tt13433802",
         "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
+    },
+    {
+        "title": "Touch",
+        "imdb_id": "tt23468836",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7azx73Z5nYWgG9c00HH6CHVtgMX.jpg"
     },
     {
         "title": "Trap",
