@@ -1,10 +1,5 @@
 [
     {
-        "title": "Batman: Caped Crusader",
-        "tvdb_id": 403170,
-        "poster_url": "https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg"
-    },
-    {
         "title": "The Bear",
         "tvdb_id": 403294,
         "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
@@ -20,13 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
     },
     {
-        "title": "House of the Dragon",
-        "tvdb_id": 371572,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+        "title": "A Good Girl's Guide to Murder",
+        "tvdb_id": 430061,
+        "poster_url": "https://image.tmdb.org/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg"
     },
     {
-        "title": "Presumed Innocent",
-        "tvdb_id": 415738,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
+        "title": "House of the Dragon",
+        "tvdb_id": 371572,
+        "poster_url": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
+    },
+    {
+        "title": "Time Bandits",
+        "tvdb_id": 425453,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ahnTuygdAbjXvLKzLQlK2txosMX.jpg"
     }
 ]
