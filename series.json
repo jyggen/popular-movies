@@ -1,5 +1,10 @@
 [
     {
+        "title": "Batman: Caped Crusader",
+        "tvdb_id": 403170,
+        "poster_url": "https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg"
+    },
+    {
         "title": "The Bear",
         "tvdb_id": 403294,
         "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
@@ -23,10 +28,5 @@
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
-    },
-    {
-        "title": "Time Bandits",
-        "tvdb_id": 425453,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ahnTuygdAbjXvLKzLQlK2txosMX.jpg"
     }
 ]
