@@ -1,10 +1,5 @@
 [
     {
-        "title": "Batman: Caped Crusader",
-        "tvdb_id": 403170,
-        "poster_url": "https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg"
-    },
-    {
         "title": "The Bear",
         "tvdb_id": 403294,
         "poster_url": "https://image.tmdb.org/t/p/w500/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg"
@@ -18,6 +13,11 @@
         "title": "Cobra Kai",
         "tvdb_id": 332858,
         "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+    },
+    {
+        "title": "Evil",
+        "tvdb_id": 363955,
+        "poster_url": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg"
     },
     {
         "title": "A Good Girl's Guide to Murder",
