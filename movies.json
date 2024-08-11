@@ -2,7 +2,7 @@
     {
         "title": "Borderlands",
         "imdb_id": "tt4978420",
-        "poster_url": "https://image.tmdb.org/t/p/w500/qAGCCtv5HHiVGlqT2wGPZgc0kDj.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lrlSOlTiIlTQqVqJGW4HaWjJaBJ.jpg"
     },
     {
         "title": "Deadpool & Wolverine",
@@ -13,11 +13,6 @@
         "title": "Despicable Me 4",
         "imdb_id": "tt7510222",
         "poster_url": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
-    },
-    {
-        "title": "Fly Me to the Moon",
-        "imdb_id": "tt1896747",
-        "poster_url": "https://image.tmdb.org/t/p/w500/gjk8YdXpItoC1in53FCrZMFIuBx.jpg"
     },
     {
         "title": "Hit Man",
@@ -48,6 +43,11 @@
         "title": "A Quiet Place: Day One",
         "imdb_id": "tt13433802",
         "poster_url": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
+    },
+    {
+        "title": "Thelma",
+        "imdb_id": "tt23778968",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
     },
     {
         "title": "Trap",
