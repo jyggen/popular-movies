@@ -10,14 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
     },
     {
-        "title": "Cobra Kai",
-        "tvdb_id": 332858,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
-    },
-    {
-        "title": "Evil",
-        "tvdb_id": 363955,
-        "poster_url": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg"
+        "title": "FROM",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
     },
     {
         "title": "A Good Girl's Guide to Murder",
@@ -28,5 +23,10 @@
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
+    },
+    {
+        "title": "The Umbrella Academy",
+        "tvdb_id": 353764,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
     }
 ]
