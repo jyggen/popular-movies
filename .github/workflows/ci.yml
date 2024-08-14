@@ -11,11 +11,11 @@ jobs:
   generate-movies:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
+      - uses: actions/setup-python@e9aba2c848f5ebd159c070c61ea2c4e2b122355e # v2
         with:
           python-version: "3.10"
-      - uses: abatilo/actions-poetry@v2
+      - uses: abatilo/actions-poetry@c31426b23a8080795905ec73c9e458a2447cb2f2 # v2
         with:
           poetry-version: 1.4.2
       - run: mkdir public
@@ -26,10 +26,10 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
-      - uses: crazy-max/ghaction-github-status@v2
+      - uses: crazy-max/ghaction-github-status@eb350dca5bc7154d35de4518668a933030c1826d # v2
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@59173cb633d9a3514f5f4552a6a3e62c6710355c # v2
         if: success()
         with:
           target_branch: gh-pages
@@ -41,11 +41,11 @@ jobs:
   generate-series:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
+      - uses: actions/setup-python@e9aba2c848f5ebd159c070c61ea2c4e2b122355e # v2
         with:
           python-version: "3.10"
-      - uses: abatilo/actions-poetry@v2
+      - uses: abatilo/actions-poetry@c31426b23a8080795905ec73c9e458a2447cb2f2 # v2
         with:
           poetry-version: 1.4.2
       - run: mkdir public
@@ -56,10 +56,10 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/series.json
-      - uses: crazy-max/ghaction-github-status@v2
+      - uses: crazy-max/ghaction-github-status@eb350dca5bc7154d35de4518668a933030c1826d # v2
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@59173cb633d9a3514f5f4552a6a3e62c6710355c # v2
         if: success()
         with:
           target_branch: gh-pages
@@ -71,11 +71,11 @@ jobs:
   generate-swedish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
+      - uses: actions/setup-python@e9aba2c848f5ebd159c070c61ea2c4e2b122355e # v2
         with:
           python-version: "3.10"
-      - uses: abatilo/actions-poetry@v2
+      - uses: abatilo/actions-poetry@c31426b23a8080795905ec73c9e458a2447cb2f2 # v2
         with:
           poetry-version: 1.4.2
       - run: mkdir public
@@ -86,10 +86,10 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/swedish.json
-      - uses: crazy-max/ghaction-github-status@v2
+      - uses: crazy-max/ghaction-github-status@eb350dca5bc7154d35de4518668a933030c1826d # v2
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@59173cb633d9a3514f5f4552a6a3e62c6710355c # v2
         if: success()
         with:
           target_branch: gh-pages
