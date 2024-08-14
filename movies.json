@@ -1,5 +1,10 @@
 [
     {
+        "title": "Alien: Romulus",
+        "imdb_id": "tt18412256",
+        "poster_url": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg"
+    },
+    {
         "title": "The Bikeriders",
         "imdb_id": "tt21454134",
         "poster_url": "https://image.tmdb.org/t/p/w500/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg"
@@ -22,7 +27,7 @@
     {
         "title": "The Instigators",
         "imdb_id": "tt24169886",
-        "poster_url": "https://image.tmdb.org/t/p/w500/mH14N0ASn8gZDytqvNUQzTN6XjO.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg"
     },
     {
         "title": "It Ends with Us",
@@ -33,11 +38,6 @@
         "title": "Kill",
         "imdb_id": "tt28259207",
         "poster_url": "https://image.tmdb.org/t/p/w500/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg"
-    },
-    {
-        "title": "Longlegs",
-        "imdb_id": "tt23468450",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg"
     },
     {
         "title": "A Quiet Place: Day One",
