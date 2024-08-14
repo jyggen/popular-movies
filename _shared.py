@@ -37,13 +37,13 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
             imdb_rating = 0
         else:
             for attempt in Retrying(
-                    wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
-                ):
-                    with attempt:
-                        try:
-                            imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
-                        except KeyError:
-                            imdb_rating = 0
+                wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
+            ):
+                with attempt:
+                    try:
+                        imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
+                    except KeyError:
+                        imdb_rating = 0
 
         if max_value == min_value:
             item["score"] = imdb_rating / 10
