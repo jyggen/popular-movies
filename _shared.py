@@ -46,7 +46,7 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
             item["score"] = imdb_rating / 10
         else:
             item["score"] = (
-                (math.log10(item["popularity"]) - min_value) / (max_value - min_value) * 100
+                ((math.log10(item["popularity"]) if item["popularity"] > 0 else item["popularity"]) - min_value) / (max_value - min_value) * 100
             ) * (imdb_rating / 10)
 
     return items
