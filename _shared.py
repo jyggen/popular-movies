@@ -22,12 +22,15 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     if not items:
         return []
 
-    max_value = math.log10(
-        max(items, key=lambda item: item["popularity"])["popularity"]
-    )
-    min_value = math.log10(
-        min(items, key=lambda item: item["popularity"])["popularity"]
-    )
+    max_value = max(items, key=lambda item: item["popularity"])["popularity"]
+
+    if max_value > 0:
+        max_value = math.log10(max_value)
+
+    min_value = min(items, key=lambda item: item["popularity"])["popularity"]
+
+    if min_value > 0:
+        min_value = math.log10(min_value)
 
     for item in items:
         if item["imdb_id"] == "" or item["imdb_id"] is None:
@@ -45,8 +48,13 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
         if max_value == min_value:
             item["score"] = imdb_rating / 10
         else:
+            popularity = item["popularity"]
+
+            if popularity > 0:
+                popularity = math.log10(popularity)
+
             item["score"] = (
-                ((math.log10(item["popularity"]) if item["popularity"] > 0 else item["popularity"]) - min_value) / (max_value - min_value) * 100
+                (popularity - min_value) / (max_value - min_value) * 100
             ) * (imdb_rating / 10)
 
     return items
