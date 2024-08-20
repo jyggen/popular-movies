@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bad Monkey",
+        "tvdb_id": 408436,
+        "poster_url": "https://image.tmdb.org/t/p/w500/sDbpr5VoxlcQvzvWFECr7bXCAwg.jpg"
+    },
+    {
         "title": "The Bear",
         "tvdb_id": 403294,
         "poster_url": "https://image.tmdb.org/t/p/w500/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
@@ -10,19 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
     },
     {
-        "title": "FROM",
-        "tvdb_id": 401003,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
+        "title": "Emily in Paris",
+        "tvdb_id": 364439,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg"
     },
     {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
-    },
-    {
-        "title": "Those About to Die",
-        "tvdb_id": 422772,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
     },
     {
         "title": "The Umbrella Academy",
