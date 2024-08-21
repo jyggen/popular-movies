@@ -20,11 +20,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gjk8YdXpItoC1in53FCrZMFIuBx.jpg"
     },
     {
-        "title": "Furiosa: A Mad Max Saga",
-        "imdb_id": "tt12037194",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
-    },
-    {
         "title": "Inside Out 2",
         "imdb_id": "tt22022452",
         "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
@@ -38,6 +33,11 @@
         "title": "It Ends with Us",
         "imdb_id": "tt10655524",
         "poster_url": "https://image.tmdb.org/t/p/w500/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg"
+    },
+    {
+        "title": "Jackpot!",
+        "imdb_id": "tt26940324",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wWWlclyWf4PLq9hOf8X5joVEJ6r.jpg"
     },
     {
         "title": "Kill",
