@@ -1,15 +1,5 @@
 [
     {
-        "title": "The Accident",
-        "tvdb_id": 452537,
-        "poster_url": "https://image.tmdb.org/t/p/w500/wMD1rnBwYAUe12JT6NHYaguXofs.jpg"
-    },
-    {
-        "title": "The Bear",
-        "tvdb_id": 403294,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
@@ -20,9 +10,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
     },
     {
+        "title": "Only Murders in the Building",
+        "tvdb_id": 399959,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bZubW4eLAk2zqk44fSWRDTFfcba.jpg"
+    },
+    {
         "title": "Slow Horses",
         "tvdb_id": 372264,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dbQtwI3870cBIDCTUAuOtt5NuLt.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
+    },
+    {
+        "title": "Terminator Zero",
+        "tvdb_id": 442145,
+        "poster_url": "https://image.tmdb.org/t/p/w500/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg"
     },
     {
         "title": "The Umbrella Academy",
