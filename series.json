@@ -1,5 +1,10 @@
 [
     {
+        "title": "FROM",
+        "tvdb_id": 401003,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
+    },
+    {
         "title": "KAOS",
         "tvdb_id": 365700,
         "poster_url": "https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg"
@@ -18,11 +23,6 @@
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-    },
-    {
-        "title": "Terminator Zero",
-        "tvdb_id": 442145,
-        "poster_url": "https://image.tmdb.org/t/p/w500/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg"
     },
     {
         "title": "The Umbrella Academy",
