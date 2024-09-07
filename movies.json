@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
     },
     {
+        "title": "Borderlands",
+        "imdb_id": "tt4978420",
+        "poster_url": "https://image.tmdb.org/t/p/w500/865DntZzOdX6rLMd405R0nFkLmL.jpg"
+    },
+    {
         "title": "Deadpool & Wolverine",
         "imdb_id": "tt6263850",
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
@@ -33,11 +38,6 @@
         "title": "Longlegs",
         "imdb_id": "tt23468450",
         "poster_url": "https://image.tmdb.org/t/p/w500/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg"
-    },
-    {
-        "title": "Oddity",
-        "imdb_id": "tt26470109",
-        "poster_url": "https://image.tmdb.org/t/p/w500/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg"
     },
     {
         "title": "A Quiet Place: Day One",
