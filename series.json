@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/bZubW4eLAk2zqk44fSWRDTFfcba.jpg"
     },
     {
+        "title": "The Perfect Couple",
+        "tvdb_id": 432782,
+        "poster_url": "https://image.tmdb.org/t/p/w500/6zvL9KosXMV4SZNiOFTd7MSfSd1.jpg"
+    },
+    {
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-    },
-    {
-        "title": "The Umbrella Academy",
-        "tvdb_id": 353764,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
     }
 ]
