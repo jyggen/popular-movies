@@ -20,9 +20,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
     },
     {
-        "title": "Inside Out 2",
-        "imdb_id": "tt22022452",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        "title": "The Deliverance",
+        "imdb_id": "tt4196566",
+        "poster_url": "https://image.tmdb.org/t/p/w500/og1FteMFRInoQnlZeWqEn8XpXHh.jpg"
     },
     {
         "title": "It Ends with Us",
@@ -30,19 +30,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg"
     },
     {
-        "title": "The Killer",
-        "imdb_id": "tt1121948",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6PCnxKZZIVRanWb710pNpYVkCSw.jpg"
-    },
-    {
         "title": "Longlegs",
         "imdb_id": "tt23468450",
         "poster_url": "https://image.tmdb.org/t/p/w500/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg"
     },
     {
+        "title": "Oddity",
+        "imdb_id": "tt26470109",
+        "poster_url": "https://image.tmdb.org/t/p/w500/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg"
+    },
+    {
         "title": "A Quiet Place: Day One",
         "imdb_id": "tt13433802",
         "poster_url": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg"
+    },
+    {
+        "title": "Rebel Ridge",
+        "imdb_id": "tt11301886",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
     },
     {
         "title": "Trap",
@@ -53,10 +58,5 @@
         "title": "Twisters",
         "imdb_id": "tt12584954",
         "poster_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
-    },
-    {
-        "title": "The Union",
-        "imdb_id": "tt12610390",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg"
     }
 ]
