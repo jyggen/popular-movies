@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg"
     },
     {
-        "title": "Longlegs",
-        "imdb_id": "tt23468450",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg"
-    },
-    {
         "title": "Oddity",
         "imdb_id": "tt26470109",
         "poster_url": "https://image.tmdb.org/t/p/w500/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg"
@@ -48,6 +43,11 @@
         "title": "Rebel Ridge",
         "imdb_id": "tt11301886",
         "poster_url": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
+    },
+    {
+        "title": "Speak No Evil",
+        "imdb_id": "tt27534307",
+        "poster_url": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg"
     },
     {
         "title": "Trap",
