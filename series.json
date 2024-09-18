@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Bear",
+        "tvdb_id": 403294,
+        "poster_url": "https://image.tmdb.org/t/p/w500/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
+    },
+    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
@@ -13,11 +18,6 @@
         "title": "The Lord of the Rings: The Rings of Power",
         "tvdb_id": 367506,
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
-    },
-    {
-        "title": "The Old Man",
-        "tvdb_id": 367392,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tB9N0qJvfJe70E8feeIY63VTZvg.jpg"
     },
     {
         "title": "Only Murders in the Building",
