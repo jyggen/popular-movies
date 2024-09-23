@@ -1,10 +1,5 @@
 [
     {
-        "title": "The Bear",
-        "tvdb_id": 403294,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
@@ -20,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
     },
     {
+        "title": "Only Murders in the Building",
+        "tvdb_id": 399959,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bZubW4eLAk2zqk44fSWRDTFfcba.jpg"
+    },
+    {
         "title": "The Penguin",
         "tvdb_id": 417648,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7I3EypifSHlW1BmmHbXXevqUUA7.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/zzGzTTA0bp9ZvtN27N0B9fTSz0U.jpg"
     },
     {
         "title": "Slow Horses",
