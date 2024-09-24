@@ -20,14 +20,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg"
     },
     {
+        "title": "Cuckoo",
+        "imdb_id": "tt12349832",
+        "poster_url": "https://image.tmdb.org/t/p/w500/mpryn3TuSPNG5ELRxyrKfblxJ9R.jpg"
+    },
+    {
         "title": "Deadpool & Wolverine",
         "imdb_id": "tt6263850",
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
-    },
-    {
-        "title": "It Ends with Us",
-        "imdb_id": "tt10655524",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg"
     },
     {
         "title": "Rebel Ridge",
@@ -50,9 +50,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg"
     },
     {
-        "title": "Twisters",
-        "imdb_id": "tt12584954",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
+        "title": "Trap",
+        "imdb_id": "tt26753003",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jwoaKYVqPgYemFpaANL941EF94R.jpg"
     },
     {
         "title": "The Wild Robot",
