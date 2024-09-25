@@ -2,12 +2,17 @@
     {
         "title": "Agatha All Along",
         "tvdb_id": 412429,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg"
     },
     {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
+    },
+    {
+        "title": "High Potential",
+        "tvdb_id": 434988,
+        "poster_url": "https://image.tmdb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg"
     },
     {
         "title": "The Lord of the Rings: The Rings of Power",
@@ -17,16 +22,11 @@
     {
         "title": "The Penguin",
         "tvdb_id": 417648,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zzGzTTA0bp9ZvtN27N0B9fTSz0U.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lY29DfGeoVT1uxLEwzH6EKelh99.jpg"
     },
     {
         "title": "Tulsa King",
         "tvdb_id": 413215,
         "poster_url": "https://image.tmdb.org/t/p/w500/zMFAdj30K84Sz90bCd6ePwiAO37.jpg"
-    },
-    {
-        "title": "Twilight of the Gods",
-        "tvdb_id": 404605,
-        "poster_url": "https://image.tmdb.org/t/p/w500/n0rqWDT1oYGcNIuLydZD4J4JpwK.jpg"
     }
 ]
