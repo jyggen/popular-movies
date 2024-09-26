@@ -40,6 +40,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg"
     },
     {
+        "title": "Subservience",
+        "imdb_id": "tt24871974",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg"
+    },
+    {
         "title": "The Substance",
         "imdb_id": "tt17526714",
         "poster_url": "https://image.tmdb.org/t/p/w500/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg"
@@ -50,13 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg"
     },
     {
-        "title": "Trap",
-        "imdb_id": "tt26753003",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jwoaKYVqPgYemFpaANL941EF94R.jpg"
-    },
-    {
         "title": "The Wild Robot",
         "imdb_id": "tt29623480",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6GT9lvyyKx7hiwtKMC4BisMTA7N.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/8RvwVVjVzx47v2waWLGPV3XYhfh.jpg"
     }
 ]
