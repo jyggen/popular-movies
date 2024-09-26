@@ -7,12 +7,7 @@
     {
         "title": "FROM",
         "tvdb_id": 401003,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
-    },
-    {
-        "title": "High Potential",
-        "tvdb_id": 434988,
-        "poster_url": "https://image.tmdb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
     },
     {
         "title": "The Lord of the Rings: The Rings of Power",
@@ -22,7 +17,12 @@
     {
         "title": "The Penguin",
         "tvdb_id": 417648,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lY29DfGeoVT1uxLEwzH6EKelh99.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/7hE6LffWtMccJjXxc20Xnh1JbRG.jpg"
+    },
+    {
+        "title": "Slow Horses",
+        "tvdb_id": 372264,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
     },
     {
         "title": "Tulsa King",
