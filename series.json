@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
     },
     {
-        "title": "KAOS",
-        "tvdb_id": 365700,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg"
-    },
-    {
         "title": "The Lord of the Rings: The Rings of Power",
         "tvdb_id": 367506,
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
+    },
+    {
+        "title": "Nobody Wants This",
+        "tvdb_id": 450093,
+        "poster_url": "https://image.tmdb.org/t/p/w500/NiSaD9rgckPucg0wwxftFdDmoj.jpg"
     },
     {
         "title": "The Penguin",
