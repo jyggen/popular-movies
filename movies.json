@@ -15,14 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
     },
     {
-        "title": "His Three Daughters",
-        "imdb_id": "tt28491891",
-        "poster_url": "https://image.tmdb.org/t/p/w500/yTIHBPLQyzhgz1c2spak3btJxsg.jpg"
-    },
-    {
         "title": "It Ends with Us",
         "imdb_id": "tt10655524",
         "poster_url": "https://image.tmdb.org/t/p/w500/cSMdFWmajaX4oUMLx7HEDI84GkP.jpg"
+    },
+    {
+        "title": "Joker: Folie \u00e0 Deux",
+        "imdb_id": "tt11315808",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg"
     },
     {
         "title": "Oddity",
@@ -45,11 +45,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
     },
     {
-        "title": "Terrifier 3",
-        "imdb_id": "tt27911000",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7NDHoebflLwL1CcgLJ9wZbbDrmV.jpg"
-    },
-    {
         "title": "Transformers One",
         "imdb_id": "tt8864596",
         "poster_url": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg"
@@ -58,5 +53,10 @@
         "title": "The Wild Robot",
         "imdb_id": "tt29623480",
         "poster_url": "https://image.tmdb.org/t/p/w500/hn4fOpFlbak5ruxkdrmdijs38Yl.jpg"
+    },
+    {
+        "title": "Wolfs",
+        "imdb_id": "tt14257582",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg"
     }
 ]
