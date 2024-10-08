@@ -1,10 +1,5 @@
 [
     {
-        "title": "Apartment 7A",
-        "imdb_id": "tt14371860",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg"
-    },
-    {
         "title": "Beetlejuice Beetlejuice",
         "imdb_id": "tt2049403",
         "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
@@ -33,6 +28,11 @@
         "title": "Speak No Evil",
         "imdb_id": "tt27534307",
         "poster_url": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg"
+    },
+    {
+        "title": "Strange Darling",
+        "imdb_id": "tt22375054",
+        "poster_url": "https://image.tmdb.org/t/p/w500/rhhE4U49hM50s7XCYZ8dHShhM7x.jpg"
     },
     {
         "title": "The Substance",
