@@ -1,13 +1,13 @@
 [
     {
+        "title": "Agatha All Along",
+        "tvdb_id": 412429,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg"
+    },
+    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg"
-    },
-    {
-        "title": "Heartstopper",
-        "tvdb_id": 395494,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg"
     },
     {
         "title": "The Lord of the Rings: The Rings of Power",
