@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg"
     },
     {
+        "title": "Joker: Folie \u00e0 Deux",
+        "imdb_id": "tt11315808",
+        "poster_url": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg"
+    },
+    {
         "title": "The Platform 2",
         "imdb_id": "tt27729779",
         "poster_url": "https://image.tmdb.org/t/p/w500/izuzUb0sDokqp9o8utVfsrSJuy5.jpg"
@@ -28,11 +33,6 @@
         "title": "Speak No Evil",
         "imdb_id": "tt27534307",
         "poster_url": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg"
-    },
-    {
-        "title": "Strange Darling",
-        "imdb_id": "tt22375054",
-        "poster_url": "https://image.tmdb.org/t/p/w500/c616VHZt3z7nWdNTKoVMFBvrhF8.jpg"
     },
     {
         "title": "The Substance",
