@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
     },
     {
-        "title": "High Potential",
-        "tvdb_id": 434988,
-        "poster_url": "https://image.tmdb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg"
-    },
-    {
         "title": "The Lord of the Rings: The Rings of Power",
         "tvdb_id": 367506,
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
+    },
+    {
+        "title": "Outer Banks",
+        "tvdb_id": 379169,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
     },
     {
         "title": "The Penguin",
@@ -25,8 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/a2fqompEWB2GFp9GOdlqLcfEFfw.jpg"
     },
     {
-        "title": "Tulsa King",
-        "tvdb_id": 413215,
-        "poster_url": "https://image.tmdb.org/t/p/w500/zMFAdj30K84Sz90bCd6ePwiAO37.jpg"
+        "title": "Slow Horses",
+        "tvdb_id": 372264,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
     }
 ]
