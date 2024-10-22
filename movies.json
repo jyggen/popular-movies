@@ -1,8 +1,13 @@
 [
     {
-        "title": "Beetlejuice Beetlejuice",
-        "imdb_id": "tt2049403",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
+        "title": "Alien: Romulus",
+        "imdb_id": "tt18412256",
+        "poster_url": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg"
+    },
+    {
+        "title": "Caddo Lake",
+        "imdb_id": "tt15552142",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg"
     },
     {
         "title": "Deadpool & Wolverine",
@@ -10,24 +15,29 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
     },
     {
-        "title": "Hellboy: The Crooked Man",
-        "imdb_id": "tt26757462",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg"
-    },
-    {
         "title": "Joker: Folie \u00e0 Deux",
         "imdb_id": "tt11315808",
         "poster_url": "https://image.tmdb.org/t/p/w500/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg"
     },
     {
-        "title": "The Platform 2",
-        "imdb_id": "tt27729779",
-        "poster_url": "https://image.tmdb.org/t/p/w500/izuzUb0sDokqp9o8utVfsrSJuy5.jpg"
+        "title": "Salem's Lot",
+        "imdb_id": "tt10245072",
+        "poster_url": "https://image.tmdb.org/t/p/w500/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg"
+    },
+    {
+        "title": "Smile 2",
+        "imdb_id": "tt29268110",
+        "poster_url": "https://image.tmdb.org/t/p/w500/aE85MnPIsSoSs3978Noo16BRsKN.jpg"
     },
     {
         "title": "Speak No Evil",
         "imdb_id": "tt27534307",
         "poster_url": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg"
+    },
+    {
+        "title": "Strange Darling",
+        "imdb_id": "tt22375054",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
     },
     {
         "title": "The Substance",
@@ -45,18 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg"
     },
     {
-        "title": "Trouble",
-        "imdb_id": "tt30217143",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ildbg7ho14EHbt1fZWAkgqIyPqy.jpg"
-    },
-    {
         "title": "The Wild Robot",
         "imdb_id": "tt29623480",
         "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
-    },
-    {
-        "title": "Wolfs",
-        "imdb_id": "tt14257582",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg"
     }
 ]
