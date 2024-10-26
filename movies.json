@@ -5,14 +5,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg"
     },
     {
-        "title": "Anora",
-        "imdb_id": "tt28607951",
-        "poster_url": "https://image.tmdb.org/t/p/w500/nGUUQAsnW5bmSjBNao8vXlK0QMK.jpg"
+        "title": "Brothers",
+        "imdb_id": "tt9860566",
+        "poster_url": "https://image.tmdb.org/t/p/w500/nM1uXAoOxJdp7oEr9RUaVviNyzD.jpg"
     },
     {
         "title": "Joker: Folie \u00e0 Deux",
         "imdb_id": "tt11315808",
         "poster_url": "https://image.tmdb.org/t/p/w500/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg"
+    },
+    {
+        "title": "Outside",
+        "imdb_id": "tt32643879",
+        "poster_url": "https://image.tmdb.org/t/p/w500/sIdczpaO0XXBe6OEIL8NbWMqQrO.jpg"
     },
     {
         "title": "Smile 2",
@@ -25,14 +30,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg"
     },
     {
-        "title": "Strange Darling",
-        "imdb_id": "tt22375054",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
-    },
-    {
         "title": "The Substance",
         "imdb_id": "tt17526714",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg"
     },
     {
         "title": "Terrifier 3",
