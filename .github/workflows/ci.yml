@@ -29,7 +29,7 @@ jobs:
       - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564 # v4
+      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
         if: success()
         with:
           target_branch: gh-pages
@@ -59,7 +59,7 @@ jobs:
       - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564 # v4
+      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
         if: success()
         with:
           target_branch: gh-pages
@@ -89,7 +89,7 @@ jobs:
       - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
         with:
           pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564 # v4
+      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
         if: success()
         with:
           target_branch: gh-pages
