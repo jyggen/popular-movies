@@ -26,7 +26,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
-      - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
+      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
         with:
           pages_threshold: major_outage
       - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
@@ -56,7 +56,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/series.json
-      - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
+      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
         with:
           pages_threshold: major_outage
       - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
@@ -86,7 +86,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/swedish.json
-      - uses: crazy-max/ghaction-github-status@df4d23a4977438215339cf0fafceda8d9af8a0e5 # v4
+      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
         with:
           pages_threshold: major_outage
       - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
