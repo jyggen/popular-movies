@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg"
     },
     {
+        "title": "Beetlejuice Beetlejuice",
+        "imdb_id": "tt2049403",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
+    },
+    {
         "title": "Brothers",
         "imdb_id": "tt9860566",
         "poster_url": "https://image.tmdb.org/t/p/w500/Akweo95FGyDpucYVT81h0SbX8Ky.jpg"
@@ -13,11 +18,6 @@
         "title": "Joker: Folie \u00e0 Deux",
         "imdb_id": "tt11315808",
         "poster_url": "https://image.tmdb.org/t/p/w500/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg"
-    },
-    {
-        "title": "Outside",
-        "imdb_id": "tt32643879",
-        "poster_url": "https://image.tmdb.org/t/p/w500/sIdczpaO0XXBe6OEIL8NbWMqQrO.jpg"
     },
     {
         "title": "Smile 2",
@@ -32,12 +32,12 @@
     {
         "title": "The Substance",
         "imdb_id": "tt17526714",
-        "poster_url": "https://image.tmdb.org/t/p/w500/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
     },
     {
         "title": "Terrifier 3",
         "imdb_id": "tt27911000",
-        "poster_url": "https://image.tmdb.org/t/p/w500/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg"
     },
     {
         "title": "Transformers One",
@@ -47,7 +47,7 @@
     {
         "title": "Venom: The Last Dance",
         "imdb_id": "tt16366836",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/k42Owka8v91trK1qMYwCQCNwJKr.jpg"
     },
     {
         "title": "The Wild Robot",
