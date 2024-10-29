@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
     },
     {
+        "title": "High Potential",
+        "tvdb_id": 434988,
+        "poster_url": "https://image.tmdb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg"
+    },
+    {
         "title": "The Lord of the Rings: The Rings of Power",
         "tvdb_id": 367506,
         "poster_url": "https://image.tmdb.org/t/p/w500/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg"
@@ -23,10 +28,5 @@
         "title": "Teacup",
         "tvdb_id": 446180,
         "poster_url": "https://image.tmdb.org/t/p/w500/cP5zuQvWAFrgWptS0iXvDI3iND.jpg"
-    },
-    {
-        "title": "What We Do in the Shadows",
-        "tvdb_id": 358211,
-        "poster_url": "https://image.tmdb.org/t/p/w500/giTwtJDCaEsa46GeImEtbauPUDS.jpg"
     }
 ]
