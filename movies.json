@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
     },
     {
-        "title": "Brothers",
-        "imdb_id": "tt9860566",
-        "poster_url": "https://image.tmdb.org/t/p/w500/Akweo95FGyDpucYVT81h0SbX8Ky.jpg"
-    },
-    {
         "title": "Canary Black",
         "imdb_id": "tt20048582",
         "poster_url": "https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg"
@@ -33,6 +28,11 @@
         "title": "Smile 2",
         "imdb_id": "tt29268110",
         "poster_url": "https://image.tmdb.org/t/p/w500/aE85MnPIsSoSs3978Noo16BRsKN.jpg"
+    },
+    {
+        "title": "Strange Darling",
+        "imdb_id": "tt22375054",
+        "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
     },
     {
         "title": "The Substance",
