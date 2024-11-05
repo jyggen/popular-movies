@@ -1,18 +1,13 @@
 [
     {
-        "title": "Alien: Romulus",
-        "imdb_id": "tt18412256",
-        "poster_url": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg"
+        "title": "Anora",
+        "imdb_id": "tt28607951",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xXz6ScxPlLRzL3MtzceNY52Neuq.jpg"
     },
     {
         "title": "Beetlejuice Beetlejuice",
         "imdb_id": "tt2049403",
         "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
-    },
-    {
-        "title": "Canary Black",
-        "imdb_id": "tt20048582",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg"
     },
     {
         "title": "Don't Move",
@@ -28,6 +23,11 @@
         "title": "Smile 2",
         "imdb_id": "tt29268110",
         "poster_url": "https://image.tmdb.org/t/p/w500/aE85MnPIsSoSs3978Noo16BRsKN.jpg"
+    },
+    {
+        "title": "Speak No Evil",
+        "imdb_id": "tt27534307",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg"
     },
     {
         "title": "Strange Darling",
@@ -52,7 +52,7 @@
     {
         "title": "Venom: The Last Dance",
         "imdb_id": "tt16366836",
-        "poster_url": "https://image.tmdb.org/t/p/w500/k42Owka8v91trK1qMYwCQCNwJKr.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/6f9mRtz5QHvYpvDRxnsrfSVW4Pu.jpg"
     },
     {
         "title": "The Wild Robot",
