@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/aE85MnPIsSoSs3978Noo16BRsKN.jpg"
     },
     {
-        "title": "Strange Darling",
-        "imdb_id": "tt22375054",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
-    },
-    {
         "title": "The Substance",
         "imdb_id": "tt17526714",
         "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
@@ -53,6 +48,11 @@
         "title": "Venom: The Last Dance",
         "imdb_id": "tt16366836",
         "poster_url": "https://image.tmdb.org/t/p/w500/k42Owka8v91trK1qMYwCQCNwJKr.jpg"
+    },
+    {
+        "title": "We Live in Time",
+        "imdb_id": "tt27131358",
+        "poster_url": "https://image.tmdb.org/t/p/w500/flSncTaSISRqrqoJ18ZBmThR4Ee.jpg"
     },
     {
         "title": "The Wild Robot",
