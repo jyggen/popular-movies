@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg"
     },
     {
-        "title": "The Diplomat",
-        "tvdb_id": 415239,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
@@ -18,6 +13,11 @@
         "title": "Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg"
+    },
+    {
+        "title": "Murder Mindfully",
+        "tvdb_id": 417272,
+        "poster_url": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg"
     },
     {
         "title": "The Penguin",
