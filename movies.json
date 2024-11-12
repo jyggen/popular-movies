@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg"
     },
     {
-        "title": "Beetlejuice Beetlejuice",
-        "imdb_id": "tt2049403",
-        "poster_url": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
-    },
-    {
         "title": "Don't Move",
         "imdb_id": "tt24807110",
         "poster_url": "https://image.tmdb.org/t/p/w500/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg"
@@ -28,6 +23,11 @@
         "title": "Joker: Folie \u00e0 Deux",
         "imdb_id": "tt11315808",
         "poster_url": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg"
+    },
+    {
+        "title": "Red One",
+        "imdb_id": "tt14948432",
+        "poster_url": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
     },
     {
         "title": "Smile 2",
@@ -45,9 +45,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg"
     },
     {
-        "title": "Transformers One",
-        "imdb_id": "tt8864596",
-        "poster_url": "https://image.tmdb.org/t/p/w500/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg"
+        "title": "Time Cut",
+        "imdb_id": "tt14857528",
+        "poster_url": "https://image.tmdb.org/t/p/w500/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg"
     },
     {
         "title": "Venom: The Last Dance",
