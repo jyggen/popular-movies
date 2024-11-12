@@ -1,13 +1,8 @@
 [
     {
-        "title": "Agatha All Along",
-        "tvdb_id": 412429,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg"
-    },
-    {
-        "title": "Don't Come Home",
-        "tvdb_id": 451275,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mtIm0qbFnQ3oqqDrVpPTJDS6EZK.jpg"
+        "title": "Arcane",
+        "tvdb_id": 371028,
+        "poster_url": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg"
     },
     {
         "title": "FROM",
@@ -20,13 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg"
     },
     {
-        "title": "Murder Mindfully",
-        "tvdb_id": 417272,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg"
+        "title": "Outer Banks",
+        "tvdb_id": 379169,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
     },
     {
         "title": "The Penguin",
         "tvdb_id": 417648,
-        "poster_url": "https://image.tmdb.org/t/p/w500/a2fqompEWB2GFp9GOdlqLcfEFfw.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg"
+    },
+    {
+        "title": "Yellowstone",
+        "tvdb_id": 341164,
+        "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
     }
 ]
