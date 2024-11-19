@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg"
     },
     {
+        "title": "Emilia P\u00e9rez",
+        "imdb_id": "tt20221436",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
+    },
+    {
         "title": "Gladiator II",
         "imdb_id": "tt9218128",
         "poster_url": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
@@ -43,11 +48,6 @@
         "title": "The Substance",
         "imdb_id": "tt17526714",
         "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-    },
-    {
-        "title": "Terrifier 3",
-        "imdb_id": "tt27911000",
-        "poster_url": "https://image.tmdb.org/t/p/w500/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg"
     },
     {
         "title": "Venom: The Last Dance",
