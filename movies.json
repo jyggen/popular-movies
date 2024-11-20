@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg"
     },
     {
-        "title": "Emilia P\u00e9rez",
-        "imdb_id": "tt20221436",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-    },
-    {
         "title": "Gladiator II",
         "imdb_id": "tt9218128",
         "poster_url": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
@@ -42,7 +37,7 @@
     {
         "title": "Smile 2",
         "imdb_id": "tt29268110",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aE85MnPIsSoSs3978Noo16BRsKN.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg"
     },
     {
         "title": "The Substance",
@@ -53,6 +48,11 @@
         "title": "Venom: The Last Dance",
         "imdb_id": "tt16366836",
         "poster_url": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg"
+    },
+    {
+        "title": "Wicked",
+        "imdb_id": "tt1262426",
+        "poster_url": "https://image.tmdb.org/t/p/w500/c5Tqxeo1UpBvnAc3csUm7j3hlQl.jpg"
     },
     {
         "title": "The Wild Robot",
