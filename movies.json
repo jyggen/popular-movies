@@ -2,7 +2,7 @@
     {
         "title": "Anora",
         "imdb_id": "tt28607951",
-        "poster_url": "https://image.tmdb.org/t/p/w500/xXz6ScxPlLRzL3MtzceNY52Neuq.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/21qUerwfWNTwbGKc2ZH5rXXAnwm.jpg"
     },
     {
         "title": "Gladiator II",
@@ -13,11 +13,6 @@
         "title": "Heretic",
         "imdb_id": "tt28015403",
         "poster_url": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg"
-    },
-    {
-        "title": "Joker: Folie \u00e0 Deux",
-        "imdb_id": "tt11315808",
-        "poster_url": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg"
     },
     {
         "title": "My Old Ass",
@@ -33,6 +28,11 @@
         "title": "Smile 2",
         "imdb_id": "tt29268110",
         "poster_url": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg"
+    },
+    {
+        "title": "Spellbound",
+        "imdb_id": "tt7215232",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xFSIygDiX70Esp9dheCgGX0Nj77.jpg"
     },
     {
         "title": "The Substance",
