@@ -1,10 +1,5 @@
 [
     {
-        "title": "Anora",
-        "imdb_id": "tt28607951",
-        "poster_url": "https://image.tmdb.org/t/p/w500/21qUerwfWNTwbGKc2ZH5rXXAnwm.jpg"
-    },
-    {
         "title": "Gladiator II",
         "imdb_id": "tt9218128",
         "poster_url": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
@@ -13,6 +8,11 @@
         "title": "Heretic",
         "imdb_id": "tt28015403",
         "poster_url": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg"
+    },
+    {
+        "title": "Moana 2",
+        "imdb_id": "tt13622970",
+        "poster_url": "https://image.tmdb.org/t/p/w500/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg"
     },
     {
         "title": "My Old Ass",
@@ -52,7 +52,7 @@
     {
         "title": "Wicked",
         "imdb_id": "tt1262426",
-        "poster_url": "https://image.tmdb.org/t/p/w500/c5Tqxeo1UpBvnAc3csUm7j3hlQl.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
     },
     {
         "title": "The Wild Robot",
