@@ -1,10 +1,5 @@
 [
     {
-        "title": "The Best Christmas Pageant Ever",
-        "imdb_id": "tt2347285",
-        "poster_url": "https://image.tmdb.org/t/p/w500/3sSXrvJPXjUCncgFDU6BkIVjNRA.jpg"
-    },
-    {
         "title": "Carry-On",
         "imdb_id": "tt21382296",
         "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg"
@@ -20,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg"
     },
     {
-        "title": "Juror #2",
-        "imdb_id": "tt27403986",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg"
-    },
-    {
         "title": "Kraven the Hunter",
         "imdb_id": "tt8790086",
         "poster_url": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
@@ -35,9 +25,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg"
     },
     {
+        "title": "Maria",
+        "imdb_id": "tt22893404",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6xHKEYfrO1FpVZJJnKy5BhfWVCK.jpg"
+    },
+    {
         "title": "Moana 2",
         "imdb_id": "tt13622970",
         "poster_url": "https://image.tmdb.org/t/p/w500/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg"
+    },
+    {
+        "title": "Mufasa: The Lion King",
+        "imdb_id": "tt13186482",
+        "poster_url": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
     },
     {
         "title": "Red One",
