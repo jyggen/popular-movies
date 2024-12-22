@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg"
     },
     {
-        "title": "Conclave",
-        "imdb_id": "tt20215234",
-        "poster_url": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
-    },
-    {
         "title": "Gladiator II",
         "imdb_id": "tt9218128",
         "poster_url": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
@@ -20,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg"
     },
     {
+        "title": "Juror #2",
+        "imdb_id": "tt27403986",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg"
+    },
+    {
         "title": "Kraven the Hunter",
         "imdb_id": "tt8790086",
         "poster_url": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
@@ -27,7 +27,7 @@
     {
         "title": "Moana 2",
         "imdb_id": "tt13622970",
-        "poster_url": "https://image.tmdb.org/t/p/w500/khwDcPYD5xo6B8404mGGe6pYWtI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg"
     },
     {
         "title": "Mufasa: The Lion King",
@@ -42,7 +42,7 @@
     {
         "title": "Sonic the Hedgehog 3",
         "imdb_id": "tt18259086",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/nyEr1VqvKx1YiesMC3oTB2fZvpY.jpg"
     },
     {
         "title": "That Christmas",
