@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
-        "title": "Dune: Prophecy",
-        "tvdb_id": 367118,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
@@ -23,6 +18,11 @@
         "title": "Silo",
         "tvdb_id": 403245,
         "poster_url": "https://image.tmdb.org/t/p/w500/tlliQuCupf8fpTH7RAor3aKMGy.jpg"
+    },
+    {
+        "title": "Star Wars: Skeleton Crew",
+        "tvdb_id": 420600,
+        "poster_url": "https://image.tmdb.org/t/p/w500/srQbJhLRKoAwRrNN5ga7webPHbC.jpg"
     },
     {
         "title": "Yellowstone",
