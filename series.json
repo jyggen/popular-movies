@@ -10,14 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
-        "title": "FROM",
-        "tvdb_id": 401003,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg"
-    },
-    {
-        "title": "One Hundred Years of Solitude",
-        "tvdb_id": 426288,
-        "poster_url": "https://image.tmdb.org/t/p/w500/oX8CAf3eyCknNPXX1IxdmAuv6jH.jpg"
+        "title": "Lioness",
+        "tvdb_id": 388589,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg"
     },
     {
         "title": "Silo",
@@ -25,8 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tlliQuCupf8fpTH7RAor3aKMGy.jpg"
     },
     {
-        "title": "Yellowstone",
-        "tvdb_id": 341164,
-        "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
+        "title": "Squid Game",
+        "tvdb_id": 383275,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg"
+    },
+    {
+        "title": "What If...?",
+        "tvdb_id": 367147,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
     }
 ]
