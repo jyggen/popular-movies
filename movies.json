@@ -20,6 +20,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg"
     },
     {
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "imdb_id": "tt14824600",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg"
+    },
+    {
         "title": "Moana 2",
         "imdb_id": "tt13622970",
         "poster_url": "https://image.tmdb.org/t/p/w500/m0SbwFNCa9epW1X60deLqTHiP7x.jpg"
@@ -47,12 +52,7 @@
     {
         "title": "Sonic the Hedgehog 3",
         "imdb_id": "tt18259086",
-        "poster_url": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
-    },
-    {
-        "title": "Venom: The Last Dance",
-        "imdb_id": "tt16366836",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/mubt4bnVfpJ5lBMq93DidEuMkJr.jpg"
     },
     {
         "title": "Wicked",
