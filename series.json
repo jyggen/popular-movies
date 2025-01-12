@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
+        "title": "Dexter: Original Sin",
+        "tvdb_id": 430780,
+        "poster_url": "https://image.tmdb.org/t/p/w500/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg"
+    },
+    {
         "title": "Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg"
@@ -23,10 +28,5 @@
         "title": "Squid Game",
         "tvdb_id": 383275,
         "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
-    },
-    {
-        "title": "Star Wars: Skeleton Crew",
-        "tvdb_id": 420600,
-        "poster_url": "https://image.tmdb.org/t/p/w500/srQbJhLRKoAwRrNN5ga7webPHbC.jpg"
     }
 ]
