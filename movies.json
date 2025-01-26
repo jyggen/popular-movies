@@ -5,14 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg"
     },
     {
+        "title": "The Brutalist",
+        "imdb_id": "tt8999762",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+    },
+    {
         "title": "Carry-On",
         "imdb_id": "tt21382296",
         "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg"
-    },
-    {
-        "title": "Den of Thieves 2: Pantera",
-        "imdb_id": "tt8008948",
-        "poster_url": "https://image.tmdb.org/t/p/w500/scZfHuvRwUKZMbZauWMvjEX5g6N.jpg"
     },
     {
         "title": "Gladiator II",
@@ -57,6 +57,6 @@
     {
         "title": "Wicked",
         "imdb_id": "tt1262426",
-        "poster_url": "https://image.tmdb.org/t/p/w500/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
     }
 ]
