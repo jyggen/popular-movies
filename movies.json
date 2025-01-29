@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ad Vitam",
+        "imdb_id": "tt32138452",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg"
+    },
+    {
         "title": "The Brutalist",
         "imdb_id": "tt8999762",
         "poster_url": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
@@ -33,11 +38,6 @@
         "title": "Nosferatu",
         "imdb_id": "tt5040012",
         "poster_url": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-    },
-    {
-        "title": "Number 24",
-        "imdb_id": "tt23782584",
-        "poster_url": "https://image.tmdb.org/t/p/w500/rzsmKSFEsEWBLbJ968abffnfYZ7.jpg"
     },
     {
         "title": "A Real Pain",
