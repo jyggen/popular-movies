@@ -16,7 +16,7 @@ tenacity = "^9.0.0"
 tmdbv3api = "^1.9.0"
 
 [tool.poetry.group.dev.dependencies]
-black = "^24.2.0"
+black = "^25.0.0"
 
 [build-system]
 requires = ["poetry-core"]
