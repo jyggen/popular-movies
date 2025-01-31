@@ -193,18 +193,12 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
         parts = title.rsplit(": ", 1)
         title = parts[0]
         season_name = parts[1] if len(parts) > 1 else ""
-        year_text = movie.find(class_="start-year").text
-        year = None
-
-        if year_text != "()":
-            year = int(year_text[1:5])
-
         season = None
 
         if season_name.startswith("Season "):
             season = int(season_name[7:])
 
-        yield title, year, season_name, season
+        yield title, None, season_name, season
 
 
 def _to_steven_lu_format(series: list[dict]) -> [dict]:
