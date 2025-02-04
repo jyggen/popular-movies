@@ -1,18 +1,13 @@
 [
     {
-        "title": "American Primeval",
-        "tvdb_id": 428066,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg"
-    },
-    {
-        "title": "Arcane",
-        "tvdb_id": 371028,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
-    },
-    {
         "title": "The Day of the Jackal",
         "tvdb_id": 426866,
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
+    },
+    {
+        "title": "The Night Agent",
+        "tvdb_id": 407281,
+        "poster_url": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
     },
     {
         "title": "Severance",
@@ -28,5 +23,10 @@
         "title": "Squid Game",
         "tvdb_id": 383275,
         "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
+    },
+    {
+        "title": "Yellowstone",
+        "tvdb_id": 341164,
+        "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
     }
 ]
