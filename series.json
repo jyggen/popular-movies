@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
-        "title": "High Potential",
-        "tvdb_id": 434988,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ylTZ6bfmPrwUz01A0VpvluGFWsv.jpg"
-    },
-    {
         "title": "Severance",
         "tvdb_id": 371980,
         "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
@@ -28,5 +23,10 @@
         "title": "Yellowstone",
         "tvdb_id": 341164,
         "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
+    },
+    {
+        "title": "Your Friendly Neighborhood Spider-Man",
+        "tvdb_id": 412427,
+        "poster_url": "https://image.tmdb.org/t/p/w500/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg"
     }
 ]
