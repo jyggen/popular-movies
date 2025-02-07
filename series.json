@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
+        "title": "Paradise",
+        "tvdb_id": 454565,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg"
+    },
+    {
         "title": "Severance",
         "tvdb_id": 371980,
         "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
@@ -12,7 +17,7 @@
     {
         "title": "Silo",
         "tvdb_id": 403245,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tlliQuCupf8fpTH7RAor3aKMGy.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg"
     },
     {
         "title": "Squid Game",
@@ -23,10 +28,5 @@
         "title": "Yellowstone",
         "tvdb_id": 341164,
         "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
-    },
-    {
-        "title": "Your Friendly Neighborhood Spider-Man",
-        "tvdb_id": 412427,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg"
     }
 ]
