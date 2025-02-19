@@ -1,10 +1,5 @@
 [
     {
-        "title": "The Day of the Jackal",
-        "tvdb_id": 426866,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
-    },
-    {
         "title": "INVINCIBLE",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg"
@@ -12,7 +7,7 @@
     {
         "title": "Paradise",
         "tvdb_id": 454565,
-        "poster_url": "https://image.tmdb.org/t/p/w500/m4Rcp33FyrXPyZ2dJ2gmzdsACdw.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/sJUti0JDtE1IYl7RVJARAGyKHqz.jpg"
     },
     {
         "title": "Severance",
@@ -23,6 +18,11 @@
         "title": "Squid Game",
         "tvdb_id": 383275,
         "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
+    },
+    {
+        "title": "The White Lotus",
+        "tvdb_id": 390430,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg"
     },
     {
         "title": "Yellowstone",
