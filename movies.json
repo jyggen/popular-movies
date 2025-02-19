@@ -5,6 +5,16 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg"
     },
     {
+        "title": "Better Man",
+        "imdb_id": "tt14260836",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fbGCmMp0HlYnAPv28GOENPShezM.jpg"
+    },
+    {
+        "title": "Bridget Jones: Mad About the Boy",
+        "imdb_id": "tt32063050",
+        "poster_url": "https://image.tmdb.org/t/p/w500/taEVBdVSqYo9YeN3ycw2SosklZL.jpg"
+    },
+    {
         "title": "The Brutalist",
         "imdb_id": "tt8999762",
         "poster_url": "https://image.tmdb.org/t/p/w500/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
@@ -30,14 +40,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg"
     },
     {
+        "title": "The Gorge",
+        "imdb_id": "tt13654226",
+        "poster_url": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
+    },
+    {
         "title": "Kinda Pregnant",
         "imdb_id": "tt30253036",
         "poster_url": "https://image.tmdb.org/t/p/w500/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg"
-    },
-    {
-        "title": "Moana 2",
-        "imdb_id": "tt13622970",
-        "poster_url": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
     },
     {
         "title": "Nosferatu",
@@ -48,15 +58,5 @@
         "title": "The Order",
         "imdb_id": "tt26625693",
         "poster_url": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg"
-    },
-    {
-        "title": "Wolf Man",
-        "imdb_id": "tt4216984",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jTPBMPTgk9zOUGSkWcoOGbX8cTi.jpg"
-    },
-    {
-        "title": "You're Cordially Invited",
-        "imdb_id": "tt21227864",
-        "poster_url": "https://image.tmdb.org/t/p/w500/muXnwAdVdEEktto0NBNMyqK3uQH.jpg"
     }
 ]
