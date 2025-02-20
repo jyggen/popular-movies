@@ -1,5 +1,10 @@
 [
     {
+        "title": "Cobra Kai",
+        "tvdb_id": 332858,
+        "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+    },
+    {
         "title": "INVINCIBLE",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg"
@@ -8,11 +13,6 @@
         "title": "Paradise",
         "tvdb_id": 454565,
         "poster_url": "https://image.tmdb.org/t/p/w500/sJUti0JDtE1IYl7RVJARAGyKHqz.jpg"
-    },
-    {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
     },
     {
         "title": "Squid Game",
