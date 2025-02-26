@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg"
     },
     {
+        "title": "Reacher",
+        "tvdb_id": 366924,
+        "poster_url": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
+    },
+    {
         "title": "Severance",
         "tvdb_id": 371980,
         "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
@@ -22,11 +27,6 @@
     {
         "title": "The White Lotus",
         "tvdb_id": 390430,
-        "poster_url": "https://image.tmdb.org/t/p/w500/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg"
-    },
-    {
-        "title": "Yellowstone",
-        "tvdb_id": 341164,
-        "poster_url": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/aVhCMD65Q9YNsVDfJaoFQLQ5wrR.jpg"
     }
 ]
