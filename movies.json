@@ -1,15 +1,5 @@
 [
     {
-        "title": "Babygirl",
-        "imdb_id": "tt30057084",
-        "poster_url": "https://image.tmdb.org/t/p/w500/A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg"
-    },
-    {
-        "title": "Better Man",
-        "imdb_id": "tt14260836",
-        "poster_url": "https://image.tmdb.org/t/p/w500/fbGCmMp0HlYnAPv28GOENPShezM.jpg"
-    },
-    {
         "title": "Bridget Jones: Mad About the Boy",
         "imdb_id": "tt32063050",
         "poster_url": "https://image.tmdb.org/t/p/w500/taEVBdVSqYo9YeN3ycw2SosklZL.jpg"
@@ -17,7 +7,7 @@
     {
         "title": "The Brutalist",
         "imdb_id": "tt8999762",
-        "poster_url": "https://image.tmdb.org/t/p/w500/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
     },
     {
         "title": "Captain America: Brave New World",
@@ -53,6 +43,16 @@
         "title": "The Monkey",
         "imdb_id": "tt27714946",
         "poster_url": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+    },
+    {
+        "title": "Mufasa: The Lion King",
+        "imdb_id": "tt13186482",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg"
+    },
+    {
+        "title": "My Fault: London",
+        "imdb_id": "tt32434379",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg"
     },
     {
         "title": "Nosferatu",
