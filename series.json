@@ -1,8 +1,13 @@
 [
     {
-        "title": "Cobra Kai",
-        "tvdb_id": 332858,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+        "title": "1923",
+        "tvdb_id": 416491,
+        "poster_url": "https://image.tmdb.org/t/p/w500/97YimtKZCD0bvHIG4YPgWo3OYar.jpg"
+    },
+    {
+        "title": "The Day of the Jackal",
+        "tvdb_id": 426866,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
         "title": "INVINCIBLE",
@@ -18,11 +23,6 @@
         "title": "Severance",
         "tvdb_id": 371980,
         "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
-    },
-    {
-        "title": "Squid Game",
-        "tvdb_id": 383275,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
     },
     {
         "title": "The White Lotus",
