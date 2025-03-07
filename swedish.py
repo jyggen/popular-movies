@@ -64,16 +64,23 @@ def _get_moviezine_movies() -> Iterator[str]:
     response = requests.get("https://www.moviezine.se/biotoppen")
     body = BeautifulSoup(response.content, features="html.parser")
 
-    if "Biotoppen Sverige" not in body.select_one(".top_toplists_title").text:
+    if "Biotoppen" not in body.select_one("h1").text:
         raise ValueError("Unable to parse MovieZine response.")
 
-    for movie in body.select(".top_list_watchable_info .imdb_grade"):
-        imdb_id = movie.attrs.get("data-imdb-id")
+    for movie in body.select(".film-item .film-title"):
+        title = movie.text.strip()
+        results = _search_api.movies(term=title)
+
+        if not results:
+            continue
+
+        match = dict(results[0])
+        imdb_id = _movie_api.external_ids(match["id"]).imdb_id
 
         if not imdb_id:
             continue
 
-        yield "tt" + imdb_id
+        yield imdb_id
 
 
 def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
