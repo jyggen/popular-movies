@@ -1,23 +1,21 @@
-[tool.poetry]
+[project]
 name = "popular-movies"
 version = "1.0.0"
 description = "Scrapes a list of popular movies from Rotten Tomatoes."
 authors = ["Jonas Stendahl <jonas@stendahl.me>"]
 license = "MIT"
 readme = "README.md"
+requires-python = ">=3.13.2"
+dependencies = [
+    "beautifulsoup4>=4.12.3,<5",
+    "cinemagoer>=2023.5.1",
+    "requests>=2.31.0,<3",
+    "sentry-sdk>=2.0.0,<3",
+    "tenacity>=9.0.0,<10",
+    "tmdbv3api>=1.9.0<2",
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-beautifulsoup4 = "^4.12.3"
-cinemagoer = "^2023.5.1"
-requests = "^2.31.0"
-sentry-sdk = "^2.0.0"
-tenacity = "^9.0.0"
-tmdbv3api = "^1.9.0"
-
-[tool.poetry.group.dev.dependencies]
-black = "25.1.0"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+]
