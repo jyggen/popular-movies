@@ -20,14 +20,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg"
     },
     {
-        "title": "Dog Man",
-        "imdb_id": "tt10954718",
-        "poster_url": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg"
-    },
-    {
         "title": "The Gorge",
         "imdb_id": "tt13654226",
         "poster_url": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
+    },
+    {
+        "title": "Heart Eyes",
+        "imdb_id": "tt32558992",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg"
     },
     {
         "title": "Love Hurts",
@@ -37,17 +37,12 @@
     {
         "title": "Mickey 17",
         "imdb_id": "tt12299608",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg"
     },
     {
         "title": "The Monkey",
         "imdb_id": "tt27714946",
         "poster_url": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
-    },
-    {
-        "title": "Nickel Boys",
-        "imdb_id": "tt23055660",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
     },
     {
         "title": "Nosferatu",
@@ -58,5 +53,10 @@
         "title": "One of Them Days",
         "imdb_id": "tt32221196",
         "poster_url": "https://image.tmdb.org/t/p/w500/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg"
+    },
+    {
+        "title": "Plankton: The Movie",
+        "imdb_id": "tt32560777",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg"
     }
 ]
