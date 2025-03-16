@@ -1,5 +1,10 @@
 [
     {
+        "title": "1923",
+        "tvdb_id": 416491,
+        "poster_url": "https://image.tmdb.org/t/p/w500/97YimtKZCD0bvHIG4YPgWo3OYar.jpg"
+    },
+    {
         "title": "Daredevil: Born Again",
         "tvdb_id": 422712,
         "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
@@ -8,11 +13,6 @@
         "title": "INVINCIBLE",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg"
-    },
-    {
-        "title": "The Pitt",
-        "tvdb_id": 448176,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg"
     },
     {
         "title": "Reacher",
