@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
     },
     {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
-    },
-    {
         "title": "The White Lotus",
         "tvdb_id": 390430,
-        "poster_url": "https://image.tmdb.org/t/p/w500/aVhCMD65Q9YNsVDfJaoFQLQ5wrR.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
+    },
+    {
+        "title": "Yellowjackets",
+        "tvdb_id": 399731,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bYr4kBf26aa1eEtOnOLpjDmKPVX.jpg"
     }
 ]
