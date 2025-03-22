@@ -1,13 +1,13 @@
 [
     {
+        "title": "Adolescence",
+        "tvdb_id": 452467,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
+    },
+    {
         "title": "Dope Thief",
         "tvdb_id": 423332,
         "poster_url": "https://image.tmdb.org/t/p/w500/fB0LKIEagglaJcNYzFPkYAEWON.jpg"
-    },
-    {
-        "title": "House of David",
-        "tvdb_id": 444904,
-        "poster_url": "https://image.tmdb.org/t/p/w500/64ooH4xSiMGAFG11emiGv3pdVkH.jpg"
     },
     {
         "title": "The Pitt",
@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
     },
     {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
+        "title": "The Righteous Gemstones",
+        "tvdb_id": 357223,
+        "poster_url": "https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg"
     },
     {
-        "title": "The Wheel of Time",
-        "tvdb_id": 355730,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eVm7vI0VTUKYzgpOXCUu9qz3L4E.jpg"
+        "title": "The White Lotus",
+        "tvdb_id": 390430,
+        "poster_url": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
     }
 ]
