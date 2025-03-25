@@ -23,18 +23,9 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/movies.json
-      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
-        if: success()
-        with:
-          target_branch: gh-pages
-          keep_history: true
-          allow_empty_commit: false
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
   generate-series:
     runs-on: ubuntu-latest
     steps:
@@ -50,18 +41,9 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/series.json
-      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
-        if: success()
-        with:
-          target_branch: gh-pages
-          keep_history: true
-          allow_empty_commit: false
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
   generate-swedish:
     runs-on: ubuntu-latest
     steps:
@@ -77,15 +59,6 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_CACHE_ENABLED: False
       - run: cat public/swedish.json
-      - uses: crazy-max/ghaction-github-status@6aadd1a8de5ca43c8e17a0633ef90e2178da5228 # v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          pages_threshold: major_outage
-      - uses: crazy-max/ghaction-github-pages@fbf0a4fa4e00f45accd6cf3232368436ec06ed59 # v4
-        if: success()
-        with:
-          target_branch: gh-pages
-          keep_history: true
-          allow_empty_commit: false
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
