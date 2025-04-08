@@ -5,9 +5,19 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
     },
     {
+        "title": "The Bondsman",
+        "tvdb_id": 436695,
+        "poster_url": "https://image.tmdb.org/t/p/w500/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg"
+    },
+    {
         "title": "Daredevil: Born Again",
         "tvdb_id": 422712,
         "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
+    },
+    {
+        "title": "Devil May Cry",
+        "tvdb_id": 440193,
+        "poster_url": "https://image.tmdb.org/t/p/w500/d9aqYyDymdl0HhexUQMT6dKUM4r.jpg"
     },
     {
         "title": "INVINCIBLE",
@@ -18,15 +28,5 @@
         "title": "Reacher",
         "tvdb_id": 366924,
         "poster_url": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
-    },
-    {
-        "title": "Severance",
-        "tvdb_id": 371980,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
-    },
-    {
-        "title": "The White Lotus",
-        "tvdb_id": 390430,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
     }
 ]
