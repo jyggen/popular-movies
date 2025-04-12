@@ -1,10 +1,5 @@
 [
     {
-        "title": "Adolescence",
-        "tvdb_id": 452467,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
-    },
-    {
         "title": "The Bondsman",
         "tvdb_id": 436695,
         "poster_url": "https://image.tmdb.org/t/p/w500/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg"
@@ -18,6 +13,11 @@
         "title": "Devil May Cry",
         "tvdb_id": 440193,
         "poster_url": "https://image.tmdb.org/t/p/w500/9YA4ko7x1o2NS65lDrlKAuNAqjJ.jpg"
+    },
+    {
+        "title": "Dying for Sex",
+        "tvdb_id": 442867,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg"
     },
     {
         "title": "INVINCIBLE",
