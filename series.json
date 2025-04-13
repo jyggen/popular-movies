@@ -1,5 +1,10 @@
 [
     {
+        "title": "Adolescence",
+        "tvdb_id": 452467,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
+    },
+    {
         "title": "The Bondsman",
         "tvdb_id": 436695,
         "poster_url": "https://image.tmdb.org/t/p/w500/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg"
@@ -8,11 +13,6 @@
         "title": "Daredevil: Born Again",
         "tvdb_id": 422712,
         "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
-    },
-    {
-        "title": "Devil May Cry",
-        "tvdb_id": 440193,
-        "poster_url": "https://image.tmdb.org/t/p/w500/9YA4ko7x1o2NS65lDrlKAuNAqjJ.jpg"
     },
     {
         "title": "Dying for Sex",
