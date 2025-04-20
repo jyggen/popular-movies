@@ -1,10 +1,5 @@
 [
     {
-        "title": "Adolescence",
-        "tvdb_id": 452467,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
-    },
-    {
         "title": "Black Mirror",
         "tvdb_id": 253463,
         "poster_url": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg"
@@ -23,6 +18,11 @@
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg"
+    },
+    {
+        "title": "The Wheel of Time",
+        "tvdb_id": 355730,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eVm7vI0VTUKYzgpOXCUu9qz3L4E.jpg"
     },
     {
         "title": "The White Lotus",
