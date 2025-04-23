@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Accountant 2",
+        "imdb_id": "tt7068946",
+        "poster_url": "https://image.tmdb.org/t/p/w500/4rxr2grcBfxwH4penSxndcPwyDp.jpg"
+    },
+    {
         "title": "The Amateur",
         "imdb_id": "tt0899043",
         "poster_url": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
@@ -8,11 +13,6 @@
         "title": "Captain America: Brave New World",
         "imdb_id": "tt14513804",
         "poster_url": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
-    },
-    {
-        "title": "Companion",
-        "imdb_id": "tt26584495",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
     },
     {
         "title": "G20",
