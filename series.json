@@ -1,5 +1,10 @@
 [
     {
+        "title": "Andor",
+        "tvdb_id": 393189,
+        "poster_url": "https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg"
+    },
+    {
         "title": "Black Mirror",
         "tvdb_id": 253463,
         "poster_url": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg"
@@ -8,11 +13,6 @@
         "title": "Daredevil: Born Again",
         "tvdb_id": 422712,
         "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
-    },
-    {
-        "title": "The Glass Dome",
-        "tvdb_id": 453517,
-        "poster_url": "https://image.tmdb.org/t/p/w500/yn4PIMnXJ42lObinYtmIvQ9lVtm.jpg"
     },
     {
         "title": "The Last of Us",
