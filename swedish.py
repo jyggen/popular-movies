@@ -71,7 +71,7 @@ def _get_moviezine_movies() -> Iterator[str]:
         title = movie.text.strip()
         results = _search_api.movies(term=title)
 
-        if not results:
+        if not results or ("total_results" in results and not results["total_results"]):
             continue
 
         match = dict(results[0])
