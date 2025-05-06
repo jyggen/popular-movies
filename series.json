@@ -10,6 +10,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg"
     },
     {
+        "title": "The Eternaut",
+        "tvdb_id": 420039,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ucI5KroZLP0KyJqQnAdOpzhVvBs.jpg"
+    },
+    {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg"
@@ -18,11 +23,6 @@
         "title": "When Life Gives You Tangerines",
         "tvdb_id": 428338,
         "poster_url": "https://image.tmdb.org/t/p/w500/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg"
-    },
-    {
-        "title": "The White Lotus",
-        "tvdb_id": 390430,
-        "poster_url": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
     },
     {
         "title": "You",
