@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg"
     },
     {
-        "title": "Captain America: Brave New World",
-        "imdb_id": "tt14513804",
-        "poster_url": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
-    },
-    {
         "title": "Death of a Unicorn",
         "imdb_id": "tt28443655",
         "poster_url": "https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg"
@@ -35,6 +30,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg"
     },
     {
+        "title": "Karate Kid: Legends",
+        "imdb_id": "tt1674782",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg"
+    },
+    {
         "title": "A Minecraft Movie",
         "imdb_id": "tt3566834",
         "poster_url": "https://image.tmdb.org/t/p/w500/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg"
@@ -42,12 +42,12 @@
     {
         "title": "Nonnas",
         "imdb_id": "tt28309594",
-        "poster_url": "https://image.tmdb.org/t/p/w500/6yuYlmpB2S5Ydug7qnuoJ7Ji2SI.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/vE15XYl5QyCdMKjJIb33iE7SwYf.jpg"
     },
     {
         "title": "Sinners",
         "imdb_id": "tt31193180",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5279xT9aJnxzbiqGFA505rFRy3b.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg"
     },
     {
         "title": "Thunderbolts*",
