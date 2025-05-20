@@ -5,16 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg"
     },
     {
-        "title": "Death of a Unicorn",
-        "imdb_id": "tt28443655",
-        "poster_url": "https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg"
-    },
-    {
-        "title": "Exterritorial",
-        "imdb_id": "tt30876483",
-        "poster_url": "https://image.tmdb.org/t/p/w500/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg"
-    },
-    {
         "title": "Final Destination Bloodlines",
         "imdb_id": "tt9619824",
         "poster_url": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
@@ -45,6 +35,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg"
     },
     {
+        "title": "Novocaine",
+        "imdb_id": "tt29603959",
+        "poster_url": "https://image.tmdb.org/t/p/w500/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg"
+    },
+    {
         "title": "Sinners",
         "imdb_id": "tt31193180",
         "poster_url": "https://image.tmdb.org/t/p/w500/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg"
@@ -58,5 +53,10 @@
         "title": "Warfare",
         "imdb_id": "tt31434639",
         "poster_url": "https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
+    },
+    {
+        "title": "A Working Man",
+        "imdb_id": "tt9150192",
+        "poster_url": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg"
     }
 ]
