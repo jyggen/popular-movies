@@ -30,11 +30,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
     },
     {
-        "title": "Nonnas",
-        "imdb_id": "tt28309594",
-        "poster_url": "https://image.tmdb.org/t/p/w500/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg"
-    },
-    {
         "title": "Novocaine",
         "imdb_id": "tt29603959",
         "poster_url": "https://image.tmdb.org/t/p/w500/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg"
@@ -48,6 +43,11 @@
         "title": "Thunderbolts*",
         "imdb_id": "tt20969586",
         "poster_url": "https://image.tmdb.org/t/p/w500/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg"
+    },
+    {
+        "title": "The Ugly Stepsister",
+        "imdb_id": "tt29344903",
+        "poster_url": "https://image.tmdb.org/t/p/w500/crX9rSg9EohybhkEe8iTQUCe55y.jpg"
     },
     {
         "title": "Warfare",
