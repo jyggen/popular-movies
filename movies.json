@@ -17,7 +17,12 @@
     {
         "title": "Karate Kid: Legends",
         "imdb_id": "tt1674782",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/iXbNjhz2KU64vq6NEVVG5pIxggy.jpg"
+    },
+    {
+        "title": "Lilo & Stitch",
+        "imdb_id": "tt11655566",
+        "poster_url": "https://image.tmdb.org/t/p/w500/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg"
     },
     {
         "title": "A Minecraft Movie",
@@ -43,11 +48,6 @@
         "title": "Thunderbolts*",
         "imdb_id": "tt20969586",
         "poster_url": "https://image.tmdb.org/t/p/w500/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg"
-    },
-    {
-        "title": "The Ugly Stepsister",
-        "imdb_id": "tt29344903",
-        "poster_url": "https://image.tmdb.org/t/p/w500/crX9rSg9EohybhkEe8iTQUCe55y.jpg"
     },
     {
         "title": "Warfare",
