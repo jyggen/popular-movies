@@ -7,17 +7,12 @@
     {
         "title": "The Handmaid's Tale",
         "tvdb_id": 321239,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qdWEaWkIQIjANGFeskheXpP0mm1.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/tFTJ3YbOor3BtabI96QehXxEBii.jpg"
     },
     {
         "title": "The Last of Us",
         "tvdb_id": 392256,
         "poster_url": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg"
-    },
-    {
-        "title": "Love, Death & Robots",
-        "tvdb_id": 357888,
-        "poster_url": "https://image.tmdb.org/t/p/w500/asDqvkE66EegtKJJXIRhBJPxscr.jpg"
     },
     {
         "title": "MobLand",
@@ -28,5 +23,10 @@
         "title": "Murderbot",
         "tvdb_id": 443396,
         "poster_url": "https://image.tmdb.org/t/p/w500/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg"
+    },
+    {
+        "title": "When Life Gives You Tangerines",
+        "tvdb_id": 428338,
+        "poster_url": "https://image.tmdb.org/t/p/w500/q29q6AByug53pnylCytwLA7m6AY.jpg"
     }
 ]
