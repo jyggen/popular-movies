@@ -1,23 +1,13 @@
 [
     {
-        "title": "The Better Sister",
-        "tvdb_id": 449665,
-        "poster_url": "https://image.tmdb.org/t/p/w500/vd1vEp1cKOkimarpuykswWR63Eg.jpg"
-    },
-    {
         "title": "Dept. Q",
         "tvdb_id": 445802,
         "poster_url": "https://image.tmdb.org/t/p/w500/h60alybJNgGGfPUbGGUXMXOoFvB.jpg"
     },
     {
-        "title": "Murderbot",
-        "tvdb_id": 443396,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg"
-    },
-    {
-        "title": "Sirens",
-        "tvdb_id": 446472,
-        "poster_url": "https://image.tmdb.org/t/p/w500/mezbwX9gFWTXl0XiicS5ZMcdXVx.jpg"
+        "title": "Revival",
+        "tvdb_id": 449906,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5CuMd9uyNlN9BAxnE29B19pFenZ.jpg"
     },
     {
         "title": "Stick",
@@ -28,5 +18,15 @@
         "title": "The Survivors",
         "tvdb_id": 463476,
         "poster_url": "https://image.tmdb.org/t/p/w500/4Xgf1axYG97G7BYC661O27t9iYu.jpg"
+    },
+    {
+        "title": "The Waterfront",
+        "tvdb_id": 450096,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uRzJaOysinMti88BGuu8m8shVCp.jpg"
+    },
+    {
+        "title": "We Were Liars",
+        "tvdb_id": 438638,
+        "poster_url": "https://image.tmdb.org/t/p/w500/3RQoNwSkJkh92KL2TwpMlHP5FkT.jpg"
     }
 ]
