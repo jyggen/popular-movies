@@ -1,32 +1,32 @@
 [
     {
+        "title": "The Bear",
+        "tvdb_id": 403294,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+    },
+    {
         "title": "Dept. Q",
         "tvdb_id": 445802,
         "poster_url": "https://image.tmdb.org/t/p/w500/h60alybJNgGGfPUbGGUXMXOoFvB.jpg"
     },
     {
-        "title": "Revival",
-        "tvdb_id": 449906,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5CuMd9uyNlN9BAxnE29B19pFenZ.jpg"
+        "title": "Ironheart",
+        "tvdb_id": 393204,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1z0nm8ZkPfxYuIdjZXxSIgl8SCz.jpg"
     },
     {
-        "title": "Stick",
-        "tvdb_id": 455562,
-        "poster_url": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg"
+        "title": "Smoke",
+        "tvdb_id": 428137,
+        "poster_url": "https://image.tmdb.org/t/p/w500/p789YfZtMqe3ErII3t61FWmAaFQ.jpg"
     },
     {
-        "title": "The Survivors",
-        "tvdb_id": 463476,
-        "poster_url": "https://image.tmdb.org/t/p/w500/4Xgf1axYG97G7BYC661O27t9iYu.jpg"
+        "title": "Squid Game",
+        "tvdb_id": 383275,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
     },
     {
         "title": "The Waterfront",
         "tvdb_id": 450096,
         "poster_url": "https://image.tmdb.org/t/p/w500/uRzJaOysinMti88BGuu8m8shVCp.jpg"
-    },
-    {
-        "title": "We Were Liars",
-        "tvdb_id": 438638,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3RQoNwSkJkh92KL2TwpMlHP5FkT.jpg"
     }
 ]
