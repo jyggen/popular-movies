@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/361hRZoG91Nw6qXaIKuGoogQjix.jpg"
     },
     {
-        "title": "Ballerina",
-        "imdb_id": "tt7181546",
-        "poster_url": "https://image.tmdb.org/t/p/w500/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg"
-    },
-    {
         "title": "Deep Cover",
         "imdb_id": "tt31121295",
         "poster_url": "https://image.tmdb.org/t/p/w500/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg"
@@ -30,19 +25,24 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
     },
     {
-        "title": "Friendship",
-        "imdb_id": "tt30505698",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg"
-    },
-    {
         "title": "How to Train Your Dragon",
         "imdb_id": "tt26743210",
         "poster_url": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg"
     },
     {
-        "title": "The Life of Chuck",
-        "imdb_id": "tt12908150",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg"
+        "title": "Jurassic World Rebirth",
+        "imdb_id": "tt31036941",
+        "poster_url": "https://image.tmdb.org/t/p/w500/skSoZMossoIYvzOf2UnaWqLscJl.jpg"
+    },
+    {
+        "title": "KPop Demon Hunters",
+        "imdb_id": "tt14205554",
+        "poster_url": "https://image.tmdb.org/t/p/w500/jfS5KEfiwsS35ieZvdUdJKkwLlZ.jpg"
+    },
+    {
+        "title": "M3GAN 2.0",
+        "imdb_id": "tt26342662",
+        "poster_url": "https://image.tmdb.org/t/p/w500/fBgyUqyu3ioTSQjJJE5RFs2EG3B.jpg"
     },
     {
         "title": "Materialists",
@@ -55,8 +55,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yqsCU5XOP2mkbFamzAqbqntmfav.jpg"
     },
     {
-        "title": "STRAW",
-        "imdb_id": "tt32550101",
-        "poster_url": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg"
+        "title": "Superman",
+        "imdb_id": "tt5950044",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
     }
 ]
