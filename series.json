@@ -5,14 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
     },
     {
-        "title": "Dept. Q",
-        "tvdb_id": 445802,
-        "poster_url": "https://image.tmdb.org/t/p/w500/h60alybJNgGGfPUbGGUXMXOoFvB.jpg"
-    },
-    {
         "title": "Ironheart",
         "tvdb_id": 393204,
         "poster_url": "https://image.tmdb.org/t/p/w500/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg"
+    },
+    {
+        "title": "The Sandman",
+        "tvdb_id": 366211,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dhbqyYjLfTNAHodDDjDELzwO6F4.jpg"
     },
     {
         "title": "Smoke",
