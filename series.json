@@ -1,8 +1,13 @@
 [
     {
-        "title": "The Bear",
-        "tvdb_id": 403294,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+        "title": "Ballard",
+        "tvdb_id": 453659,
+        "poster_url": "https://image.tmdb.org/t/p/w500/vHQGu6ducKC7JcDU6lqWyx7tWW5.jpg"
+    },
+    {
+        "title": "Dexter: Resurrection",
+        "tvdb_id": 452595,
+        "poster_url": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg"
     },
     {
         "title": "Ironheart",
@@ -15,18 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/dhbqyYjLfTNAHodDDjDELzwO6F4.jpg"
     },
     {
-        "title": "Smoke",
-        "tvdb_id": 428137,
-        "poster_url": "https://image.tmdb.org/t/p/w500/p789YfZtMqe3ErII3t61FWmAaFQ.jpg"
-    },
-    {
         "title": "Squid Game",
         "tvdb_id": 383275,
         "poster_url": "https://image.tmdb.org/t/p/w500/j2iPYxEIoiwimelbNiADmsQohs6.jpg"
     },
     {
-        "title": "The Waterfront",
-        "tvdb_id": 450096,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uRzJaOysinMti88BGuu8m8shVCp.jpg"
+        "title": "Too Much",
+        "tvdb_id": 443261,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg"
     }
 ]
