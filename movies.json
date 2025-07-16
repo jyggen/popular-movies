@@ -22,12 +22,17 @@
     {
         "title": "F1",
         "imdb_id": "tt16311594",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
     },
     {
         "title": "Heads of State",
         "imdb_id": "tt13357520",
         "poster_url": "https://image.tmdb.org/t/p/w500/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "imdb_id": "tt26743210",
+        "poster_url": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg"
     },
     {
         "title": "Jurassic World Rebirth",
@@ -43,11 +48,6 @@
         "title": "The Old Guard 2",
         "imdb_id": "tt14961624",
         "poster_url": "https://image.tmdb.org/t/p/w500/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg"
-    },
-    {
-        "title": "Sinners",
-        "imdb_id": "tt31193180",
-        "poster_url": "https://image.tmdb.org/t/p/w500/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg"
     },
     {
         "title": "Superman",
