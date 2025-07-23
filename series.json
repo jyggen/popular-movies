@@ -10,23 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg"
     },
     {
+        "title": "Foundation",
+        "tvdb_id": 366972,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg"
+    },
+    {
         "title": "Ironheart",
         "tvdb_id": 393204,
         "poster_url": "https://image.tmdb.org/t/p/w500/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg"
     },
     {
-        "title": "The Sandman",
-        "tvdb_id": 366211,
-        "poster_url": "https://image.tmdb.org/t/p/w500/dhbqyYjLfTNAHodDDjDELzwO6F4.jpg"
-    },
-    {
-        "title": "Squid Game",
-        "tvdb_id": 383275,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
-    },
-    {
         "title": "Too Much",
         "tvdb_id": 443261,
         "poster_url": "https://image.tmdb.org/t/p/w500/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg"
+    },
+    {
+        "title": "UNTAMED",
+        "tvdb_id": 447456,
+        "poster_url": "https://image.tmdb.org/t/p/w500/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg"
     }
 ]
