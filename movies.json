@@ -1,15 +1,5 @@
 [
     {
-        "title": "Brick",
-        "imdb_id": "tt31806049",
-        "poster_url": "https://image.tmdb.org/t/p/w500/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg"
-    },
-    {
-        "title": "Bring Her Back",
-        "imdb_id": "tt32246771",
-        "poster_url": "https://image.tmdb.org/t/p/w500/tObSf1VzzHt9xB0csanFtb3DRjf.jpg"
-    },
-    {
         "title": "Eddington",
         "imdb_id": "tt31176520",
         "poster_url": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg"
@@ -25,9 +15,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
     },
     {
-        "title": "How to Train Your Dragon",
-        "imdb_id": "tt26743210",
-        "poster_url": "https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg"
+        "title": "Happy Gilmore 2",
+        "imdb_id": "tt31868189",
+        "poster_url": "https://image.tmdb.org/t/p/w500/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg"
     },
     {
         "title": "I Know What You Did Last Summer",
@@ -45,9 +35,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/22AouvwlhlXbe3nrFcjzL24bvWH.jpg"
     },
     {
-        "title": "Smurfs",
-        "imdb_id": "tt18069420",
-        "poster_url": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg"
+        "title": "Materialists",
+        "imdb_id": "tt30253473",
+        "poster_url": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
     },
     {
         "title": "Sovereign",
@@ -58,5 +48,15 @@
         "title": "Superman",
         "imdb_id": "tt5950044",
         "poster_url": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
+    },
+    {
+        "title": "Thunderbolts*",
+        "imdb_id": "tt20969586",
+        "poster_url": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    },
+    {
+        "title": "Together",
+        "imdb_id": "tt31184028",
+        "poster_url": "https://image.tmdb.org/t/p/w500/wEgfIrmSUibiXjp9qWLL35g1nNr.jpg"
     }
 ]
