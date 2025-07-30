@@ -7,7 +7,7 @@
     {
         "title": "F1",
         "imdb_id": "tt16311594",
-        "poster_url": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg"
     },
     {
         "title": "The Fantastic 4: First Steps",
@@ -18,6 +18,11 @@
         "title": "Happy Gilmore 2",
         "imdb_id": "tt31868189",
         "poster_url": "https://image.tmdb.org/t/p/w500/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg"
+    },
+    {
+        "title": "The Home",
+        "imdb_id": "tt17023012",
+        "poster_url": "https://image.tmdb.org/t/p/w500/mkoPn8eEr1ouz402rl39YJwYt5O.jpg"
     },
     {
         "title": "I Know What You Did Last Summer",
@@ -48,11 +53,6 @@
         "title": "Superman",
         "imdb_id": "tt5950044",
         "poster_url": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
-    },
-    {
-        "title": "Thunderbolts*",
-        "imdb_id": "tt20969586",
-        "poster_url": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
     },
     {
         "title": "Together",
