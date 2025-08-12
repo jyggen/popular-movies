@@ -1,8 +1,13 @@
 [
     {
-        "title": "Ballard",
-        "tvdb_id": 453659,
-        "poster_url": "https://image.tmdb.org/t/p/w500/vHQGu6ducKC7JcDU6lqWyx7tWW5.jpg"
+        "title": "Alien: Earth",
+        "tvdb_id": 458912,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cbllPwsMEfCPb5oegsEorbgiEIO.jpg"
+    },
+    {
+        "title": "The Assassin",
+        "tvdb_id": 453648,
+        "poster_url": "https://image.tmdb.org/t/p/w500/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg"
     },
     {
         "title": "Chief of War",
@@ -10,19 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg"
     },
     {
-        "title": "Code of Silence",
-        "tvdb_id": 435022,
-        "poster_url": "https://image.tmdb.org/t/p/w500/qQ9giFtSAOHg7sVGTPxOQ9FEL4X.jpg"
-    },
-    {
-        "title": "Eyes of Wakanda",
-        "tvdb_id": 443358,
-        "poster_url": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg"
-    },
-    {
         "title": "The Hunting Wives",
         "tvdb_id": 440472,
         "poster_url": "https://image.tmdb.org/t/p/w500/nrJYXG77pRFLTAqee2onFRf6Yjx.jpg"
+    },
+    {
+        "title": "Platonic",
+        "tvdb_id": 391020,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg"
     },
     {
         "title": "UNTAMED",
