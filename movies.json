@@ -15,9 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
     },
     {
-        "title": "Happy Gilmore 2",
-        "imdb_id": "tt31868189",
-        "poster_url": "https://image.tmdb.org/t/p/w500/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg"
+        "title": "Freakier Friday",
+        "imdb_id": "tt31956415",
+        "poster_url": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg"
+    },
+    {
+        "title": "Jurassic World Rebirth",
+        "imdb_id": "tt31036941",
+        "poster_url": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
     },
     {
         "title": "KPop Demon Hunters",
@@ -25,19 +30,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/22AouvwlhlXbe3nrFcjzL24bvWH.jpg"
     },
     {
-        "title": "The Life of Chuck",
-        "imdb_id": "tt12908150",
-        "poster_url": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg"
-    },
-    {
-        "title": "Materialists",
-        "imdb_id": "tt30253473",
-        "poster_url": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
-    },
-    {
         "title": "The Naked Gun",
         "imdb_id": "tt3402138",
         "poster_url": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg"
+    },
+    {
+        "title": "Sketch",
+        "imdb_id": "tt26238710",
+        "poster_url": "https://image.tmdb.org/t/p/w500/vblVhVkDPpL7vGI7eBf89KuLNTs.jpg"
     },
     {
         "title": "Superman",
