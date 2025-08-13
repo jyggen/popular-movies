@@ -12,6 +12,7 @@ from tmdbv3api import Find, Movie, Search
 from _shared import (
     _sort_key,
     _calculate_scores,
+    _get_poster_url,
 )
 
 _MAX_RESULTS = 3
@@ -88,9 +89,7 @@ def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
         {
             "title": movie["title"],
             "imdb_id": movie["imdb_id"],
-            "poster_url": "https://image.tmdb.org/t/p/w500{path}".format(
-                path=movie["poster_path"],
-            ),
+            "poster_url": _get_poster_url(movie["imdb_id"]),
         }
         for movie in movies
     )

@@ -14,6 +14,7 @@ from _shared import (
     _calculate_scores,
     _get_year_variants,
     _get_title_variants,
+    _get_poster_url,
 )
 
 _MAX_RESULTS = 12
@@ -129,9 +130,7 @@ def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
         {
             "title": movie["title"],
             "imdb_id": movie["imdb_id"],
-            "poster_url": "https://image.tmdb.org/t/p/w500{path}".format(
-                path=movie["poster_path"],
-            ),
+            "poster_url": _get_poster_url(movie["imdb_id"]),
         }
         for movie in movies
     )

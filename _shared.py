@@ -1,6 +1,8 @@
 import copy
 import math
 import re
+import requests
+import time
 from typing import Iterator
 from tenacity import Retrying, stop_after_attempt, wait_fixed, wait_random
 
@@ -83,3 +85,15 @@ def _sort_key(title: str) -> str:
     title = _SPECIAL_CHARS.sub("", title)
 
     return title.strip().lower()
+
+
+def _get_poster_url(imdb_id: str) -> str:
+    while True:
+        response = requests.get(f"https://posters.metadb.info/imdb/{imdb_id}", allow_redirects=False)
+
+        if response.status_code == 202 or response.status_code == 503:
+            time.sleep(int(response.headers.get("Retry-After")))
+        elif response.status_code == 303:
+            return response.headers.get("Location")
+        else:
+            response.raise_for_status()
