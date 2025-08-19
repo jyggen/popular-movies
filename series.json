@@ -10,23 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg"
     },
     {
+        "title": "Butterfly",
+        "tvdb_id": 438640,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fTpD8cg1xkxO17iCSWFAxUBWdCV.jpg"
+    },
+    {
         "title": "Chief of War",
         "tvdb_id": 418633,
         "poster_url": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg"
     },
     {
-        "title": "The Hunting Wives",
-        "tvdb_id": 440472,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nrJYXG77pRFLTAqee2onFRf6Yjx.jpg"
-    },
-    {
-        "title": "Platonic",
-        "tvdb_id": 391020,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg"
-    },
-    {
         "title": "UNTAMED",
         "tvdb_id": 447456,
         "poster_url": "https://image.tmdb.org/t/p/w500/tclYY8RGieQwkJXDxZGf505Zybr.jpg"
+    },
+    {
+        "title": "Wednesday",
+        "tvdb_id": 397060,
+        "poster_url": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg"
     }
 ]
