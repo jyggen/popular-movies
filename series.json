@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg"
     },
     {
-        "title": "The Assassin",
-        "tvdb_id": 453648,
-        "poster_url": "https://image.tmdb.org/t/p/w500/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg"
-    },
-    {
         "title": "Butterfly",
         "tvdb_id": 438640,
         "poster_url": "https://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg"
@@ -20,13 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg"
     },
     {
-        "title": "UNTAMED",
-        "tvdb_id": 447456,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tclYY8RGieQwkJXDxZGf505Zybr.jpg"
+        "title": "Code of Silence",
+        "tvdb_id": 435022,
+        "poster_url": "https://image.tmdb.org/t/p/w500/qQ9giFtSAOHg7sVGTPxOQ9FEL4X.jpg"
     },
     {
-        "title": "Wednesday",
-        "tvdb_id": 397060,
-        "poster_url": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg"
+        "title": "Hostage",
+        "tvdb_id": 450315,
+        "poster_url": "https://image.tmdb.org/t/p/w500/r8nC8ZKOVWq8bqTF7AMLQI6NgM8.jpg"
+    },
+    {
+        "title": "Peacemaker",
+        "tvdb_id": 391153,
+        "poster_url": "https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg"
     }
 ]
