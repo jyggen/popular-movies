@@ -5,16 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg"
     },
     {
-        "title": "Butterfly",
-        "tvdb_id": 438640,
-        "poster_url": "https://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg"
-    },
-    {
-        "title": "Chief of War",
-        "tvdb_id": 418633,
-        "poster_url": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg"
-    },
-    {
         "title": "Dexter: Resurrection",
         "tvdb_id": 452595,
         "poster_url": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg"
@@ -23,6 +13,16 @@
         "title": "Hostage",
         "tvdb_id": 450315,
         "poster_url": "https://image.tmdb.org/t/p/w500/r8nC8ZKOVWq8bqTF7AMLQI6NgM8.jpg"
+    },
+    {
+        "title": "Invasion",
+        "tvdb_id": 404492,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xP4SIyOn7vUh0OqT4a30MHhNFMO.jpg"
+    },
+    {
+        "title": "King & Conqueror",
+        "tvdb_id": 442771,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ubYG6zVmZmJ1DgQzIefcIcRD7Ja.jpg"
     },
     {
         "title": "Peacemaker",
