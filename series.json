@@ -5,28 +5,28 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg"
     },
     {
-        "title": "Dexter: Resurrection",
-        "tvdb_id": 452595,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg"
-    },
-    {
         "title": "Hostage",
         "tvdb_id": 450315,
         "poster_url": "https://image.tmdb.org/t/p/w500/r8nC8ZKOVWq8bqTF7AMLQI6NgM8.jpg"
     },
     {
-        "title": "Invasion",
-        "tvdb_id": 404492,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xP4SIyOn7vUh0OqT4a30MHhNFMO.jpg"
-    },
-    {
-        "title": "King & Conqueror",
-        "tvdb_id": 442771,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eg2H1MEirJELzvfgnNt3EziQ6wI.jpg"
+        "title": "The Paper",
+        "tvdb_id": 449872,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg"
     },
     {
         "title": "Peacemaker",
         "tvdb_id": 391153,
         "poster_url": "https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg"
+    },
+    {
+        "title": "Task",
+        "tvdb_id": 451873,
+        "poster_url": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg"
+    },
+    {
+        "title": "Wednesday",
+        "tvdb_id": 397060,
+        "poster_url": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg"
     }
 ]
