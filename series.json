@@ -10,23 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg"
     },
     {
+        "title": "Gen V",
+        "tvdb_id": 417909,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg"
+    },
+    {
         "title": "The Girlfriend",
         "tvdb_id": 449706,
         "poster_url": "https://image.tmdb.org/t/p/w500/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg"
     },
     {
-        "title": "The Paper",
-        "tvdb_id": 449872,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg"
+        "title": "The Summer I Turned Pretty",
+        "tvdb_id": 396505,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg"
     },
     {
         "title": "Task",
         "tvdb_id": 451873,
         "poster_url": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg"
-    },
-    {
-        "title": "The Terminal List: Dark Wolf",
-        "tvdb_id": 464185,
-        "poster_url": "https://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg"
     }
 ]
