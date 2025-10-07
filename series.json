@@ -1,10 +1,5 @@
 [
     {
-        "title": "Alien: Earth",
-        "tvdb_id": 458912,
-        "poster_url": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg"
-    },
-    {
         "title": "Black Rabbit",
         "tvdb_id": 447579,
         "poster_url": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg"
@@ -15,9 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg"
     },
     {
-        "title": "Marvel Zombies",
-        "tvdb_id": 412428,
-        "poster_url": "https://image.tmdb.org/t/p/w500/1fu3vZwqDEFOxFlitlDdYU86Ovr.jpg"
+        "title": "The Lowdown",
+        "tvdb_id": 450085,
+        "poster_url": "https://image.tmdb.org/t/p/w500/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg"
+    },
+    {
+        "title": "Monster: The Ed Gein Story",
+        "tvdb_id": null,
+        "poster_url": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg"
     },
     {
         "title": "Task",
