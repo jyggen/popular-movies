@@ -1,18 +1,37 @@
+TRON: Ares 76.50081057014468 67.0 50 64.50027019004823
+One Battle After Another 68.53174721766746 83.0 50 67.17724907255582
+The Woman in Cabin 10 78.87243994728756 59.0 50 62.62414664909585
+Roofman 31.089600118310944 72.0 50 51.029866706103654
+The Smashing Machine 39.29791186437741 68.0 50 52.4326372881258
+Good Boy 43.565543108211315 65.0 71 59.85518103607044
+The Lost Bus 64.3002937217825 69.0 50 61.10009790726084
+Kiss of the Spider Woman 23.91106806431351 61.0 60 48.303689354771166
+Weapons 67.34902754231506 75.0 81 74.44967584743836
+HIM 77.25018064657215 52.0 50 59.75006021552405
+Steve 50.354574495724144 64.0 50 54.78485816524138
+A House of Dynamite 26.50570125053486 74.0 50 50.16856708351162
+The Conjuring: Last Rites 100.0 63.0 50 71.0
+Black Phone 2 48.58577026798449 71.0 50 56.52859008932816
+V/H/S/HALLOWEEN 34.95672088290059 58.0 50 47.65224029430019
+Play Dirty 81.07488054174185 59.0 50 63.35829351391394
+After the Hunt 21.67669558082336 60 50 43.89223186027446
+The Long Walk 44.729970189225554 73.0 50 55.909990063075185
+Caught Stealing 44.440071638417656 70 69 61.14669054613922
+Anemone 8.107285465352643 59.0 50 39.03576182178421
+Vicious 75.50811831363758 49.0 50 58.16937277121252
+The Naked Gun 54.97443479821297 65.0 75 64.99147826607098
+Soul on Fire 0.0 67.0 50 39.0
+Bone Lake 24.317869338849018 62.0 50 45.43928977961634
 [
-    {
-        "title": "Anemone",
-        "imdb_id": "tt33549447",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdubKbJTRTJmji0VUEo5pVoZ92ra.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt33549447"
-    },
-    {
-        "title": "Bone Lake",
-        "imdb_id": "tt26783625",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4a24D31lFw80U8ukFvWoqPpQoL8.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt26783625"
-    },
     {
         "title": "Caught Stealing",
         "imdb_id": "tt1493274",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fcvda8s5J8YaHjTyEyXQpvD6f3iV.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt1493274"
+    },
+    {
+        "title": "The Conjuring: Last Rites",
+        "imdb_id": "tt22898462",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F9%2F3%2F6%2F0%2F6%2F5%2F936065-the-conjuring-last-rites-0-2000-0-3000-crop.jpg%3Fv%3D597eedcd06&w=2000&h=3000&fit=cover&output=jpg&filename=tt22898462"
     },
     {
         "title": "Good Boy",
@@ -25,14 +44,14 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqPJzcYR2f1O1uynYBCVPPJuOiAH.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt20990442"
     },
     {
-        "title": "The Long Walk",
-        "imdb_id": "tt10374610",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwobVTa99eW0ht6c1rNNzLkazPtR.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt10374610"
-    },
-    {
         "title": "The Lost Bus",
         "imdb_id": "tt21103218",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzpygCOYY1DPBkeUsrrznLRN5js5.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt21103218"
+    },
+    {
+        "title": "The Naked Gun",
+        "imdb_id": "tt3402138",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt3402138"
     },
     {
         "title": "One Battle After Another",
@@ -45,18 +64,23 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt18392014"
     },
     {
-        "title": "The Smashing Machine",
-        "imdb_id": "tt11214558",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F6%2F8%2F0%2F7%2F3%2F9%2F680739-the-smashing-machine-2025-0-2000-0-3000-crop.jpg%3Fv%3De1c8e23118&w=2000&h=3000&fit=cover&output=jpg&filename=tt11214558"
+        "title": "TRON: Ares",
+        "imdb_id": "tt6604188",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FchpWmskl3aKm1aTZqUHRCtviwPy.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt6604188"
     },
     {
-        "title": "Steve",
-        "imdb_id": "tt32985279",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F1%2F1%2F2%2F5%2F6%2F5%2F1%2F1125651-steve-2025-0-2000-0-3000-crop.jpg%3Fv%3D9caa51a6dc&w=1246&h=1869&fit=cover&output=jpg&filename=tt32985279"
+        "title": "Vicious",
+        "imdb_id": "tt31511689",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FshKGDGrwqmc9x2aTJcQszoXinq0.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt31511689"
     },
     {
         "title": "Weapons",
         "imdb_id": "tt26581740",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FA8COkw9waXJxaBKGUKWE3pD3OLx.jpg&w=1984&h=2976&fit=cover&output=jpg&filename=tt26581740"
+    },
+    {
+        "title": "The Woman in Cabin 10",
+        "imdb_id": "tt7130300",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4kpdyePOlcELQQJcxXPF5GB1Adw.jpg&w=1480&h=2220&fit=cover&output=jpg&filename=tt7130300"
     }
 ]
