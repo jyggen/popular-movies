@@ -8,7 +8,6 @@ readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
     "beautifulsoup4>=4.12.3,<5",
-    "cinemagoer>=2023.5.1",
     "requests>=2.31.0,<3",
     "sentry-sdk>=2.0.0,<3",
     "tenacity>=9.0.0,<10",

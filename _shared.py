@@ -6,17 +6,12 @@ import time
 from typing import Iterator
 from tenacity import Retrying, stop_after_attempt, wait_fixed, wait_random
 
-import imdb
-
 _COMMON_WORDS = re.compile(r"\b(a|an|the|and|or|of)\b\s?", flags=re.IGNORECASE)
 _DUPLICATE_SPACES = re.compile(r"\s{2,}")
 _PARENTHESES = re.compile(r"\(.*\)")
 _PUNCTUATIONS = re.compile(r"[^\w\s]")
 _SPECIAL_CHARS = re.compile(r"([&:\\/])+")
 _WORD_DELIMITERS = re.compile(r"(\s|\.|,|_|-|=|'|\|)+")
-
-_IMDB_API = imdb.Cinemagoer()
-
 
 def _calculate_scores(items: list[dict]) -> list[dict]:
     items = list(copy.deepcopy(items))
@@ -36,28 +31,46 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
 
     for item in items:
         if item["imdb_id"] == "" or item["imdb_id"] is None:
-            imdb_rating = 0
+            imdb_rating = 50
+            metacritic_rating = 50
         else:
             for attempt in Retrying(
                 wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
             ):
                 with attempt:
-                    try:
-                        imdb_rating = _IMDB_API.get_movie(item["imdb_id"][2:])["rating"]
-                    except KeyError:
+                    response = requests.get(f"https://api.imdbapi.dev/titles/{item["imdb_id"]}")
+
+                    if response.status_code == 404:
                         imdb_rating = 0
+                        break
+
+                    response.raise_for_status()
+                    data = response.json()
+
+                    try:
+                        imdb_rating = data["rating"]["aggregateRating"]*10
+                    except KeyError:
+                        imdb_rating = 50
+
+                    try:
+                        metacritic_rating = data["metacritic"]["score"]
+                    except KeyError:
+                        metacritic_rating = 50
+
 
         if max_value == min_value:
-            item["score"] = imdb_rating / 10
+            item["score"] = (imdb_rating + metacritic_rating) / 2
         else:
             popularity = item["popularity"]
 
             if popularity > 0:
                 popularity = math.log10(popularity)
 
-            item["score"] = (
+            item["score"] = ((
                 (popularity - min_value) / (max_value - min_value) * 100
-            ) * (imdb_rating / 10)
+            ) + imdb_rating + metacritic_rating) / 3
+            
+            print(item["title"], (popularity - min_value) / (max_value - min_value) * 100, imdb_rating, metacritic_rating, item["score"])
 
     return items
 
