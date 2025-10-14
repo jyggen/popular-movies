@@ -70,8 +70,6 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                 (popularity - min_value) / (max_value - min_value) * 100
             ) + imdb_rating + metacritic_rating) / 3
             
-            print(item["title"], (popularity - min_value) / (max_value - min_value) * 100, imdb_rating, metacritic_rating, item["score"])
-
     return items
 
 
