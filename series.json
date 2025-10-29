@@ -1,13 +1,13 @@
 [
     {
-        "title": "Boots",
-        "tvdb_id": 434473,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg"
-    },
-    {
         "title": "Gen V",
         "tvdb_id": 417909,
         "poster_url": "https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg"
+    },
+    {
+        "title": "IT: Welcome to Derry",
+        "tvdb_id": 418424,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
     },
     {
         "title": "The Last Frontier",
@@ -15,14 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg"
     },
     {
-        "title": "Peacemaker",
-        "tvdb_id": 391153,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg"
-    },
-    {
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/5RuZZIouptatjV96BdPmKmRsnGg.jpg"
+    },
+    {
+        "title": "Stranger Things",
+        "tvdb_id": 305288,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
     },
     {
         "title": "Task",
