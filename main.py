@@ -81,6 +81,9 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
                 )
                 page += 1
 
+                if not results.total_results:
+                    continue
+
                 for option in results:
                     match = _best_match(option, match, search_query, search_year)
 
