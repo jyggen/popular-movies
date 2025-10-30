@@ -10,9 +10,14 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwHQHnlRjtaaZyRhQijxKMPgWjl.jpg&w=1066&h=1599&fit=cover&output=jpg&filename=tt12300742"
     },
     {
-        "title": "The Conjuring: Last Rites",
-        "imdb_id": "tt22898462",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F9%2F3%2F6%2F0%2F6%2F5%2F936065-the-conjuring-last-rites-0-2000-0-3000-crop.jpg%3Fv%3D597eedcd06&w=2000&h=3000&fit=cover&output=jpg&filename=tt22898462"
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "imdb_id": "tt30472557",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg&w=900&h=1350&fit=cover&output=jpg&filename=tt30472557"
+    },
+    {
+        "title": "The Elixir",
+        "imdb_id": "tt32643830",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhQYEkXiAcgzQkr4aqLxWpNUFvN5.jpg&w=812&h=1218&fit=cover&output=jpg&filename=tt32643830"
     },
     {
         "title": "Frankenstein",
@@ -30,11 +35,6 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg&w=900&h=1350&fit=cover&output=jpg&filename=tt32376165"
     },
     {
-        "title": "It Was Just an Accident",
-        "imdb_id": "tt36491653",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrTR6bDRyNAcFGlmf1PGx7sH2XhF.jpg&w=1666&h=2499&fit=cover&output=jpg&filename=tt36491653"
-    },
-    {
         "title": "The Long Walk",
         "imdb_id": "tt10374610",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwobVTa99eW0ht6c1rNNzLkazPtR.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt10374610"
@@ -45,14 +45,14 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F9%2F5%2F1%2F2%2F7%2F7%2F951277-one-battle-after-another-0-2000-0-3000-crop.jpg%3Fv%3Dd27c4cc662&w=1400&h=2100&fit=cover&output=jpg&filename=tt30144839"
     },
     {
-        "title": "Our Fault",
-        "imdb_id": "tt33311244",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt33311244"
-    },
-    {
         "title": "The Perfect Neighbor",
         "imdb_id": "tt34962891",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2NE7yN45zo19o4LJr6JFxDWmh2b.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt34962891"
+    },
+    {
+        "title": "The Roses",
+        "imdb_id": "tt31973693",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt31973693"
     },
     {
         "title": "Weapons",
