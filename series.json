@@ -1,10 +1,5 @@
 [
     {
-        "title": "Gen V",
-        "tvdb_id": 417909,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg"
-    },
-    {
         "title": "IT: Welcome to Derry",
         "tvdb_id": 418424,
         "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
@@ -15,9 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg"
     },
     {
+        "title": "Mayor of Kingstown",
+        "tvdb_id": 386630,
+        "poster_url": "https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg"
+    },
+    {
         "title": "Slow Horses",
         "tvdb_id": 372264,
-        "poster_url": "https://image.tmdb.org/t/p/w500/5RuZZIouptatjV96BdPmKmRsnGg.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
     },
     {
         "title": "Stranger Things",
@@ -25,8 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
     },
     {
-        "title": "Task",
-        "tvdb_id": 451873,
-        "poster_url": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg"
+        "title": "The Witcher",
+        "tvdb_id": 362696,
+        "poster_url": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg"
     }
 ]
