@@ -1,5 +1,10 @@
 [
     {
+        "title": "Devil in Disguise: John Wayne Gacy",
+        "tvdb_id": 446150,
+        "poster_url": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg"
+    },
+    {
         "title": "IT: Welcome to Derry",
         "tvdb_id": 418424,
         "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
@@ -8,11 +13,6 @@
         "title": "The Last Frontier",
         "tvdb_id": 431488,
         "poster_url": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg"
-    },
-    {
-        "title": "Mayor of Kingstown",
-        "tvdb_id": 386630,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg"
     },
     {
         "title": "Slow Horses",
