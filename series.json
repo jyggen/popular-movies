@@ -1,13 +1,8 @@
 [
     {
-        "title": "Death by Lightning",
-        "tvdb_id": 445592,
-        "poster_url": "https://image.tmdb.org/t/p/w500/KyUrz3GA1FML3XnKkY795XxDxN.jpg"
-    },
-    {
         "title": "Heweliusz",
         "tvdb_id": 456874,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/ue1WFzdWXlqR0uKOX2O2KNHjRtj.jpg"
     },
     {
         "title": "IT: Welcome to Derry",
@@ -23,6 +18,11 @@
         "title": "Pluribus",
         "tvdb_id": 436457,
         "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg"
+    },
+    {
+        "title": "Slow Horses",
+        "tvdb_id": 372264,
+        "poster_url": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
     },
     {
         "title": "The Witcher",
