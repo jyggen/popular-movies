@@ -25,14 +25,9 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2ixPMFWyKtQ9C4ROo9xA12ci2yU.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt1312221"
     },
     {
-        "title": "Good Fortune",
-        "imdb_id": "tt27543578",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F1%2F0%2F0%2F5%2F0%2F1%2F8%2F1005018-good-fortune-2025-0-2000-0-3000-crop.jpg%3Fv%3D929b7de207&w=2000&h=3000&fit=cover&output=jpg&filename=tt27543578"
-    },
-    {
-        "title": "The Long Walk",
-        "imdb_id": "tt10374610",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwobVTa99eW0ht6c1rNNzLkazPtR.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt10374610"
+        "title": "Now You See Me: Now You Don't",
+        "imdb_id": "tt4712810",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoD3Eey4e4Z259XLm3eD3WGcoJAh.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt4712810"
     },
     {
         "title": "One Battle After Another",
@@ -45,18 +40,23 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2NE7yN45zo19o4LJr6JFxDWmh2b.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt34962891"
     },
     {
+        "title": "Playdate",
+        "imdb_id": "tt31425731",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfGodXWqJkkkbSebPIlxLSygV8GY.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt31425731"
+    },
+    {
         "title": "Predator: Badlands",
         "imdb_id": "tt31227572",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmG8X56wfnG2Ai0zX279UVD7UXTD.jpg&w=916&h=1374&fit=cover&output=jpg&filename=tt31227572"
     },
     {
+        "title": "Roofman",
+        "imdb_id": "tt4627382",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt4627382"
+    },
+    {
         "title": "The Running Man",
         "imdb_id": "tt14107334",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt14107334"
-    },
-    {
-        "title": "Sentimental Value",
-        "imdb_id": "tt27714581",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fpz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg&w=2000&h=3000&fit=cover&output=jpg&filename=tt27714581"
     }
 ]
