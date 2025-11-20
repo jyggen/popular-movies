@@ -15,11 +15,6 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg&w=900&h=1350&fit=cover&output=jpg&filename=tt30472557"
     },
     {
-        "title": "Die My Love",
-        "imdb_id": "tt9362736",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiQKbyMTdj8NodLyvUG1nwfA2owL.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt9362736"
-    },
-    {
         "title": "Frankenstein",
         "imdb_id": "tt1312221",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2ixPMFWyKtQ9C4ROo9xA12ci2yU.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt1312221"
@@ -33,6 +28,11 @@
         "title": "One Battle After Another",
         "imdb_id": "tt30144839",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F9%2F5%2F1%2F2%2F7%2F7%2F951277-one-battle-after-another-0-2000-0-3000-crop.jpg%3Fv%3Dd27c4cc662&w=1400&h=2100&fit=cover&output=jpg&filename=tt30144839"
+    },
+    {
+        "title": "The Perfect Neighbor",
+        "imdb_id": "tt34962891",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2NE7yN45zo19o4LJr6JFxDWmh2b.jpg&w=1000&h=1500&fit=cover&output=jpg&filename=tt34962891"
     },
     {
         "title": "Playdate",

@@ -1,13 +1,13 @@
 [
     {
+        "title": "The Beast in Me",
+        "tvdb_id": 448245,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg"
+    },
+    {
         "title": "IT: Welcome to Derry",
         "tvdb_id": 418424,
         "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
-    },
-    {
-        "title": "Landman",
-        "tvdb_id": 397424,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg"
     },
     {
         "title": "Last Samurai Standing",
