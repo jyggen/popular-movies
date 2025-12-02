@@ -1,18 +1,18 @@
 [
     {
+        "title": "Heated Rivalry",
+        "tvdb_id": 464461,
+        "poster_url": "https://image.tmdb.org/t/p/w500/vG2YAAKxCpxXiFcPqZoYWNbUruR.jpg"
+    },
+    {
         "title": "IT: Welcome to Derry",
         "tvdb_id": 418424,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg"
     },
     {
         "title": "Landman",
         "tvdb_id": 397424,
         "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg"
-    },
-    {
-        "title": "Last Samurai Standing",
-        "tvdb_id": 449162,
-        "poster_url": "https://image.tmdb.org/t/p/w500/wKNEFlrs68rzweVzfwkjWmkJqu7.jpg"
     },
     {
         "title": "Pluribus",
