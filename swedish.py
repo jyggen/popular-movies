@@ -10,15 +10,16 @@ from bs4 import BeautifulSoup
 from tmdbv3api import Find, Movie, Search
 
 from _shared import (
+    _session,
     _sort_key,
     _calculate_scores,
     _get_poster_url,
 )
 
 _MAX_RESULTS = 3
-_find_api = Find()
-_movie_api = Movie()
-_search_api = Search()
+_find_api = Find(session=_session)
+_movie_api = Movie(session=_session)
+_search_api = Search(session=_session)
 
 
 def _filter_by_release_date(movie: Any) -> bool:
@@ -62,7 +63,7 @@ def _find_movie_by_imdb_id(imdb_id: str) -> dict | None:
 
 
 def _get_moviezine_movies() -> Iterator[str]:
-    response = requests.get("https://www.moviezine.se/biotoppen")
+    response = _session.get("https://www.moviezine.se/biotoppen")
     body = BeautifulSoup(response.content, features="html.parser")
 
     if "Biotoppen" not in body.select_one("h1").text:

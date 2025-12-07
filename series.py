@@ -11,13 +11,14 @@ from tmdbv3api import TV, Search
 
 from _shared import (
     _calculate_scores,
+    _session,
     _sort_key,
     _get_title_variants,
 )
 
 _MAX_RESULTS = 6
-_search_api = Search()
-_tv_api = TV()
+_search_api = Search(session=_session)
+_tv_api = TV(session=_session)
 
 
 def _best_match(
@@ -176,7 +177,7 @@ def _find_series_by_title_year_season(
 
 
 def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | None]]:
-    response = requests.get(
+    response = _session.get(
         "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
     )
     body = BeautifulSoup(response.content, features="html.parser")

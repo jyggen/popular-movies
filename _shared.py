@@ -13,6 +13,9 @@ _PUNCTUATIONS = re.compile(r"[^\w\s]")
 _SPECIAL_CHARS = re.compile(r"([&:\\/])+")
 _WORD_DELIMITERS = re.compile(r"(\s|\.|,|_|-|=|'|\|)+")
 
+_session = requests.Session()
+
+
 def _calculate_scores(items: list[dict]) -> list[dict]:
     items = list(copy.deepcopy(items))
 
@@ -38,7 +41,9 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                 wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
             ):
                 with attempt:
-                    response = requests.get(f"https://api.imdbapi.dev/titles/{item["imdb_id"]}")
+                    response = _session.get(
+                        f"https://api.imdbapi.dev/titles/{item["imdb_id"]}"
+                    )
 
                     if response.status_code == 404:
                         imdb_rating = 0
@@ -48,7 +53,7 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                     data = response.json()
 
                     try:
-                        imdb_rating = data["rating"]["aggregateRating"]*10
+                        imdb_rating = data["rating"]["aggregateRating"] * 10
                     except KeyError:
                         imdb_rating = 50
 
@@ -56,7 +61,6 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                         metacritic_rating = data["metacritic"]["score"]
                     except KeyError:
                         metacritic_rating = 50
-
 
         if max_value == min_value:
             item["score"] = (imdb_rating + metacritic_rating) / 2
@@ -66,10 +70,12 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
             if popularity > 0:
                 popularity = math.log10(popularity)
 
-            item["score"] = ((
-                (popularity - min_value) / (max_value - min_value) * 100
-            ) + imdb_rating + metacritic_rating) / 3
-            
+            item["score"] = (
+                ((popularity - min_value) / (max_value - min_value) * 100)
+                + imdb_rating
+                + metacritic_rating
+            ) / 3
+
     return items
 
 
@@ -100,7 +106,9 @@ def _sort_key(title: str) -> str:
 
 def _get_poster_url(imdb_id: str) -> str:
     while True:
-        response = requests.get(f"https://posters.metadb.info/imdb/{imdb_id}", allow_redirects=False)
+        response = _session.get(
+            f"https://posters.metadb.info/imdb/{imdb_id}", allow_redirects=False
+        )
 
         if response.status_code == 202 or response.status_code == 503:
             time.sleep(int(response.headers.get("Retry-After")))

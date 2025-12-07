@@ -6,19 +6,13 @@ This tool takes the 30 most popular movies right now from Rotten Tomates and ret
 
 ### Prerequisites
 
-- Python 3.10+
-- Poetry
-
-### Installation
-
-```bash
-poetry install
-```
+- Python 3.14+
+- uv
 
 ## Usage
 
 ```bash
-env TMDB_API_KEY=<tmdb key> poetry run python main.py
+env TMDB_API_KEY=<tmdb key> uv run python main.py
 ```
 
 ## License

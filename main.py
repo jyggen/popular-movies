@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from tmdbv3api import Movie, Search
 
 from _shared import (
+    _session,
     _sort_key,
     _calculate_scores,
     _get_year_variants,
@@ -18,8 +19,8 @@ from _shared import (
 )
 
 _MAX_RESULTS = 12
-_movie_api = Movie()
-_search_api = Search()
+_movie_api = Movie(session=_session)
+_search_api = Search(session=_session)
 
 
 def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
@@ -109,7 +110,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
 
 
 def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
-    response = requests.get(
+    response = _session.get(
         "https://editorial.rottentomatoes.com/guide/popular-movies/",
     )
     body = BeautifulSoup(response.content, features="html.parser")
