@@ -4,10 +4,10 @@ import os
 from datetime import date, timedelta
 from typing import Any, Optional, Iterator
 
-import requests
 import sentry_sdk
 from bs4 import BeautifulSoup
 from tmdbv3api import Movie, Search
+from tmdbv3api.as_obj import AsObj
 
 from _shared import (
     _session,
@@ -23,9 +23,28 @@ _movie_api = Movie(session=_session)
 _search_api = Search(session=_session)
 
 
-def _best_match(a: dict, b: Optional[dict], title: str, year: int) -> dict:
+def _best_match(
+    a: AsObj, b: Optional[AsObj], title: str, year: int, directors: set[str]
+) -> AsObj:
     if b is None:
         return a
+
+    a_directors = {
+        director["name"]
+        for director in a["credits"]["crew"]
+        if director["job"] == "Director"
+    }
+    b_directors = {
+        director["name"]
+        for director in b["credits"]["crew"]
+        if director["job"] == "Director"
+    }
+
+    if a_directors == directors and b_directors != directors:
+        return a
+
+    if a_directors != directors and b_directors == directors:
+        return b
 
     if a["title"] == title and b["title"] != title:
         return a
@@ -69,8 +88,11 @@ def _filter_by_release_date(movie: Any) -> bool:
     return diff <= timedelta(days=90)
 
 
-def _find_movie_by_title_year(title: str, year: int) -> dict | None:
+def _find_movie_by_title_year_directors(
+    title: str, year: int, directors: set[str]
+) -> dict | None:
     match = None
+    cache = {}
 
     for search_year in _get_year_variants(year):
         for search_query in _get_title_variants(title):
@@ -86,12 +108,16 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
                     continue
 
                 for option in results:
-                    match = _best_match(option, match, search_query, search_year)
+                    if option["id"] not in cache:
+                        cache[option["id"]] = _movie_api.details(
+                            option["id"], append_to_response="credits"
+                        )
+
+                    match = _best_match(
+                        cache[option["id"]], match, search_query, search_year, directors
+                    )
 
             if match:
-                match = dict(match)
-                match["imdb_id"] = _movie_api.external_ids(match["id"]).imdb_id
-
                 logging.info(
                     'Matched "{title}" ({year}) against "{imdb_id}".'.format(
                         imdb_id=match["imdb_id"],
@@ -100,7 +126,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
                     )
                 )
 
-                return match
+                return dict(match)
 
     logging.error(
         'Unable to find a match for "{title}" ({year}).'.format(title=title, year=year)
@@ -109,7 +135,7 @@ def _find_movie_by_title_year(title: str, year: int) -> dict | None:
     return None
 
 
-def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
+def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int, set[str]]]:
     response = _session.get(
         "https://editorial.rottentomatoes.com/guide/popular-movies/",
     )
@@ -118,15 +144,19 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int]]:
     if "30 Most Popular Movies Right Now" not in body.find("h1").text:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
-    for movie in body.select(".article_movie_title h2"):
-        title = movie.find("a").text
+    for movie in body.select(".countdown-item-content"):
+        title = movie.select_one(".article_movie_title h2 a").text
 
         if not title:
             continue
 
-        year = int(movie.find(class_="start-year").text[1:5])
+        year = int(movie.select_one(".article_movie_title .start-year").text[1:5])
+        directors = set(
+            director.text
+            for director in movie.select(".countdown-item-details .director a")
+        )
 
-        yield title, year
+        yield title, year, directors
 
 
 def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
@@ -144,8 +174,8 @@ def _generate() -> list[dict]:
     movies = filter(
         None,
         [
-            _find_movie_by_title_year(title, year)
-            for title, year in _get_rotten_tomatoes_movies()
+            _find_movie_by_title_year_directors(title, year, directors)
+            for title, year, directors in _get_rotten_tomatoes_movies()
         ],
     )
 
