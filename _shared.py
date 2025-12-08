@@ -32,14 +32,10 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
         return []
 
     max_value = max(items, key=lambda item: item["popularity"])["popularity"]
-
-    if max_value > 0:
-        max_value = math.log10(max_value)
+    max_value = math.log10(max(max_value, 1))
 
     min_value = min(items, key=lambda item: item["popularity"])["popularity"]
-
-    if min_value > 0:
-        min_value = math.log10(min_value)
+    min_value = math.log10(max(min_value, 1))
 
     for item in items:
         if item["imdb_id"] == "" or item["imdb_id"] is None:
@@ -55,7 +51,8 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                     )
 
                     if response.status_code == 404:
-                        imdb_rating = 0
+                        imdb_rating = 50
+                        metacritic_rating = 50
                         break
 
                     response.raise_for_status()
@@ -74,15 +71,13 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
         if max_value == min_value:
             item["score"] = (imdb_rating + metacritic_rating) / 2
         else:
-            popularity = item["popularity"]
-
-            if popularity > 0:
-                popularity = math.log10(popularity)
+            popularity = math.log10(max(item["popularity"], 1))
+            normalized_popularity = (
+                (popularity - min_value) / (max_value - min_value) * 100
+            )
 
             item["score"] = (
-                ((popularity - min_value) / (max_value - min_value) * 100)
-                + imdb_rating
-                + metacritic_rating
+                normalized_popularity + imdb_rating + metacritic_rating
             ) / 3
 
     return items
