@@ -16,6 +16,7 @@ from _shared import (
     _get_year_variants,
     _get_title_variants,
     _get_poster_url,
+    _normalize_string,
 )
 
 _MAX_RESULTS = 12
@@ -30,26 +31,41 @@ def _best_match(
         return a
 
     a_directors = {
-        director["name"]
+        _normalize_string(director["name"])
         for director in a["credits"]["crew"]
         if director["job"] == "Director"
     }
     b_directors = {
-        director["name"]
+        _normalize_string(director["name"])
         for director in b["credits"]["crew"]
         if director["job"] == "Director"
     }
 
-    if a_directors == directors and b_directors != directors:
+    a_director_overlap = len(a_directors & directors)
+    b_director_overlap = len(b_directors & directors)
+
+    if a_director_overlap > 0 and b_director_overlap == 0:
         return a
 
-    if a_directors != directors and b_directors == directors:
+    if a_director_overlap == 0 and b_director_overlap > 0:
         return b
 
-    if a["title"] == title and b["title"] != title:
+    if a_director_overlap > b_director_overlap:
         return a
 
-    if a["title"] != title and b["title"] == title:
+    if b_director_overlap > a_director_overlap:
+        return b
+
+    if (
+        _normalize_string(a["title"]) == title
+        and _normalize_string(b["title"]) != title
+    ):
+        return a
+
+    if (
+        _normalize_string(a["title"]) != title
+        and _normalize_string(b["title"]) == title
+    ):
         return b
 
     a_has_release_date = "release_date" in a and a["release_date"]
@@ -91,6 +107,7 @@ def _filter_by_release_date(movie: Any) -> bool:
 def _find_movie_by_title_year_directors(
     title: str, year: int, directors: set[str]
 ) -> dict | None:
+    directors = {_normalize_string(d) for d in directors}
     match = None
     cache = {}
 
@@ -114,7 +131,11 @@ def _find_movie_by_title_year_directors(
                         )
 
                     match = _best_match(
-                        cache[option["id"]], match, search_query, search_year, directors
+                        cache[option["id"]],
+                        match,
+                        _normalize_string(search_query),
+                        search_year,
+                        directors,
                     )
 
             if match:

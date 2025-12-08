@@ -14,6 +14,7 @@ from _shared import (
     _session,
     _sort_key,
     _get_title_variants,
+    _normalize_string,
 )
 
 _MAX_RESULTS = 6
@@ -32,10 +33,10 @@ def _best_match(
     if b is None:
         return a
 
-    if a["name"].lower() == title.lower() and b["name"].lower() != title.lower():
+    if _normalize_string(a["name"]) == title and _normalize_string(b["name"]) != title:
         return a
 
-    if a["name"].lower() != title.lower() and b["name"].lower() == title.lower():
+    if _normalize_string(a["name"]) != title and _normalize_string(b["name"]) == title:
         return b
 
     a_has_matching_season = next(
@@ -43,7 +44,7 @@ def _best_match(
             season
             for season in a["seasons"]
             if season["season_number"] == season_number
-            or season["name"] == season_name
+            or _normalize_string(season["name"]) == season_name
             or (
                 not season["season_number"]
                 and season["air_date"]
@@ -58,7 +59,7 @@ def _best_match(
             season
             for season in b["seasons"]
             if season["season_number"] == season_number
-            or season["name"] == season_name
+            or _normalize_string(season["name"]) == season_name
             or (
                 not season["season_number"]
                 and season["air_date"]
@@ -145,7 +146,12 @@ def _find_series_by_title_year_season(
             for option in results.results:
                 option = _tv_api.details(option["id"])
                 match = _best_match(
-                    option, match, search_query, year, season_name, season_number
+                    option,
+                    match,
+                    _normalize_string(search_query),
+                    year,
+                    _normalize_string(season_name),
+                    season_number,
                 )
 
         if match:

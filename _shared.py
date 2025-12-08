@@ -3,6 +3,7 @@ import math
 import re
 import requests
 import time
+import unicodedata
 from typing import Iterator
 from tenacity import Retrying, stop_after_attempt, wait_fixed, wait_random
 
@@ -14,6 +15,14 @@ _SPECIAL_CHARS = re.compile(r"([&:\\/])+")
 _WORD_DELIMITERS = re.compile(r"(\s|\.|,|_|-|=|'|\|)+")
 
 _session = requests.Session()
+
+
+def _normalize_string(text: str) -> str:
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(char for char in text if unicodedata.category(char) != "Mn")
+    text = text.lower()
+    text = re.sub(r"[^\w]", "", text)
+    return text
 
 
 def _calculate_scores(items: list[dict]) -> list[dict]:
