@@ -7,7 +7,7 @@
     {
         "title": "IT: Welcome to Derry",
         "tvdb_id": 418424,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
     },
     {
         "title": "Landman",
@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg"
     },
     {
+        "title": "Spartacus: House of Ashur",
+        "tvdb_id": 465189,
+        "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg"
+    },
+    {
         "title": "Stranger Things",
         "tvdb_id": 305288,
         "poster_url": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg"
-    },
-    {
-        "title": "The Witcher",
-        "tvdb_id": 362696,
-        "poster_url": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg"
     }
 ]
