@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg"
     },
     {
-        "title": "HIS & HERS",
-        "tvdb_id": 452521,
-        "poster_url": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg"
-    },
-    {
         "title": "Landman",
         "tvdb_id": 397424,
         "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg"
+    },
+    {
+        "title": "The Night Manager",
+        "tvdb_id": 290508,
+        "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg"
     },
     {
         "title": "The Pitt",
