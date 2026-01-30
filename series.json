@@ -10,11 +10,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg"
     },
     {
-        "title": "Landman",
-        "tvdb_id": 397424,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg"
-    },
-    {
         "title": "The Pendragon Cycle: Rise of the Merlin",
         "tvdb_id": 463624,
         "poster_url": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg"
@@ -28,5 +23,10 @@
         "title": "Stranger Things",
         "tvdb_id": 305288,
         "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
+    },
+    {
+        "title": "Wonder Man",
+        "tvdb_id": 428629,
+        "poster_url": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg"
     }
 ]
