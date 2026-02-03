@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg"
+    },
+    {
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg"
@@ -7,12 +12,7 @@
     {
         "title": "A Knight of the Seven Kingdoms",
         "tvdb_id": 433631,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg"
-    },
-    {
-        "title": "The Pendragon Cycle: Rise of the Merlin",
-        "tvdb_id": 463624,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6SxD7nXFQAG5dfRWdnQSREhjcXs.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg"
     },
     {
         "title": "The Pitt",
