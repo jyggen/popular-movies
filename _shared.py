@@ -1,3 +1,4 @@
+import contextlib
 import copy
 import math
 import re
@@ -38,10 +39,10 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     min_value = math.log10(max(min_value, 1))
 
     for item in items:
-        if item["imdb_id"] == "" or item["imdb_id"] is None:
-            imdb_rating = 50
-            metacritic_rating = 50
-        else:
+        imdb_rating = 50
+        metacritic_rating = 50
+
+        if item["imdb_id"] != "" and item["imdb_id"] is not None:
             for attempt in Retrying(
                 wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
             ):
@@ -51,22 +52,16 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
                     )
 
                     if response.status_code == 404:
-                        imdb_rating = 50
-                        metacritic_rating = 50
                         break
 
                     response.raise_for_status()
                     data = response.json()
 
-                    try:
+                    with contextlib.suppress(KeyError, TypeError):
                         imdb_rating = data["rating"]["aggregateRating"] * 10
-                    except KeyError:
-                        imdb_rating = 50
 
-                    try:
+                    with contextlib.suppress(KeyError, TypeError):
                         metacritic_rating = data["metacritic"]["score"]
-                    except KeyError:
-                        metacritic_rating = 50
 
         if max_value == min_value:
             item["score"] = (imdb_rating + metacritic_rating) / 2
