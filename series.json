@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg"
     },
     {
+        "title": "The Lincoln Lawyer",
+        "tvdb_id": 399909,
+        "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg"
+    },
+    {
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
@@ -23,10 +28,5 @@
         "title": "Stranger Things",
         "tvdb_id": 305288,
         "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
-    },
-    {
-        "title": "Wonder Man",
-        "tvdb_id": 428629,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg"
     }
 ]
