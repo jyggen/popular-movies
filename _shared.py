@@ -106,7 +106,7 @@ def _sort_key(title: str) -> str:
 def _get_poster_url(imdb_id: str) -> str:
     while True:
         response = _session.get(
-            f"https://posters.metadb.info/imdb/{imdb_id}", allow_redirects=False
+            f"https://posters.metadb.info/imdb/{imdb_id}?width=500", allow_redirects=False
         )
 
         if response.status_code == 202 or response.status_code == 503:
