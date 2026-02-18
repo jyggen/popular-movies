@@ -1,13 +1,13 @@
 [
     {
-        "title": "Bridgerton",
-        "tvdb_id": 366668,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg"
-    },
-    {
         "title": "Fallout",
         "tvdb_id": 416744,
         "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg"
+    },
+    {
+        "title": "Heated Rivalry",
+        "tvdb_id": 464461,
+        "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg"
     },
     {
         "title": "A Knight of the Seven Kingdoms",
