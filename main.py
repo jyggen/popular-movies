@@ -165,16 +165,16 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int, set[str]]]:
     if "30 Most Popular Movies Right Now" not in body.find("h1").text:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
-    for movie in body.select(".countdown-item-content"):
-        title = movie.select_one(".article_movie_title h2 a").text
+    for movie in body.select(".block-countdown"):
+        title = movie.select_one(".meta-title-wrapper a").text
 
         if not title:
             continue
 
-        year = int(movie.select_one(".article_movie_title .start-year").text[1:5])
+        year = int(movie.select_one(".meta-title-wrapper span").text[1:5])
         directors = set(
             director.text
-            for director in movie.select(".countdown-item-details .director a")
+            for director in movie.select(".meta-detail:last-child a")
         )
 
         yield title, year, directors

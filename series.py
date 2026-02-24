@@ -191,8 +191,8 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
     if "25 Most Popular TV Shows Right Now" not in body.find("h1").text:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
-    for movie in body.select(".article_movie_title h2"):
-        title = movie.find("a").text
+    for movie in body.select(".block-countdown .meta-title"):
+        title = movie.text
 
         if not title:
             continue
