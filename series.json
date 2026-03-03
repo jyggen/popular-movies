@@ -1,13 +1,8 @@
 [
     {
-        "title": "56 Days",
-        "tvdb_id": 443312,
-        "poster_url": "https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg"
-    },
-    {
-        "title": "Fallout",
-        "tvdb_id": 416744,
-        "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg"
+        "title": "Bridgerton",
+        "tvdb_id": 366668,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg"
     },
     {
         "title": "A Knight of the Seven Kingdoms",
@@ -15,9 +10,9 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
     },
     {
-        "title": "The Night Agent",
-        "tvdb_id": 407281,
-        "poster_url": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
+        "title": "Monarch: Legacy of Monsters",
+        "tvdb_id": 422598,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
     },
     {
         "title": "Paradise",
@@ -28,5 +23,10 @@
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+    },
+    {
+        "title": "Scrubs",
+        "tvdb_id": 465690,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
     }
 ]
