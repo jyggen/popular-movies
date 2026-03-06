@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
     },
     {
+        "title": "Paradise",
+        "tvdb_id": 454565,
+        "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg"
+    },
+    {
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
-    },
-    {
-        "title": "Scrubs",
-        "tvdb_id": 465690,
-        "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
     }
 ]
