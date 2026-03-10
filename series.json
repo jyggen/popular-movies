@@ -15,18 +15,18 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
     },
     {
-        "title": "Monarch: Legacy of Monsters",
-        "tvdb_id": 422598,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
-    },
-    {
-        "title": "Paradise",
-        "tvdb_id": 454565,
-        "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg"
-    },
-    {
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+    },
+    {
+        "title": "ted",
+        "tvdb_id": 404604,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+    },
+    {
+        "title": "Young Sherlock",
+        "tvdb_id": 450633,
+        "poster_url": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg"
     }
 ]
