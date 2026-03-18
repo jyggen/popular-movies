@@ -1,13 +1,13 @@
 [
     {
-        "title": "Bridgerton",
-        "tvdb_id": 366668,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg"
-    },
-    {
         "title": "A Knight of the Seven Kingdoms",
         "tvdb_id": 433631,
         "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
+    },
+    {
+        "title": "ONE PIECE",
+        "tvdb_id": 392276,
+        "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg"
     },
     {
         "title": "Paradise",
