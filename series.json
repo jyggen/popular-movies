@@ -1,13 +1,13 @@
 [
     {
-        "title": "Dark Winds",
-        "tvdb_id": 406179,
-        "poster_url": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg"
-    },
-    {
         "title": "A Knight of the Seven Kingdoms",
         "tvdb_id": 433631,
         "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
+    },
+    {
+        "title": "The Madison",
+        "tvdb_id": 441735,
+        "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg"
     },
     {
         "title": "Monarch: Legacy of Monsters",
