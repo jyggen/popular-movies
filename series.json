@@ -1,23 +1,18 @@
 [
     {
+        "title": "Bloodhounds",
+        "tvdb_id": 404093,
+        "poster_url": "https://image.tmdb.org/t/p/w500/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg"
+    },
+    {
         "title": "Daredevil: Born Again",
         "tvdb_id": 422712,
         "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
     },
     {
-        "title": "For All Mankind",
-        "tvdb_id": 356202,
-        "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-    },
-    {
         "title": "Invincible",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
-    },
-    {
-        "title": "Monarch: Legacy of Monsters",
-        "tvdb_id": 422598,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
     },
     {
         "title": "ONE PIECE",
@@ -28,5 +23,10 @@
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+    },
+    {
+        "title": "XO, Kitty",
+        "tvdb_id": 412285,
+        "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
     }
 ]
