@@ -173,8 +173,7 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int, set[str]]]:
 
         year = int(movie.select_one(".meta-title-wrapper span").text[1:5])
         directors = set(
-            director.text
-            for director in movie.select(".meta-detail:last-child a")
+            director.text for director in movie.select(".meta-detail:last-child a")
         )
 
         yield title, year, directors

@@ -29,9 +29,22 @@ def _best_match(
     year: int | None,
     season_name: str,
     season_number: int | None,
+    cast: set[str],
 ) -> dict:
     if b is None:
         return a
+
+    a_cast = {_normalize_string(member["name"]) for member in a["credits"]["cast"]}
+    b_cast = {_normalize_string(member["name"]) for member in b["credits"]["cast"]}
+
+    a_cast_overlap = len(a_cast & cast)
+    b_cast_overlap = len(b_cast & cast)
+
+    if a_cast_overlap > b_cast_overlap:
+        return a
+
+    if b_cast_overlap > a_cast_overlap:
+        return b
 
     if _normalize_string(a["name"]) == title and _normalize_string(b["name"]) != title:
         return a
@@ -132,8 +145,13 @@ def _remove_duplicates(series: list[dict]) -> list[dict]:
 
 
 def _find_series_by_title_year_season(
-    title: str, year: int | None, season_name: str, season_number: int | None
+    title: str,
+    year: int | None,
+    season_name: str,
+    season_number: int | None,
+    cast: set[str],
 ) -> dict | None:
+    cast = {_normalize_string(c) for c in cast}
     match = None
 
     for search_query in _get_title_variants(title):
@@ -152,6 +170,7 @@ def _find_series_by_title_year_season(
                     year,
                     _normalize_string(season_name),
                     season_number,
+                    cast,
                 )
 
         if match:
@@ -182,7 +201,9 @@ def _find_series_by_title_year_season(
     return None
 
 
-def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | None]]:
+def _get_rotten_tomatoes_series() -> (
+    Iterator[tuple[str, int | None, str, int | None, set[str]]]
+):
     response = _session.get(
         "https://editorial.rottentomatoes.com/guide/popular-tv-shows/",
     )
@@ -191,8 +212,8 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
     if "25 Most Popular TV Shows Right Now" not in body.find("h1").text:
         raise ValueError("Unable to parse Rotten Tomatoes response.")
 
-    for movie in body.select(".block-countdown .meta-title"):
-        title = movie.text
+    for item in body.select(".block-countdown"):
+        title = item.select_one(".meta-title").text
 
         if not title:
             continue
@@ -205,7 +226,9 @@ def _get_rotten_tomatoes_series() -> Iterator[tuple[str, int | None, str, int | 
         if season_name.startswith("Season "):
             season = int(season_name[7:])
 
-        yield title, None, season_name, season
+        cast = set(actor.text for actor in item.select(".meta-detail:last-child a"))
+
+        yield title, None, season_name, season, cast
 
 
 def _to_steven_lu_format(series: list[dict]) -> [dict]:
@@ -221,8 +244,10 @@ def _generate() -> list[dict]:
     series = filter(
         None,
         [
-            _find_series_by_title_year_season(title, year, season_text, season_number)
-            for title, year, season_text, season_number in _get_rotten_tomatoes_series()
+            _find_series_by_title_year_season(
+                title, year, season_text, season_number, cast
+            )
+            for title, year, season_text, season_number, cast in _get_rotten_tomatoes_series()
         ],
     )
 
