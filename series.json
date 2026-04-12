@@ -20,13 +20,13 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
     },
     {
+        "title": "ONE PIECE",
+        "tvdb_id": 392276,
+        "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg"
+    },
+    {
         "title": "The Pitt",
         "tvdb_id": 448176,
         "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
-    },
-    {
-        "title": "XO, Kitty",
-        "tvdb_id": 412285,
-        "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
     }
 ]
