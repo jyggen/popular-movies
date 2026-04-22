@@ -1,13 +1,13 @@
 [
     {
-        "title": "Bloodhounds",
-        "tvdb_id": 404093,
-        "poster_url": "https://image.tmdb.org/t/p/w500/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg"
-    },
-    {
         "title": "The Boys",
         "tvdb_id": 355567,
         "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+    },
+    {
+        "title": "Daredevil: Born Again",
+        "tvdb_id": 422712,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
     },
     {
         "title": "Euphoria",
