@@ -15,11 +15,6 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyPV87cvDabRMTZs6NIbZLOufBLR.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019d5b066b0e78afaa004e77a4063097"
     },
     {
-        "title": "Good Luck, Have Fun, Don't Die",
-        "imdb_id": "tt1341338",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrWcfOdY7TU6lTdazWj0ebDZnAfO.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019c63d19f6d7efbaa13d70720354c24"
-    },
-    {
         "title": "Hoppers",
         "imdb_id": "tt26443616",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F1%2F2%2F0%2F7%2F5%2F5%2F7%2F1207557-hoppers-0-2000-0-3000-crop.jpg%3Fv%3D7711e7b5a7&w=500&h=750&fit=cover&output=jpg&q=90&filename=019c5b3bdea2733eb6962afbff2b9f4e"
@@ -28,6 +23,11 @@
         "title": "Lee Cronin's The Mummy",
         "imdb_id": "tt32612507",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlTQoEczVEnkuxHFEGgWYfJB98tL.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019d93b2154f701da6153179de7e8a8a"
+    },
+    {
+        "title": "Michael",
+        "imdb_id": "tt11378946",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019dbce4f93d7ca49c5677cb90341288"
     },
     {
         "title": "Project Hail Mary",
