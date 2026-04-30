@@ -15,6 +15,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
     },
     {
+        "title": "For All Mankind",
+        "tvdb_id": 356202,
+        "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+    },
+    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
@@ -23,10 +28,5 @@
         "title": "INVINCIBLE",
         "tvdb_id": 368207,
         "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
-    },
-    {
-        "title": "Star Wars: Maul - Shadow Lord",
-        "tvdb_id": 462715,
-        "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg"
     }
 ]
