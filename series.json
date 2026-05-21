@@ -10,14 +10,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
     },
     {
+        "title": "Dutton Ranch",
+        "tvdb_id": 463308,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+    },
+    {
         "title": "Euphoria",
         "tvdb_id": 360261,
         "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-    },
-    {
-        "title": "For All Mankind",
-        "tvdb_id": 356202,
-        "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
     },
     {
         "title": "FROM",
@@ -25,8 +25,8 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
     },
     {
-        "title": "INVINCIBLE",
-        "tvdb_id": 368207,
-        "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
+        "title": "Off Campus",
+        "tvdb_id": 455086,
+        "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     }
 ]
