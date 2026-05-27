@@ -5,11 +5,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
     },
     {
-        "title": "Daredevil: Born Again",
-        "tvdb_id": 422712,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-    },
-    {
         "title": "Dutton Ranch",
         "tvdb_id": 463308,
         "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
@@ -28,5 +23,10 @@
         "title": "Off Campus",
         "tvdb_id": 455086,
         "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
+    },
+    {
+        "title": "The WONDERfools",
+        "tvdb_id": 439546,
+        "poster_url": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg"
     }
 ]
