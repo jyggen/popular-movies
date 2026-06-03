@@ -12,7 +12,12 @@
     {
         "title": "Euphoria",
         "tvdb_id": 360261,
-        "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+        "poster_url": "https://image.tmdb.org/t/p/w500/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg"
+    },
+    {
+        "title": "For All Mankind",
+        "tvdb_id": 356202,
+        "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
     },
     {
         "title": "FROM",
@@ -23,10 +28,5 @@
         "title": "Off Campus",
         "tvdb_id": 455086,
         "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
-    },
-    {
-        "title": "Spider-Noir",
-        "tvdb_id": 450033,
-        "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
     }
 ]
