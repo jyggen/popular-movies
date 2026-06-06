@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
     },
     {
-        "title": "For All Mankind",
-        "tvdb_id": 356202,
-        "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
@@ -28,5 +23,10 @@
         "title": "Off Campus",
         "tvdb_id": 455086,
         "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
+    },
+    {
+        "title": "Widow's Bay",
+        "tvdb_id": 454109,
+        "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
     }
 ]
