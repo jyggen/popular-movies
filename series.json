@@ -1,18 +1,8 @@
 [
     {
-        "title": "The Boys",
-        "tvdb_id": 355567,
-        "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-    },
-    {
         "title": "Dutton Ranch",
         "tvdb_id": 463308,
         "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
-    },
-    {
-        "title": "Euphoria",
-        "tvdb_id": 360261,
-        "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
     },
     {
         "title": "FROM",
@@ -20,13 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
     },
     {
+        "title": "House of the Dragon",
+        "tvdb_id": 371572,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
+    },
+    {
+        "title": "I Will Find You",
+        "tvdb_id": 457173,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
+    },
+    {
         "title": "Off Campus",
         "tvdb_id": 455086,
         "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
-        "title": "Widow's Bay",
-        "tvdb_id": 454109,
-        "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+        "title": "Teach You a Lesson",
+        "tvdb_id": 464356,
+        "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
     }
 ]
