@@ -5,6 +5,11 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
     },
     {
+        "title": "Euphoria",
+        "tvdb_id": 360261,
+        "poster_url": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
+    },
+    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
@@ -13,11 +18,6 @@
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
-    },
-    {
-        "title": "I Will Find You",
-        "tvdb_id": 457173,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
     },
     {
         "title": "Off Campus",
