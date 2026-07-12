@@ -1,4 +1,3 @@
-import contextlib
 import copy
 import math
 import re
@@ -6,7 +5,6 @@ import requests
 import time
 import unicodedata
 from typing import Iterator
-from tenacity import Retrying, stop_after_attempt, wait_fixed, wait_random
 
 _COMMON_WORDS = re.compile(r"\b(a|an|the|and|or|of)\b\s?", flags=re.IGNORECASE)
 _DUPLICATE_SPACES = re.compile(r"\s{2,}")
@@ -39,41 +37,17 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     min_value = math.log10(max(min_value, 1))
 
     for item in items:
-        imdb_rating = 50
-        metacritic_rating = 50
-
-        if item["imdb_id"] != "" and item["imdb_id"] is not None:
-            for attempt in Retrying(
-                wait=wait_fixed(3) + wait_random(0, 2), stop=stop_after_attempt(3)
-            ):
-                with attempt:
-                    response = _session.get(
-                        f"https://api.imdbapi.dev/titles/{item["imdb_id"]}"
-                    )
-
-                    if response.status_code == 404:
-                        break
-
-                    response.raise_for_status()
-                    data = response.json()
-
-                    with contextlib.suppress(KeyError, TypeError):
-                        imdb_rating = data["rating"]["aggregateRating"] * 10
-
-                    with contextlib.suppress(KeyError, TypeError):
-                        metacritic_rating = data["metacritic"]["score"]
+        rating_score = (item.get("vote_average") or 0) * 10
 
         if max_value == min_value:
-            item["score"] = (imdb_rating + metacritic_rating) / 2
+            item["score"] = rating_score
         else:
             popularity = math.log10(max(item["popularity"], 1))
             normalized_popularity = (
                 (popularity - min_value) / (max_value - min_value) * 100
             )
 
-            item["score"] = (
-                normalized_popularity + imdb_rating + metacritic_rating
-            ) / 3
+            item["score"] = (normalized_popularity + rating_score) / 2
 
     return items
 
