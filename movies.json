@@ -25,6 +25,11 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019dbce4f93d7ca49c5677cb90341288"
     },
     {
+        "title": "Minions & Monsters",
+        "imdb_id": "tt32890033",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsO3O1szSYuXLwtkobU5TExQ6Wfa.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f204565887ebc8859e99a683e2956"
+    },
+    {
         "title": "Moana",
         "imdb_id": "tt27419466",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019d391c97827c8396ac5403824d1117"
@@ -43,11 +48,6 @@
         "title": "Passenger",
         "imdb_id": "tt33763941",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019ee9c0bcae7721a5566df91a137171"
-    },
-    {
-        "title": "The Sheep Detectives",
-        "imdb_id": "tt32565993",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhTirV44jiLh6NqdiB6jtxPsDIoG.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019e0a2868f076a287406be0b4ad43aa"
     },
     {
         "title": "Supergirl",
