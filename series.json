@@ -1,13 +1,8 @@
 [
     {
-        "title": "Avatar: The Last Airbender",
-        "tvdb_id": 385925,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
-    },
-    {
-        "title": "Dutton Ranch",
-        "tvdb_id": 463308,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+        "title": "The Bear",
+        "tvdb_id": 403294,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
     },
     {
         "title": "FROM",
@@ -18,6 +13,11 @@
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
+    },
+    {
+        "title": "I Will Find You",
+        "tvdb_id": 457173,
+        "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
     },
     {
         "title": "Lucky",
