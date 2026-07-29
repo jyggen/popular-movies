@@ -1,18 +1,13 @@
 [
     {
+        "title": "Avatar Aang: The Last Airbender",
+        "imdb_id": "tt18259538",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f5ab53556713dacf65fb5c0091918"
+    },
+    {
         "title": "Backrooms",
         "imdb_id": "tt26657236",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5jk9d9Hx5TbHhrewfZdubmkLSKj.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019e712ee2837de889ead55b41818f74"
-    },
-    {
-        "title": "Descendants: Wicked Wonderland",
-        "imdb_id": "tt34477910",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxdhLAADGSse8KCrsDLBuM5b68Cg.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f7a2b766773f5a1c095bd9d4acb10"
-    },
-    {
-        "title": "Desire",
-        "imdb_id": "tt41617470",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f74f340b37aaf95da8878ae134e86"
     },
     {
         "title": "Disclosure Day",
@@ -20,9 +15,14 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAnJ8IQJI23hNpYXVNaythu061Ru.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019eb42303f37e94a024f223dece72b7"
     },
     {
-        "title": "The Furious",
-        "imdb_id": "tt33311069",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzP19YO60jwEsfKd5Qf1UvA5uJu8.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019ea9d23ee57919af6cb350844e0ab4"
+        "title": "The Mandalorian and Grogu",
+        "imdb_id": "tt30825738",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019b712fec2573898613ebaf96fd2861"
+    },
+    {
+        "title": "Masters of the Universe",
+        "imdb_id": "tt0427340",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F3%2F8%2F6%2F6%2F1%2F3%2F386613-masters-of-the-universe-2026-0-2000-0-3000-crop.jpg%3Fv%3D8340b3dfbe&w=500&h=750&fit=cover&output=jpg&q=90&filename=019e953c03297ae4a0cb9143c102e693"
     },
     {
         "title": "Minions & Monsters",

@@ -1,8 +1,8 @@
 [
     {
-        "title": "The Bear",
-        "tvdb_id": 403294,
-        "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+        "title": "Avatar: The Last Airbender",
+        "tvdb_id": 385925,
+        "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
     },
     {
         "title": "FROM",
@@ -15,14 +15,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
     },
     {
-        "title": "I Will Find You",
-        "tvdb_id": 457173,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
-    },
-    {
         "title": "Lucky",
         "tvdb_id": 457437,
         "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
+    },
+    {
+        "title": "A Shop for Killers",
+        "tvdb_id": 426952,
+        "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
     },
     {
         "title": "Silo",
