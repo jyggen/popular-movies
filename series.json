@@ -1,10 +1,5 @@
 [
     {
-        "title": "Avatar: The Last Airbender",
-        "tvdb_id": 385925,
-        "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
-    },
-    {
         "title": "FROM",
         "tvdb_id": 401003,
         "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
@@ -15,18 +10,23 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
     },
     {
-        "title": "Lucky",
-        "tvdb_id": 457437,
-        "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
-    },
-    {
-        "title": "A Shop for Killers",
-        "tvdb_id": 426952,
-        "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
+        "title": "Lioness",
+        "tvdb_id": 388589,
+        "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg"
     },
     {
         "title": "Silo",
         "tvdb_id": 403245,
         "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg"
+    },
+    {
+        "title": "Stuart Fails to Save the Universe",
+        "tvdb_id": 465664,
+        "poster_url": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
+    },
+    {
+        "title": "Ted Lasso",
+        "tvdb_id": 383203,
+        "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     }
 ]
