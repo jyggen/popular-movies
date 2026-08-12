@@ -1,10 +1,5 @@
 [
     {
-        "title": "FROM",
-        "tvdb_id": 401003,
-        "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
-    },
-    {
         "title": "House of the Dragon",
         "tvdb_id": 371572,
         "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"
@@ -13,6 +8,11 @@
         "title": "Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg"
+    },
+    {
+        "title": "My Life with the Walter Boys",
+        "tvdb_id": 405817,
+        "poster_url": "https://image.tmdb.org/t/p/w500/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg"
     },
     {
         "title": "Silo",
