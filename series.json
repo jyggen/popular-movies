@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Gentlemen",
+        "tvdb_id": 426845,
+        "poster_url": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
+    },
+    {
         "title": "Lanterns",
         "tvdb_id": 376098,
         "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg"
@@ -8,11 +13,6 @@
         "title": "Lioness",
         "tvdb_id": 388589,
         "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg"
-    },
-    {
-        "title": "Outer Banks",
-        "tvdb_id": 379169,
-        "poster_url": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
     },
     {
         "title": "Reacher",
