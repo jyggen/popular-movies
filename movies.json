@@ -15,6 +15,11 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fp73G56bJGPa5y52cyqWscHR6NnN.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019fb1803e2174b9ad2b9b39cdbc9d40"
     },
     {
+        "title": "The Fix",
+        "imdb_id": "tt9601292",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyopXjun3ICFfJci2ukcEzceZjUs.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f913aef407dc18a8bb8fb9f4f3849"
+    },
+    {
         "title": "Hope",
         "imdb_id": "tt27369017",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbcK5naYzzfY0JBCgrPrsrbV6NO1.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019fc11027817c5bad4a808a8da26713"
@@ -48,11 +53,6 @@
         "title": "Spider-Man: Brand New Day",
         "imdb_id": "tt22084616",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6Q21yptoOCUq4ErwVncesLPVplb.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019e31b629917c38b4754e5f92e85ca6"
-    },
-    {
-        "title": "Supergirl",
-        "imdb_id": "tt8814476",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FniSvU02l2BONH9ivubV6K1a5QiK.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019b714416c87eabad5c3f1ca26e9656"
     },
     {
         "title": "The Whisper Man",
