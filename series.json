@@ -15,11 +15,6 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
     },
     {
-        "title": "Neagley",
-        "tvdb_id": 455064,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg"
-    },
-    {
         "title": "Reacher",
         "tvdb_id": 366924,
         "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg"
@@ -28,5 +23,10 @@
         "title": "Silo",
         "tvdb_id": 403245,
         "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg"
+    },
+    {
+        "title": "Slow Horses",
+        "tvdb_id": 372264,
+        "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg"
     }
 ]
