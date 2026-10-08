@@ -5,14 +5,14 @@
         "poster_url": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg"
     },
     {
+        "title": "Carrie",
+        "tvdb_id": 455755,
+        "poster_url": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg"
+    },
+    {
         "title": "East of Eden",
         "tvdb_id": 430034,
         "poster_url": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg"
-    },
-    {
-        "title": "The Gentlemen",
-        "tvdb_id": 426845,
-        "poster_url": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
     },
     {
         "title": "Lanterns",
