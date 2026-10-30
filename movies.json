@@ -15,14 +15,9 @@
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fy8chUhe1H104AxPHr5IuD7Cfppu.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019db6c755ab7b20a5aafb2b54a1fd68"
     },
     {
-        "title": "Digger",
-        "imdb_id": "tt31450459",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5Ur2RJidoTBMhEZxPkurFBdmSNP.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f67757e1f78dfbd803d065e1be961"
-    },
-    {
-        "title": "Heart of the Beast",
-        "imdb_id": "tt7526136",
-        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1ApfSA8JTqeha3GTFEY8syV4auq.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019f5ac277147998b285071ee132ee4d"
+        "title": "The Cycle",
+        "imdb_id": "tt32358390",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fn5gSNf55KWfDc9hqP4H1KCCSutE.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=01a149c7088073eebfec6dd4225282b0"
     },
     {
         "title": "Masterplan",
@@ -48,6 +43,11 @@
         "title": "Verity",
         "imdb_id": "tt32261958",
         "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F97y0RdzRIeZ2j6se98hRQpxz3eR.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=01a0c99286417c7c85014e6be4fc5967"
+    },
+    {
+        "title": "Wicker",
+        "imdb_id": "tt29611136",
+        "poster_url": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeOYkNDalgt1v6UGjw3AoFR5qo9D.jpg&w=500&h=750&fit=cover&output=jpg&q=90&filename=019fb2d8882e71ecbe04db48d1589e40"
     },
     {
         "title": "Wildwood",

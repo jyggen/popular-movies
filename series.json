@@ -1,18 +1,13 @@
 [
     {
-        "title": "Avatar: Seven Havens",
-        "tvdb_id": 460458,
-        "poster_url": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
-    },
-    {
-        "title": "Carrie",
-        "tvdb_id": 455755,
-        "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
-    },
-    {
         "title": "Crystal Lake",
         "tvdb_id": 426669,
         "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
+    },
+    {
+        "title": "Lupin",
+        "tvdb_id": 375921,
+        "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
     },
     {
         "title": "MobLand",
@@ -23,6 +18,11 @@
         "title": "Slow Horses",
         "tvdb_id": 372264,
         "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg"
+    },
+    {
+        "title": "The Terminal List",
+        "tvdb_id": 399917,
+        "poster_url": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
     },
     {
         "title": "VisionQuest",
