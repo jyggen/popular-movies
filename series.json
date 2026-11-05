@@ -1,13 +1,13 @@
 [
     {
-        "title": "Crystal Lake",
-        "tvdb_id": 426669,
-        "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
         "title": "Dexter: Resurrection",
         "tvdb_id": 452595,
         "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
+    },
+    {
+        "title": "Lupin",
+        "tvdb_id": 375921,
+        "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
     },
     {
         "title": "MobLand",
