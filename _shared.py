@@ -1,5 +1,6 @@
 import copy
 import math
+import os
 import re
 import requests
 import time
@@ -30,24 +31,38 @@ def _calculate_scores(items: list[dict]) -> list[dict]:
     if not items:
         return []
 
-    max_value = max(items, key=lambda item: item["popularity"])["popularity"]
-    max_value = math.log10(max(max_value, 1))
-
-    min_value = min(items, key=lambda item: item["popularity"])["popularity"]
-    min_value = math.log10(max(min_value, 1))
-
     for item in items:
-        rating_score = (item.get("vote_average") or 0) * 10
+        response = _session.get(
+            f"https://{os.environ["LETTERBOXD_HOSTNAME"]}/film/tmdb:{item["id"]}",
+            headers={
+                "Authorization": f"Bearer {os.environ["LETTERBOXD_API_KEY"]}",
+            },
+        )
 
-        if max_value == min_value:
-            item["score"] = rating_score
-        else:
-            popularity = math.log10(max(item["popularity"], 1))
-            normalized_popularity = (
-                (popularity - min_value) / (max_value - min_value) * 100
-            )
+        response.raise_for_status()
 
-            item["score"] = (normalized_popularity + rating_score) / 2
+        film = response.json()
+
+        response = _session.get(
+            f"https://{os.environ["LETTERBOXD_HOSTNAME"]}/film/{film["id"]}/statistics",
+            headers={
+                "Authorization": f"Bearer {os.environ["LETTERBOXD_API_KEY"]}",
+            },
+        )
+
+        response.raise_for_status()
+
+        statistics = response.json()
+
+        letterboxd_weight = math.sqrt(statistics["counts"]["ratings"])
+        tmdb_weight = math.sqrt(item["vote_count"])
+        total_weight = letterboxd_weight + tmdb_weight
+
+        item["score"] = (
+            (statistics["rating"] * letterboxd_weight + (item["vote_average"] / 2) * tmdb_weight) / total_weight
+            if total_weight
+            else 0
+        )
 
     return items
 

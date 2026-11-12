@@ -6,7 +6,7 @@ from typing import Any, Optional, Iterator
 
 import sentry_sdk
 from bs4 import BeautifulSoup
-from tmdbv3api import Movie, Search
+from tmdbv3api import Movie, Search, Trending
 from tmdbv3api.as_obj import AsObj
 
 from _shared import (
@@ -19,9 +19,10 @@ from _shared import (
     _normalize_string,
 )
 
-_MAX_RESULTS = 12
+_MAX_RESULTS = 15
 _movie_api = Movie(session=_session)
 _search_api = Search(session=_session)
+_trending_api = Trending(session=_session)
 
 
 def _best_match(
@@ -101,7 +102,7 @@ def _filter_by_release_date(movie: Any) -> bool:
 
     diff = date.today() - release_date
 
-    return diff <= timedelta(days=90)
+    return diff <= timedelta(days=120)
 
 
 def _find_movie_by_title_year_directors(
@@ -156,10 +157,27 @@ def _find_movie_by_title_year_directors(
     return None
 
 
-def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int, set[str]]]:
+def _get_letterboxd_movies() -> Iterator[dict]:
+    response = _session.get(
+        f"https://{os.environ["LETTERBOXD_HOSTNAME"]}/films?sort=FilmPopularityThisWeek&perPage=30",
+        headers={
+            "Authorization": f"Bearer {os.environ["LETTERBOXD_API_KEY"]}",
+        },
+    )
+
+    response.raise_for_status()
+
+    for movie in response.json()["items"]:
+        yield _movie_api.details(next(link["id"] for link in movie["links"] if link["type"] == "tmdb"))
+
+
+def _get_rotten_tomatoes_movies() -> Iterator[dict]:
     response = _session.get(
         "https://editorial.rottentomatoes.com/guide/popular-movies/",
     )
+
+    response.raise_for_status()
+
     body = BeautifulSoup(response.content, features="html.parser")
 
     if "30 Most Popular Movies Right Now" not in body.find("h1").text:
@@ -176,7 +194,25 @@ def _get_rotten_tomatoes_movies() -> Iterator[tuple[str, int, set[str]]]:
             director.text for director in movie.select(".meta-detail:last-child a")
         )
 
-        yield title, year, directors
+        result = _find_movie_by_title_year_directors(title, year, directors)
+
+        if result:
+            yield result
+
+def _get_tmdb_movies() -> Iterator[dict]:
+    page = 1
+    count = 0
+
+    while count < 30:
+        for movie in _trending_api.movie_week(page=page)["results"]:
+            yield movie
+
+            count += 1
+
+            if count == 30:
+                break
+
+        page += 1
 
 
 def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
@@ -191,15 +227,9 @@ def _to_steven_lu_format(movies: list[dict]) -> Iterator[dict]:
 
 
 def _generate() -> list[dict]:
-    movies = filter(
-        None,
-        [
-            _find_movie_by_title_year_directors(title, year, directors)
-            for title, year, directors in _get_rotten_tomatoes_movies()
-        ],
-    )
-
-    movies = filter(_filter_by_release_date, movies)
+    movies = [*_get_rotten_tomatoes_movies(), *_get_letterboxd_movies(), *_get_tmdb_movies()]
+    movies = list({movie["id"]: movie for movie in movies}.values())
+    movies = filter(_filter_by_release_date, _get_rotten_tomatoes_movies())
     movies = _calculate_scores(list(movies))
     movies = sorted(movies, key=lambda movie: movie["score"], reverse=True)
     movies = _to_steven_lu_format(movies[:_MAX_RESULTS])
