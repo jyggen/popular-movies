@@ -12,7 +12,7 @@ from tmdbv3api import Find, Movie, Search
 from _shared import (
     _session,
     _sort_key,
-    _calculate_scores,
+    _calculate_tmdb_scores,
     _get_poster_url,
 )
 
@@ -69,7 +69,12 @@ def _get_moviezine_movies() -> Iterator[str]:
     if "Biotoppen" not in body.select_one("h1").text:
         raise ValueError("Unable to parse MovieZine response.")
 
-    for movie in body.select(".film-item .film-title"):
+    movies = body.select("h2.font-title a")
+
+    if not movies:
+        raise ValueError("Unable to find any movies on Biotoppen.")
+
+    for movie in movies:
         title = movie.text.strip()
         results = _search_api.movies(term=title)
 
@@ -103,7 +108,7 @@ def _generate() -> list[dict]:
     )
 
     movies = filter(_filter_by_release_date, movies)
-    movies = _calculate_scores(list(movies))
+    movies = _calculate_tmdb_scores(list(movies))
     movies = sorted(movies, key=lambda movie: movie["score"], reverse=True)
     movies = _to_steven_lu_format(movies[:_MAX_RESULTS])
 

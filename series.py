@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from tmdbv3api import TV, Search
 
 from _shared import (
-    _calculate_scores,
+    _calculate_tmdb_scores,
     _session,
     _sort_key,
     _get_title_variants,
@@ -253,7 +253,7 @@ def _generate() -> list[dict]:
 
     series = _remove_duplicates(series)
     series = filter(_filter_by_recently_aired, series)
-    series = _calculate_scores(list(series))
+    series = _calculate_tmdb_scores(list(series))
     series = sorted(series, key=lambda show: show["score"], reverse=True)
     series = _to_steven_lu_format(series[:_MAX_RESULTS])
 

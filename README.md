@@ -1,6 +1,6 @@
 # Popular Movies
 
-This tool takes the 30 most popular movies right now from Rotten Tomates and returns a subset based on their popularity on The Movie Database.
+This tool collects the most popular movies right now from Rotten Tomatoes, Letterboxd and The Movie Database, and returns the best of them. Each movie is ranked by its placement across the three lists combined with its Letterboxd rating. Unreleased movies and movies without a Letterboxd rating are skipped.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ This tool takes the 30 most popular movies right now from Rotten Tomates and ret
 ## Usage
 
 ```bash
-env TMDB_API_KEY=<tmdb key> uv run python main.py
+env TMDB_API_KEY=<tmdb key> LETTERBOXD_API_KEY=<letterboxd key> LETTERBOXD_HOSTNAME=<letterboxd api host> uv run python main.py
 ```
 
 ## License

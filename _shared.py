@@ -1,5 +1,6 @@
 import copy
 import math
+import os
 import re
 import requests
 import time
@@ -24,7 +25,45 @@ def _normalize_string(text: str) -> str:
     return text
 
 
+# Films without a Letterboxd rating are dropped: too obscure to recommend.
 def _calculate_scores(items: list[dict]) -> list[dict]:
+    scored = []
+
+    for item in copy.deepcopy(items):
+        response = _session.get(
+            f"https://{os.environ["LETTERBOXD_HOSTNAME"]}/film/tmdb:{item["id"]}",
+            headers={
+                "Authorization": f"Bearer {os.environ["LETTERBOXD_API_KEY"]}",
+            },
+        )
+
+        if response.status_code == 404:
+            continue
+
+        response.raise_for_status()
+
+        film = response.json()
+
+        response = _session.get(
+            f"https://{os.environ["LETTERBOXD_HOSTNAME"]}/film/{film["id"]}/statistics",
+            headers={
+                "Authorization": f"Bearer {os.environ["LETTERBOXD_API_KEY"]}",
+            },
+        )
+
+        response.raise_for_status()
+
+        statistics = response.json()
+
+        if "rating" in statistics:
+            item["score"] = statistics["rating"]
+            scored.append(item)
+
+    return scored
+
+
+# For lists Letterboxd covers poorly: series, and Swedish films.
+def _calculate_tmdb_scores(items: list[dict]) -> list[dict]:
     items = list(copy.deepcopy(items))
 
     if not items:
