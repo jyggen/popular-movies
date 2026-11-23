@@ -9,7 +9,7 @@ requires-python = ">=3.14.1"
 dependencies = [
     "beautifulsoup4>=4.12.3,<5",
     "requests>=2.31.0,<3",
-    "sentry-sdk>=2.0.0,<3",
+    "sentry-sdk>=3,<4",
     "tmdbv3api>=1.9.0,<2",
 ]
 
